@@ -1,0 +1,26 @@
+{
+  "fr-FR-RemyMultilingualNeural": {
+    "duration_s": 25,
+    "wpm": 163.2
+  },
+  "fr-FR-VivienneMultilingualNeural": {
+    "duration_s": 23,
+    "wpm": 177.4
+  },
+  "fr-FR-HenriNeural": {
+    "duration_s": 27,
+    "wpm": 151.1
+  },
+  "fr-FR-DeniseNeural": {
+    "duration_s": 29,
+    "wpm": 140.7
+  },
+  "fr-CH-FabriceNeural": {
+    "duration_s": 26,
+    "wpm": 156.9
+  },
+  "fr-CH-ArianeNeural": {
+    "duration_s": 26,
+    "wpm": 156.9
+  }
+}
