@@ -75,10 +75,10 @@
     "name": "France 24",
     "theme": "geopolitique",
     "url": "https://www.france24.com/fr/rss",
-    "http": 403,
-    "entries": 0,
-    "kept": 0,
-    "ok": false
+    "http": 200,
+    "entries": 24,
+    "kept": 20,
+    "ok": true
   },
   {
     "name": "RFI - Monde",
@@ -202,7 +202,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Vaud+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 33,
+    "entries": 35,
     "kept": 20,
     "ok": true
   },
@@ -211,7 +211,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Lausanne+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 24,
+    "entries": 39,
     "kept": 20,
     "ok": true
   },
@@ -220,7 +220,7 @@
     "theme": "suisse",
     "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 47,
+    "entries": 48,
     "kept": 20,
     "ok": true
   },
