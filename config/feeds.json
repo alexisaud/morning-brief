@@ -3,38 +3,170 @@
   "max_age_hours": 30,
   "max_items_per_feed": 25,
   "feeds": [
-    {"theme": "une", "name": "Le Monde - À la une", "url": "https://www.lemonde.fr/rss/une.xml"},
-    {"theme": "une", "name": "RTS Info - À la une", "url": "https://www.rts.ch/info/?format=rss/news"},
-    {"theme": "une", "name": "franceinfo - Titres", "url": "https://www.francetvinfo.fr/titres.rss"},
-
-    {"theme": "economie", "name": "Le Monde - Économie", "url": "https://www.lemonde.fr/economie/rss_full.xml"},
-    {"theme": "economie", "name": "Le Temps - Économie", "url": "https://www.letemps.ch/economie.rss"},
-    {"theme": "economie", "name": "RTS Info - Économie", "url": "https://www.rts.ch/info/economie/?format=rss/news"},
-    {"theme": "economie", "name": "Les Echos - Économie", "url": "https://services.lesechos.fr/rss/les-echos-economie.xml"},
-
-    {"theme": "geopolitique", "name": "Le Monde - International", "url": "https://www.lemonde.fr/international/rss_full.xml"},
-    {"theme": "geopolitique", "name": "RTS Info - Monde", "url": "https://www.rts.ch/info/monde/?format=rss/news"},
-    {"theme": "geopolitique", "name": "France 24", "url": "https://www.france24.com/fr/rss"},
-    {"theme": "geopolitique", "name": "RFI - Monde", "url": "https://www.rfi.fr/fr/monde/rss"},
-
-    {"theme": "tech", "name": "Le Monde - Pixels", "url": "https://www.lemonde.fr/pixels/rss_full.xml"},
-    {"theme": "tech", "name": "Numerama", "url": "https://www.numerama.com/feed/"},
-    {"theme": "tech", "name": "RTS Info - Sciences-Tech", "url": "https://www.rts.ch/info/sciences-tech/?format=rss/news"},
-    {"theme": "tech", "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
-    {"theme": "tech", "name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
-
-    {"theme": "france", "name": "Le Monde - Politique", "url": "https://www.lemonde.fr/politique/rss_full.xml"},
-    {"theme": "france", "name": "Le Monde - Société", "url": "https://www.lemonde.fr/societe/rss_full.xml"},
-    {"theme": "france", "name": "franceinfo - France", "url": "https://www.francetvinfo.fr/france.rss"},
-
-    {"theme": "suisse", "name": "RTS Info - Suisse", "url": "https://www.rts.ch/info/suisse/?format=rss/news"},
-    {"theme": "suisse", "name": "Le Temps - Suisse", "url": "https://www.letemps.ch/suisse.rss"},
-    {"theme": "suisse", "name": "Swissinfo (FR)", "url": "https://www.swissinfo.ch/fre/rss/accueil"},
-    {"theme": "suisse", "name": "Le Temps - Tous les articles", "url": "https://www.letemps.ch/articles.rss"},
-
-    {"theme": "vaud", "name": "RTS Info - Vaud", "url": "https://www.rts.ch/info/regions/vaud/?format=rss/news"},
-    {"theme": "vaud", "name": "24 heures - Vaud", "url": "https://www.24heures.ch/vaud-regions/rss.html"},
-    {"theme": "vaud", "name": "24 heures - Toutes", "url": "https://partner-feeds.24heures.ch/rss/24heures"},
-    {"theme": "vaud", "name": "Lausanne Cités", "url": "https://www.lausannecites.ch/rss.xml"}
+    {
+      "theme": "une",
+      "name": "Le Monde - À la une",
+      "url": "https://www.lemonde.fr/rss/une.xml"
+    },
+    {
+      "theme": "une",
+      "name": "RTS Info - À la une",
+      "url": "https://www.rts.ch/info/?format=rss/news"
+    },
+    {
+      "theme": "une",
+      "name": "franceinfo - Titres",
+      "url": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "theme": "economie",
+      "name": "Le Monde - Économie",
+      "url": "https://www.lemonde.fr/economie/rss_full.xml"
+    },
+    {
+      "theme": "economie",
+      "name": "Le Temps - Économie",
+      "url": "https://www.letemps.ch/economie.rss"
+    },
+    {
+      "theme": "economie",
+      "name": "RTS Info - Économie",
+      "url": "https://www.rts.ch/info/economie/?format=rss/news"
+    },
+    {
+      "theme": "economie",
+      "name": "Les Echos - Économie",
+      "url": "https://services.lesechos.fr/rss/les-echos-economie.xml",
+      "enabled": false
+    },
+    {
+      "theme": "geopolitique",
+      "name": "Le Monde - International",
+      "url": "https://www.lemonde.fr/international/rss_full.xml"
+    },
+    {
+      "theme": "geopolitique",
+      "name": "RTS Info - Monde",
+      "url": "https://www.rts.ch/info/monde/?format=rss/news"
+    },
+    {
+      "theme": "geopolitique",
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/rss"
+    },
+    {
+      "theme": "geopolitique",
+      "name": "RFI - Monde",
+      "url": "https://www.rfi.fr/fr/monde/rss"
+    },
+    {
+      "theme": "tech",
+      "name": "Le Monde - Pixels",
+      "url": "https://www.lemonde.fr/pixels/rss_full.xml"
+    },
+    {
+      "theme": "tech",
+      "name": "Numerama",
+      "url": "https://www.numerama.com/feed/"
+    },
+    {
+      "theme": "tech",
+      "name": "RTS Info - Sciences-Tech",
+      "url": "https://www.rts.ch/info/sciences-tech/?format=rss/news"
+    },
+    {
+      "theme": "tech",
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "theme": "tech",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "theme": "france",
+      "name": "Le Monde - Politique",
+      "url": "https://www.lemonde.fr/politique/rss_full.xml"
+    },
+    {
+      "theme": "france",
+      "name": "Le Monde - Société",
+      "url": "https://www.lemonde.fr/societe/rss_full.xml"
+    },
+    {
+      "theme": "france",
+      "name": "franceinfo - France",
+      "url": "https://www.francetvinfo.fr/france.rss"
+    },
+    {
+      "theme": "suisse",
+      "name": "RTS Info - Suisse",
+      "url": "https://www.rts.ch/info/suisse/?format=rss/news"
+    },
+    {
+      "theme": "suisse",
+      "name": "Le Temps - Suisse",
+      "url": "https://www.letemps.ch/suisse.rss"
+    },
+    {
+      "theme": "suisse",
+      "name": "Swissinfo (FR)",
+      "url": "https://www.swissinfo.ch/fre/rss/accueil",
+      "enabled": false
+    },
+    {
+      "theme": "suisse",
+      "name": "Le Temps - Tous les articles",
+      "url": "https://www.letemps.ch/articles.rss"
+    },
+    {
+      "theme": "vaud",
+      "name": "RTS Info - Vaud",
+      "url": "https://www.rts.ch/info/regions/vaud/?format=rss/news"
+    },
+    {
+      "theme": "vaud",
+      "name": "24 heures - Vaud",
+      "url": "https://www.24heures.ch/vaud-regions/rss.html",
+      "enabled": false
+    },
+    {
+      "theme": "vaud",
+      "name": "24 heures - Toutes",
+      "url": "https://partner-feeds.24heures.ch/rss/24heures",
+      "enabled": false
+    },
+    {
+      "theme": "vaud",
+      "name": "Lausanne Cités",
+      "url": "https://www.lausannecites.ch/rss.xml",
+      "enabled": false
+    },
+    {
+      "theme": "vaud",
+      "name": "Google News - Vaud",
+      "url": "https://news.google.com/rss/search?q=Vaud+when:1d&hl=fr&gl=CH&ceid=CH:fr"
+    },
+    {
+      "theme": "vaud",
+      "name": "Google News - Lausanne",
+      "url": "https://news.google.com/rss/search?q=Lausanne+when:1d&hl=fr&gl=CH&ceid=CH:fr"
+    },
+    {
+      "theme": "suisse",
+      "name": "Google News - Conseil fédéral",
+      "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr"
+    },
+    {
+      "theme": "economie",
+      "name": "Google News - Économie suisse",
+      "url": "https://news.google.com/rss/search?q=BNS+OR+SMI+OR+%22franc+suisse%22+OR+%22%C3%A9conomie+suisse%22+when:1d&hl=fr&gl=CH&ceid=CH:fr"
+    },
+    {
+      "theme": "economie",
+      "name": "Les Echos - À la une",
+      "url": "https://syndication.lesechos.fr/rss/rss_une.xml"
+    }
   ]
 }
