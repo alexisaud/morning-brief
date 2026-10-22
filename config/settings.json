@@ -1,0 +1,17 @@
+{
+  "voice": "fr-FR-RemyMultilingualNeural",
+  "rate": "+8%",
+  "words_per_minute": 165,
+  "news_max_seconds": 180,
+  "episode_max_seconds": 600,
+  "snow_url": "https://fr.snow-forecast.com/resorts/La-Clusaz/6day/mid",
+  "snow_season": {"from": "11-01", "to": "04-30"},
+  "candidate_voices": [
+    "fr-FR-RemyMultilingualNeural",
+    "fr-FR-VivienneMultilingualNeural",
+    "fr-FR-HenriNeural",
+    "fr-FR-DeniseNeural",
+    "fr-CH-FabriceNeural",
+    "fr-CH-ArianeNeural"
+  ]
+}
