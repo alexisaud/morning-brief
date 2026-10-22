@@ -1,4 +1,20 @@
 {
-  "collected_at": "2026-10-22T20:32:57.180113+00:00",
-  "messages": []
+  "collected_at": "2026-10-22T20:55:39.398623+00:00",
+  "messages": [
+    {
+      "date": "2026-10-22 22:51",
+      "text": "Hello",
+      "reply_to": ""
+    },
+    {
+      "date": "2026-10-22 22:51",
+      "text": "Tu m'entends ?",
+      "reply_to": ""
+    },
+    {
+      "date": "2026-10-22 22:53",
+      "text": "/start",
+      "reply_to": ""
+    }
+  ]
 }

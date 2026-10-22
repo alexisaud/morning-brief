@@ -39,10 +39,8 @@
     "name": "Le Temps - Économie",
     "theme": "economie",
     "url": "https://www.letemps.ch/economie.rss",
-    "http": 200,
-    "entries": 21,
-    "kept": 8,
-    "ok": true
+    "ok": false,
+    "error": "HTTPSConnectionPool(host='www.letemps.ch', port=443): Read timed out. (read timeout=20)"
   },
   {
     "name": "RTS Info - Économie",
@@ -68,7 +66,7 @@
     "url": "https://www.rts.ch/info/monde/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 13,
+    "kept": 14,
     "ok": true
   },
   {
@@ -95,7 +93,7 @@
     "url": "https://www.lemonde.fr/pixels/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 8,
+    "kept": 7,
     "ok": true
   },
   {
@@ -167,7 +165,7 @@
     "url": "https://www.rts.ch/info/suisse/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 11,
+    "kept": 9,
     "ok": true
   },
   {
@@ -220,7 +218,7 @@
     "theme": "suisse",
     "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 48,
+    "entries": 47,
     "kept": 20,
     "ok": true
   },
@@ -229,7 +227,7 @@
     "theme": "economie",
     "url": "https://news.google.com/rss/search?q=BNS+OR+SMI+OR+%22franc+suisse%22+OR+%22%C3%A9conomie+suisse%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 39,
+    "entries": 38,
     "kept": 20,
     "ok": true
   }
