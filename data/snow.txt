@@ -1,5 +1,5 @@
 Source : https://fr.snow-forecast.com/resorts/La-Clusaz/6day/mid
-Récupéré le 2026-10-22 22:25 (Zurich)
+Récupéré le 2026-10-22 22:27 (Zurich)
 
 HTTP 200
 

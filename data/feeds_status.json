@@ -54,15 +54,6 @@
     "ok": true
   },
   {
-    "name": "Les Echos - Économie",
-    "theme": "economie",
-    "url": "https://services.lesechos.fr/rss/les-echos-economie.xml",
-    "http": 403,
-    "entries": 0,
-    "kept": 0,
-    "ok": false
-  },
-  {
     "name": "Le Monde - International",
     "theme": "geopolitique",
     "url": "https://www.lemonde.fr/international/rss_full.xml",
@@ -189,15 +180,6 @@
     "ok": true
   },
   {
-    "name": "Swissinfo (FR)",
-    "theme": "suisse",
-    "url": "https://www.swissinfo.ch/fre/rss/accueil",
-    "http": 200,
-    "entries": 0,
-    "kept": 0,
-    "ok": false
-  },
-  {
     "name": "Le Temps - Tous les articles",
     "theme": "suisse",
     "url": "https://www.letemps.ch/articles.rss",
@@ -216,26 +198,46 @@
     "ok": true
   },
   {
-    "name": "24 heures - Vaud",
+    "name": "Google News - Vaud",
     "theme": "vaud",
-    "url": "https://www.24heures.ch/vaud-regions/rss.html",
-    "http": 404,
-    "entries": 0,
-    "kept": 0,
-    "ok": false
-  },
-  {
-    "name": "24 heures - Toutes",
-    "theme": "vaud",
-    "url": "https://partner-feeds.24heures.ch/rss/24heures",
-    "ok": false,
-    "error": "HTTPSConnectionPool(host='partner-feeds.24heures.ch', port=443): Max retries exceeded with url: /rss/24heures (Caused by NameResolutionError(\"HTTPSConnection(host='partner-feeds.24heures.ch', port=443"
-  },
-  {
-    "name": "Lausanne Cités",
-    "theme": "vaud",
-    "url": "https://www.lausannecites.ch/rss.xml",
+    "url": "https://news.google.com/rss/search?q=Vaud+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
+    "entries": 33,
+    "kept": 25,
+    "ok": true
+  },
+  {
+    "name": "Google News - Lausanne",
+    "theme": "vaud",
+    "url": "https://news.google.com/rss/search?q=Lausanne+when:1d&hl=fr&gl=CH&ceid=CH:fr",
+    "http": 200,
+    "entries": 39,
+    "kept": 25,
+    "ok": true
+  },
+  {
+    "name": "Google News - Conseil fédéral",
+    "theme": "suisse",
+    "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
+    "http": 200,
+    "entries": 44,
+    "kept": 25,
+    "ok": true
+  },
+  {
+    "name": "Google News - Économie suisse",
+    "theme": "economie",
+    "url": "https://news.google.com/rss/search?q=BNS+OR+SMI+OR+%22franc+suisse%22+OR+%22%C3%A9conomie+suisse%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
+    "http": 200,
+    "entries": 39,
+    "kept": 25,
+    "ok": true
+  },
+  {
+    "name": "Les Echos - À la une",
+    "theme": "economie",
+    "url": "https://syndication.lesechos.fr/rss/rss_une.xml",
+    "http": 503,
     "entries": 0,
     "kept": 0,
     "ok": false
