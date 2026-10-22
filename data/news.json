@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-22T20:28:59.713236+00:00",
+  "collected_at": "2026-10-22T20:31:21.960302+00:00",
   "items": [
     {
       "theme": "une",
@@ -8,7 +8,7 @@
       "summary": "Les organisateurs indiquent vouloir \"protéger les visiteurs, exposants, partenaires et personnels ainsi que les œuvres\".",
       "link": "https://www.franceinfo.fr/culture/arts-expos/art-contemporain/manifestations-a-paris-la-foire-d-art-contemporain-art-basel-paris-ecourtee-de-deux-jours_8249266.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 17:30",
-      "coverage": 11,
+      "coverage": 10,
       "n": 1
     },
     {
@@ -18,13 +18,12 @@
       "summary": "L'association de défense des libertés constitutionnelles et le Syndicat de la magistrature qui déposent ce recours reprochent au président de la République ses propos, jeudi, demandant que seules les manifestations organisées par des syndicats soient autorisées dans les prochains jours.",
       "link": "https://www.franceinfo.fr/politique/emmanuel-macron/info-franceinfo-un-recours-depose-devant-le-conseil-d-etat-apres-les-declarations-d-emmanuel-macron-sur-l-interdiction-de-certaines-manifestations_8249314.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 22:16",
-      "coverage": 9,
+      "coverage": 8,
       "n": 2,
       "also": [
-        7,
-        8,
-        109,
-        115
+        14,
+        15,
+        111
       ]
     },
     {
@@ -37,7 +36,7 @@
       "coverage": 8,
       "n": 3,
       "also": [
-        221
+        200
       ]
     },
     {
@@ -47,15 +46,14 @@
       "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la République et du secteur des Halles ».",
       "link": "https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-toutes-les-manifestations-interdites-samedi-a-marseille-et-dans-les-bouches-du-rhone_6795855_3224.html",
       "published": "2026-10-22 18:15",
-      "coverage": 7,
+      "coverage": 6,
       "n": 4,
       "also": [
         17,
-        111,
-        220,
-        223,
-        226,
-        307
+        202,
+        204,
+        205,
+        287
       ]
     },
     {
@@ -68,7 +66,7 @@
       "coverage": 6,
       "n": 5,
       "also": [
-        303
+        283
       ]
     },
     {
@@ -81,41 +79,7 @@
       "coverage": 6,
       "n": 6,
       "also": [
-        344
-      ]
-    },
-    {
-      "theme": "une",
-      "source": "RTS Info - À la une",
-      "title": "Emmanuel Macron restreint les manifestations en France avant un nouveau samedi de mobilisation",
-      "summary": "Le président Emmanuel Macron a encore haussé le ton avant une nouvelle journée de mobilisation samedi en France. Les manifestations seront limitées, voire interdites dans certaines villes. A Paris, le couvre-feu partiel est reconduit chaque nuit jusqu'à lundi.",
-      "link": "https://www.rts.ch/info/monde/2026/article/manifestations-en-france-emmanuel-macron-serre-la-vis-29393512.html?rts_source=rss_t",
-      "published": "2026-10-22 15:39",
-      "coverage": 6,
-      "n": 7
-    },
-    {
-      "theme": "une",
-      "source": "franceinfo - Titres",
-      "title": "\"Il sort complètement de son rôle constitutionnel\" : Emmanuel Macron peut-il décider d'interdire les manifestations qui ne sont pas organisées par des syndicats ?",
-      "summary": "A l'issue d'une réunion avec les services de renseignement jeudi matin, le président de la République a déclaré que seuls les cortèges rassemblés à l'appel d'organisations syndicales seraient autorisés dans les prochains jours. Une déclaration qui fait bondir les juristes interrogés par franceinfo.",
-      "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-sort-completement-de-son-role-constitutionnel-emmanuel-macron-peut-il-decider-d-interdire-les-manifestations-qui-ne-sont-pas-organisees-par-des-syndicats_8249113.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-22 19:11",
-      "coverage": 6,
-      "n": 8
-    },
-    {
-      "theme": "une",
-      "source": "franceinfo - Titres",
-      "title": "\"Perte de temps\", \"des responsabilités minimisées\"... Les oppositions fustigent le gouvernement à l'issue de la réunion organisée à Matignon après les violences du 17 octobre",
-      "summary": "Le Premier ministre \"à aucun moment n'est rentré dans le débat précis sur les revendications des jeunes, sur les revendications du pays, (…) sur la souffrance sociale\", a notamment dénoncé l'insoumis Manuel Bompard.",
-      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html#xtor=RSS-3-[lestitres]",
-      "published": "2026-10-22 18:34",
-      "coverage": 6,
-      "n": 9,
-      "also": [
-        230,
-        251
+        324
       ]
     },
     {
@@ -126,7 +90,7 @@
       "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-famille-du-manifestant-mort-aux-abords-du-cortege-du-17-octobre-a-paris-envisage-de-porter-plainte_8249116.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 17:12",
       "coverage": 6,
-      "n": 10
+      "n": 7
     },
     {
       "theme": "une",
@@ -136,10 +100,10 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/election-presidentielle-au-bresil-chaque-victoire-de-l-extreme-droite-a-l-etranger-banalise-cette-perspective-chez-nous-alertent-des-responsables-politiques-de-gauche-en-france_6798635_3232.html",
       "published": "2026-10-22 17:00",
       "coverage": 5,
-      "n": 11,
+      "n": 8,
       "also": [
-        108,
-        228
+        107,
+        207
       ]
     },
     {
@@ -150,10 +114,10 @@
       "link": "https://www.lemonde.fr/planete/article/2026/10/22/en-chine-un-seisme-de-magnitude-7-frappe-la-region-du-tibet_6798655_3244.html",
       "published": "2026-10-22 19:36",
       "coverage": 5,
-      "n": 12,
+      "n": 9,
       "also": [
         18,
-        112
+        108
       ]
     },
     {
@@ -164,11 +128,11 @@
       "link": "https://www.lemonde.fr/culture/article/2026/10/22/un-tableau-de-monet-vendu-50-millions-d-euros-a-paris-record-pour-des-encheres-d-art-en-france_6798663_3246.html",
       "published": "2026-10-22 20:34",
       "coverage": 5,
-      "n": 13,
+      "n": 10,
       "also": [
-        24,
+        23,
         57,
-        285
+        265
       ]
     },
     {
@@ -179,9 +143,9 @@
       "link": "https://www.rts.ch/info/monde/2026/article/donald-trump-qui-soutient-encore-le-president-americain-29393720.html?rts_source=rss_t",
       "published": "2026-10-22 20:25",
       "coverage": 5,
-      "n": 14,
+      "n": 11,
       "also": [
-        114
+        110
       ]
     },
     {
@@ -192,15 +156,15 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-marco-chiesa-candidat-a-la-succession-de-guy-parmelin-29393719.html?rts_source=rss_t",
       "published": "2026-10-22 18:35",
       "coverage": 5,
-      "n": 15,
+      "n": 12,
       "also": [
-        289,
-        292,
-        296,
-        297,
-        302,
-        304,
-        310
+        269,
+        272,
+        276,
+        277,
+        282,
+        284,
+        289
       ]
     },
     {
@@ -211,20 +175,54 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-pierre-alain-schnegg-vise-la-succession-de-guy-parmelin-29393651.html?rts_source=rss_t",
       "published": "2026-10-22 17:30",
       "coverage": 5,
+      "n": 13,
+      "also": [
+        263,
+        264,
+        266,
+        268,
+        270,
+        271,
+        274,
+        275,
+        278,
+        279,
+        285,
+        288
+      ]
+    },
+    {
+      "theme": "une",
+      "source": "RTS Info - À la une",
+      "title": "Emmanuel Macron restreint les manifestations en France avant un nouveau samedi de mobilisation",
+      "summary": "Le président Emmanuel Macron a encore haussé le ton avant une nouvelle journée de mobilisation samedi en France. Les manifestations seront limitées, voire interdites dans certaines villes. A Paris, le couvre-feu partiel est reconduit chaque nuit jusqu'à lundi.",
+      "link": "https://www.rts.ch/info/monde/2026/article/manifestations-en-france-emmanuel-macron-serre-la-vis-29393512.html?rts_source=rss_t",
+      "published": "2026-10-22 15:39",
+      "coverage": 5,
+      "n": 14
+    },
+    {
+      "theme": "une",
+      "source": "franceinfo - Titres",
+      "title": "\"Il sort complètement de son rôle constitutionnel\" : Emmanuel Macron peut-il décider d'interdire les manifestations qui ne sont pas organisées par des syndicats ?",
+      "summary": "A l'issue d'une réunion avec les services de renseignement jeudi matin, le président de la République a déclaré que seuls les cortèges rassemblés à l'appel d'organisations syndicales seraient autorisés dans les prochains jours. Une déclaration qui fait bondir les juristes interrogés par franceinfo.",
+      "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-sort-completement-de-son-role-constitutionnel-emmanuel-macron-peut-il-decider-d-interdire-les-manifestations-qui-ne-sont-pas-organisees-par-des-syndicats_8249113.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-22 19:11",
+      "coverage": 5,
+      "n": 15
+    },
+    {
+      "theme": "une",
+      "source": "franceinfo - Titres",
+      "title": "\"Perte de temps\", \"des responsabilités minimisées\"... Les oppositions fustigent le gouvernement à l'issue de la réunion organisée à Matignon après les violences du 17 octobre",
+      "summary": "Le Premier ministre \"à aucun moment n'est rentré dans le débat précis sur les revendications des jeunes, sur les revendications du pays, (…) sur la souffrance sociale\", a notamment dénoncé l'insoumis Manuel Bompard.",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-22 18:34",
+      "coverage": 5,
       "n": 16,
       "also": [
-        283,
-        284,
-        286,
-        288,
-        290,
-        291,
-        294,
-        295,
-        298,
-        299,
-        305,
-        308
+        212,
+        231
       ]
     },
     {
@@ -257,23 +255,8 @@
       "coverage": 4,
       "n": 19,
       "also": [
-        29,
-        117
-      ]
-    },
-    {
-      "theme": "une",
-      "source": "Le Monde - À la une",
-      "title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
-      "summary": "Le parquet de Metz, chargé de l’enquête, a confirmé, jeudi, la mort des deux militaires à bord du Mirage 2000 D qui s’est écrasé mardi soir près de Nancy, lors du retour d’un vol d’entraînement. Les circonstances de l’accident restent pour l’heure inconnues.",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
-      "published": "2026-10-22 19:58",
-      "coverage": 4,
-      "n": 20,
-      "also": [
-        120,
-        232,
-        234
+        28,
+        112
       ]
     },
     {
@@ -284,9 +267,9 @@
       "link": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-quinze-departements-en-vigilance-orange-vent-vendredi_6798578_3245.html",
       "published": "2026-10-22 17:23",
       "coverage": 4,
-      "n": 21,
+      "n": 20,
       "also": [
-        231
+        209
       ]
     },
     {
@@ -297,7 +280,7 @@
       "link": "https://www.rts.ch/info/economie/2026/article/l-horloger-zenith-supprime-une-centaine-de-postes-au-locle-29393381.html?rts_source=rss_t",
       "published": "2026-10-22 12:38",
       "coverage": 4,
-      "n": 22,
+      "n": 21,
       "also": [
         60
       ]
@@ -310,7 +293,7 @@
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/vents-jusqu-a-140-km-h-trafic-des-trains-perturbe-que-nous-reserve-la-tempete-austen-qui-va-arriver-par-la-bretagne-a-partir-de-jeudi-soir_8248852.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 18:02",
       "coverage": 4,
-      "n": 23
+      "n": 22
     },
     {
       "theme": "une",
@@ -320,7 +303,7 @@
       "link": "https://www.franceinfo.fr/culture/arts-expos/peinture/un-tableau-du-peintre-impressionniste-claude-monet-iris-vendu-50-millions-d-euros-a-paris-un-record-pour-des-encheres-d-art-en-france_8249497.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 19:37",
       "coverage": 4,
-      "n": 24
+      "n": 23
     },
     {
       "theme": "une",
@@ -330,10 +313,10 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/la-montee-des-extremes-droites-dans-les-etats-membres-de-l-ue-suscite-une-forte-inquietude-au-sein-des-institutions-europeennes_6798659_3210.html",
       "published": "2026-10-22 20:00",
       "coverage": 3,
-      "n": 25,
+      "n": 24,
       "also": [
-        124,
-        237
+        116,
+        215
       ]
     },
     {
@@ -344,23 +327,24 @@
       "link": "https://www.lemonde.fr/penurie-de-carburant/article/2026/10/22/carburant-le-gouvernement-rembourse-les-interets-de-prets-aux-petites-stations-service-pour-accelerer-la-baisse-des-prix-des-novembre_6798648_6145475.html",
       "published": "2026-10-22 18:47",
       "coverage": 3,
-      "n": 26,
+      "n": 25,
       "also": [
-        64,
-        238
+        63,
+        217
       ]
     },
     {
       "theme": "une",
-      "source": "RTS Info - À la une",
-      "title": "Le peuple suisse vote sur une hausse de la TVA pour financer la 13e rente AVS",
-      "summary": "La population suisse vote le 29 novembre sur la solution du Parlement pour financer la 13e rente AVS, qui prévoit un relèvement de la TVA de 0,4 point de pourcentage. Quel que soit le résultat, la 13e rente sera versée dès décembre 2026. Mais en cas de rejet, son financement restera à trouver.",
-      "link": "https://www.rts.ch/info/suisse/2026/article/13e-rente-avs-vote-sur-la-hausse-de-la-tva-le-29-novembre-29392493.html?rts_source=rss_t",
-      "published": "2026-10-22 22:00",
+      "source": "Le Monde - À la une",
+      "title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
+      "summary": "Le parquet de Metz, chargé de l’enquête, a confirmé, jeudi, la mort des deux militaires à bord du Mirage 2000 D qui s’est écrasé mardi soir près de Nancy, lors du retour d’un vol d’entraînement. Les circonstances de l’accident restent pour l’heure inconnues.",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
+      "published": "2026-10-22 19:58",
       "coverage": 3,
-      "n": 27,
+      "n": 26,
       "also": [
-        314
+        216,
+        221
       ]
     },
     {
@@ -371,12 +355,12 @@
       "link": "https://www.rts.ch/info/regions/vaud/2026/article/vaud-manon-schick-critiquee-a-la-protection-des-mineurs-29393674.html?rts_source=rss_t",
       "published": "2026-10-22 19:30",
       "coverage": 3,
-      "n": 28,
+      "n": 27,
       "also": [
-        348,
-        350,
-        352,
-        355
+        328,
+        330,
+        332,
+        335
       ]
     },
     {
@@ -387,7 +371,7 @@
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-se-dit-pret-a-negocier-un-accord-final-avec-l-ukraine-pas-une-treve-courte_8249647.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 22:00",
       "coverage": 3,
-      "n": 29
+      "n": 28
     },
     {
       "theme": "une",
@@ -397,7 +381,7 @@
       "link": "https://www.franceinfo.fr/faits-divers/justice-proces/on-a-plein-d-elements-au-proces-d-un-triple-narchomicide-une-commandante-de-police-defend-la-solidite-de-l-enquete_8249398.html#xtor=RSS-3-[lestitres]",
       "published": "2026-10-22 19:18",
       "coverage": 3,
-      "n": 30
+      "n": 29
     },
     {
       "theme": "une",
@@ -407,9 +391,9 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/nous-amerindiens-existions-bien-avant-la-route-66-depuis-un-millier-de-generations-de-tulsa-a-santa-fe-a-la-rencontre-des-exclus-de-l-histoire_6798641_3210.html",
       "published": "2026-10-22 17:49",
       "coverage": 2,
-      "n": 31,
+      "n": 30,
       "also": [
-        132
+        121
       ]
     },
     {
@@ -420,9 +404,9 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/en-guinee-bissau-un-essai-clinique-sur-des-nourrissons-en-partie-finance-par-les-etats-unis-juge-contraire-a-l-ethique-finalement-interdit_6798645_3210.html",
       "published": "2026-10-22 18:00",
       "coverage": 2,
-      "n": 32,
+      "n": 31,
       "also": [
-        130
+        119
       ]
     },
     {
@@ -433,9 +417,9 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/allemagne-apres-cinquante-ans-d-existence-le-grand-magazine-feministe-emma-tire-sa-reverence_6798646_3210.html",
       "published": "2026-10-22 18:19",
       "coverage": 2,
-      "n": 33,
+      "n": 32,
       "also": [
-        129
+        118
       ]
     },
     {
@@ -446,9 +430,9 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/bobigny-deux-policiers-accuses-de-viols-aggraves-liberes-sous-surveillance-electronique_6798665_3224.html",
       "published": "2026-10-22 21:47",
       "coverage": 2,
-      "n": 34,
+      "n": 33,
       "also": [
-        258
+        238
       ]
     },
     {
@@ -459,9 +443,22 @@
       "link": "https://www.lemonde.fr/pixels/article/2026/10/22/failles-php-pourquoi-ces-vulnerabilites-perturbent-votre-navigation-sur-internet_6798629_4408996.html",
       "published": "2026-10-22 16:26",
       "coverage": 2,
+      "n": 34,
+      "also": [
+        150
+      ]
+    },
+    {
+      "theme": "une",
+      "source": "RTS Info - À la une",
+      "title": "Le peuple suisse vote sur une hausse de la TVA pour financer la 13e rente AVS",
+      "summary": "La population suisse vote le 29 novembre sur la solution du Parlement pour financer la 13e rente AVS, qui prévoit un relèvement de la TVA de 0,4 point de pourcentage. Quel que soit le résultat, la 13e rente sera versée dès décembre 2026. Mais en cas de rejet, son financement restera à trouver.",
+      "link": "https://www.rts.ch/info/suisse/2026/article/13e-rente-avs-vote-sur-la-hausse-de-la-tva-le-29-novembre-29392493.html?rts_source=rss_t",
+      "published": "2026-10-22 22:00",
+      "coverage": 2,
       "n": 35,
       "also": [
-        170
+        298
       ]
     },
     {
@@ -474,7 +471,7 @@
       "coverage": 2,
       "n": 36,
       "also": [
-        134
+        123
       ]
     },
     {
@@ -487,7 +484,7 @@
       "coverage": 2,
       "n": 37,
       "also": [
-        135
+        124
       ]
     },
     {
@@ -500,7 +497,7 @@
       "coverage": 2,
       "n": 38,
       "also": [
-        319
+        299
       ]
     },
     {
@@ -513,7 +510,7 @@
       "coverage": 2,
       "n": 39,
       "also": [
-        320
+        300
       ]
     },
     {
@@ -526,7 +523,7 @@
       "coverage": 2,
       "n": 40,
       "also": [
-        136
+        125
       ]
     },
     {
@@ -539,7 +536,7 @@
       "coverage": 2,
       "n": 41,
       "also": [
-        77
+        78
       ]
     },
     {
@@ -552,7 +549,7 @@
       "coverage": 2,
       "n": 42,
       "also": [
-        137
+        126
       ]
     },
     {
@@ -575,7 +572,7 @@
       "coverage": 2,
       "n": 44,
       "also": [
-        327
+        307
       ]
     },
     {
@@ -718,7 +715,7 @@
       "coverage": 6,
       "n": 58,
       "also": [
-        165
+        145
       ]
     },
     {
@@ -731,7 +728,7 @@
       "coverage": 5,
       "n": 59,
       "also": [
-        306
+        286
       ]
     },
     {
@@ -747,25 +744,12 @@
     {
       "theme": "economie",
       "source": "Google News - Économie suisse",
-      "title": "Les nuitées hôtelières en Suisse en hausse de 5,9 % en septembre, selon une deuxième estimation - Zonebourse",
-      "summary": "Les nuitées hôtelières en Suisse en hausse de 5,9 % en septembre, selon une deuxième estimation Zonebourse",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU3NfeUpLWE16dHlRdUd4RUh2VGZBQ1lEYjNyYkJQc0dtb09qMUJQeXFlNS1TTUVHWjlxaE91NEN3M3hybHgyZTBWclFweGhmMUdSQUJmbl9wUFhkbVBpMnAzSEJKLTdrcGNVSVhvUFJfalowdUI1MXZobVRJNWJCWE1BSk5oTWxSQ3BSa0J3LUJmaVNxTXNfbnpfRExrV0F0aW1FZHc1c0cyR3Zia09YcjVwN1FZYVFBZ0ZQWWdXUzl0b0gtOUpSMEN0T1Mtb3ExUVRyeXB4QmhTNTFaUjJiUVBNQTlvWExa?oc=5",
-      "published": "2026-10-22 14:13",
-      "coverage": 4,
-      "n": 61,
-      "also": [
-        85
-      ]
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
       "title": "Energy prévoit de supprimer jusqu’à 15 postes dans ses radios alémaniques - agefi.com",
       "summary": "Energy prévoit de supprimer jusqu’à 15 postes dans ses radios alémaniques agefi.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmx5dXdIVFB2QnRPcVYyTmlPRlFiUHl6ak1STkRna3NCbnZvSzg0S0ZRU0VnX2JkTjJjSmtnUXVUQ0JPYkdmd0xJTW5vUkVZY1VQSTI4bmRYRUVkdTA5cnJub3I1VWhYeWd3WWJUbG9Vc01BVWVHeVRRbzhvckpCR3AzeW5JeWlFckp6VlRaU1oyZnJLWDZuTUNNYUE5LV9BcjRQOFF4c3RqQ1FqZlhNTEplRQ?oc=5",
       "published": "2026-10-22 13:53",
       "coverage": 4,
-      "n": 62
+      "n": 61
     },
     {
       "theme": "economie",
@@ -775,10 +759,10 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2FBWlkxMnRhVldWbVBSYk5kd21McWpZclRiU01PQlhRZGJaOG1saExrQmpvS2ZadHZNZ0pnc0plYm0tWlNlaGd1d2VaUjNMRmxNNVVuS2hWcHkwMmJqNHQwWmVaQnlybzU5LUhBU1BITVR5V1pKMVJ1WlJ4M29CMWpQVzdCM2tQV0x2cUcxOTRZMEY4MUhfSFlMamZkLUpsNlpzNEhEMFdoSTAxQzIwVFhmYjFPT3M?oc=5",
       "published": "2026-10-22 11:33",
       "coverage": 4,
-      "n": 63,
+      "n": 62,
       "also": [
-        66,
-        318
+        65,
+        297
       ]
     },
     {
@@ -789,7 +773,7 @@
       "link": "https://www.lemonde.fr/penurie-de-carburant/article/2026/10/22/carburant-le-gouvernement-rembourse-les-interets-de-prets-aux-petites-stations-service-pour-accelerer-la-baisse-des-prix-des-novembre_6798648_6145475.html",
       "published": "2026-10-22 18:47",
       "coverage": 3,
-      "n": 64
+      "n": 63
     },
     {
       "theme": "economie",
@@ -799,9 +783,9 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/au-dela-du-cout-de-la-vie-ce-dont-il-etait-question-le-17-octobre-c-est-du-delitement-de-notre-democratie_6798634_3232.html",
       "published": "2026-10-22 17:00",
       "coverage": 3,
-      "n": 65,
+      "n": 64,
       "also": [
-        239
+        218
       ]
     },
     {
@@ -812,7 +796,7 @@
       "link": "https://www.letemps.ch/articles/la-banque-barclays-annonce-supprimer-environ-5000-emplois-qu-elle-remplace-par-l-ia",
       "published": "2026-10-22 16:11",
       "coverage": 3,
-      "n": 66
+      "n": 65
     },
     {
       "theme": "economie",
@@ -822,7 +806,20 @@
       "link": "https://www.letemps.ch/articles/zenith-se-repositionne-sur-le-tres-haut-de-gamme-100-emplois-menaces-au-locle",
       "published": "2026-10-22 10:27",
       "coverage": 3,
-      "n": 67
+      "n": 66
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "Procter & Gamble relève ses prévisions après un trimestre en hausse - agefi.com",
+      "summary": "Procter & Gamble relève ses prévisions après un trimestre en hausse agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0RUSF9JemhSS1doTl94MWpCMkNxVThlMmRDaGFBVFdOanBYaWk0cVRMdE1QSTQ2VTJMVWpsRzY4bkQzNjdsd3d6T1ZMblB6VnhuelQ1R3dYRU9MTzhNc19PdU5yUG9GQ1pVX3NZdWZoRnNpbTZueE5GSE1CSDhrbm1WRm8tV0xveVliQkN1cDNpZVlPaDgzcXB0SFdXY1BZd1BXU0Z3RHpyLUpkS01n?oc=5",
+      "published": "2026-10-22 15:39",
+      "coverage": 3,
+      "n": 67,
+      "also": [
+        83
+      ]
     },
     {
       "theme": "economie",
@@ -834,7 +831,7 @@
       "coverage": 2,
       "n": 68,
       "also": [
-        133
+        122
       ]
     },
     {
@@ -847,7 +844,7 @@
       "coverage": 2,
       "n": 69,
       "also": [
-        255
+        235
       ]
     },
     {
@@ -860,7 +857,7 @@
       "coverage": 2,
       "n": 70,
       "also": [
-        256
+        236
       ]
     },
     {
@@ -873,7 +870,7 @@
       "coverage": 2,
       "n": 71,
       "also": [
-        261
+        241
       ]
     },
     {
@@ -886,7 +883,7 @@
       "coverage": 2,
       "n": 72,
       "also": [
-        171
+        151
       ]
     },
     {
@@ -899,7 +896,7 @@
       "coverage": 2,
       "n": 73,
       "also": [
-        262
+        242
       ]
     },
     {
@@ -912,7 +909,7 @@
       "coverage": 2,
       "n": 74,
       "also": [
-        263
+        243
       ]
     },
     {
@@ -925,8 +922,18 @@
       "coverage": 2,
       "n": 75,
       "also": [
-        325
+        305
       ]
+    },
+    {
+      "theme": "economie",
+      "source": "Le Temps - Économie",
+      "title": "Le fabricant d’ascenseurs Schindler relève ses objectifs après neuf mois de croissance",
+      "summary": "La marge opérationnelle du groupe lucernois atteint 13,5% sur neuf mois, contre 12,5% un an plus tôt. Cette amélioration pousse la direction à revoir à la hausse ses anticipations pour l’ensemble de 2026 Schindler a poursuivi sa croissance après neuf mois, à la faveur d’un solide troisième trimestre. Etoffant ses commandes, alors que les revenus sont restés stables, le fabricant d’ascenseurs et escaliers mécaniques a vu son bénéfice net bondir…",
+      "link": "https://www.letemps.ch/articles/le-fabricant-d-ascenseurs-schindler-releve-ses-objectifs-apres-neuf-mois-de-croissance",
+      "published": "2026-10-22 07:57",
+      "coverage": 2,
+      "n": 76
     },
     {
       "theme": "economie",
@@ -936,9 +943,9 @@
       "link": "https://www.letemps.ch/articles/en-suisse-plus-d-un-locataire-sur-cinq-consacre-plus-d-un-tiers-de-ses-revenus-au-logement",
       "published": "2026-10-22 00:30",
       "coverage": 2,
-      "n": 76,
+      "n": 77,
       "also": [
-        321
+        301
       ]
     },
     {
@@ -949,7 +956,7 @@
       "link": "https://www.rts.ch/info/economie/2026/article/mer-du-nord-londres-valide-le-projet-gazier-jackdaw-29392917.html?rts_source=rss_t",
       "published": "2026-10-22 12:00",
       "coverage": 2,
-      "n": 77
+      "n": 78
     },
     {
       "theme": "economie",
@@ -958,19 +965,6 @@
       "summary": "Bourse suisse: clôture contrastée, le SMI cède 0,03% agefi.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkFvU0diQXFGN3NQU0V4dXZxajhYRGVtVDRGMDV3aFRtYnBMVlBYbnJwUmRfdjFSV19WZ29rS1huTUlZM3J2NDFyTkNvNHotZ091MHBieDhvZ1E5YU5Fcm1ZUkhOSnNnaFAyYVVXOFpoSGZ3X0hrcldSdmNrX0VyWVlVNV9LWmJSbFpUcmVZSDVaZmRpb1I3Z1Y4R1YwSFE?oc=5",
       "published": "2026-10-22 20:32",
-      "coverage": 2,
-      "n": 78,
-      "also": [
-        82
-      ]
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "BNS: pas nécessaire de renforcer la capacité d’intervention en septembre - Allnews",
-      "summary": "BNS: pas nécessaire de renforcer la capacité d’intervention en septembre Allnews",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdk5FSW9CY3BLMVJ2ZTlBXy0zSllsWXNOUjFSbEVIX1FadHdkR05lb2NKTy1tN1ZWNjRkWXJqNXVITFFTY1BYbEZxbEEzZlNJdXk3T1Q0RlNuSW1Pb0V1SmxiNjFZV0ZEMzhTSmVSQ2YybkM2NlJXLVFYNVdmbmtsd2NvbG1qV3RSdzdyN2psbnZTczVoZjF0YWhYUjR5S2JGUDdvSGkyU0tzYjliNTdEZDVHdmdzd25feTROOGhVUEczbUE?oc=5",
-      "published": "2026-10-22 13:16",
       "coverage": 2,
       "n": 79,
       "also": [
@@ -987,18 +981,8 @@
       "coverage": 2,
       "n": 80,
       "also": [
-        87
+        85
       ]
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "BNS: pas nécessaire de renforcer la capacité d'intervention en septembre - TradingView",
-      "summary": "BNS: pas nécessaire de renforcer la capacité d'intervention en septembre TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5teWt6aG1pR0U1UXZnWmNjcUZIX1UtOFZIdURnVUpyVHN1aXRFU055UzIzU3VWaERTRDFmWmhfbkEwaFlhZmYyVF9SUmFKNzFBdVZRbUVUN3Mzd3VaZTVFMzFFNA?oc=5",
-      "published": "2026-10-22 12:28",
-      "coverage": 2,
-      "n": 81
     },
     {
       "theme": "economie",
@@ -1008,40 +992,17 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1cwTGQ5MUtiVTRTUTB6YkpkaWxQVW8tMGFSczNsZXFBN09salB4SE5tYTJOQk5WcjVKU1VXZExodXVwWS1ONFQ3dkxQV1lMdW0tY0VYNS01YTVreXdaQi1RdmxhdnU2OFBmVFFjcFJiS3lKaGJZQ1Q3RkdaTzdscFl3em9oajg1NndLbnRXQXRUaXdwX1o5ZnlLSzlnUXBmNlJvX1JVNWtONDVh?oc=5",
       "published": "2026-10-22 11:33",
       "coverage": 2,
+      "n": 81
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "Nestlé: le défi des volumes et des marges en 2027 - agefi.com",
+      "summary": "Nestlé: le défi des volumes et des marges en 2027 agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDY5S3poVjRWUEVKY245bFBlYnNiMTVENkdHcFRxRHJQZEVoZklkOURJUVlmZ1IwWFNqRVYySmFNTUNHanNNRzZWdDhuWnFNTWJQSFJFcXZyVHhoZ1pOMVhWWDhnRF9MOGw4X0RTNGZ3dk85QzZ2N3hWeGlzdjNUc0p1SGNpcVduLUVNMjRHaw?oc=5",
+      "published": "2026-10-22 17:48",
+      "coverage": 2,
       "n": 82
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "Bourse Zurich: dans le rouge malgré Nestlé et Roche - Zonebourse",
-      "summary": "Bourse Zurich: dans le rouge malgré Nestlé et Roche Zonebourse",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3NHRHZCQl9Nb0MyZXpldV8xN2F6aXRXYTJ3VWF2c1RpVVhCNGJmRV8xaV82LWQ0RmdwMVVFUWE4ai1TeC05WW1sS3BMNFJmVHNFcFE4SXJ1TzRCZG9Fbkg1dFB1Y0pGWWVVdTBQY1NCTTRyb0FHdkt4R3hPdlpQSHVUX0dBUkRZbUdGMUxhbHpvOFRiSHI1X01UYmdxdW43VDJJOGRHYVl1Q3ZQMDV5dw?oc=5",
-      "published": "2026-10-22 08:47",
-      "coverage": 2,
-      "n": 83,
-      "also": [
-        84
-      ]
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "Bourse Zurich: dans le rouge malgré Nestlé - Zonebourse",
-      "summary": "Bourse Zurich: dans le rouge malgré Nestlé Zonebourse",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUlhsU09yd280ZHRIT3lBdXJ5TkNXRTFZT0xPeXpnMjI3QTZackQyQlhvWElpYjBVbW1hUjJfV2JDRVJGWTR4a3lrWWJYU051YUpLTndqS3lhOFlOa3g5T1BsWmthSXlPY3JQTWZYLWpFNGs4M2xNbHlzOTl5Y3BGT1VvSDZleDZacVhDUWNmX3A1TFFfcTBMVDZXbzh3eWlxQ1A1MA?oc=5",
-      "published": "2026-10-22 09:40",
-      "coverage": 2,
-      "n": 84
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "Les nuitées hôtelières progressent de 5,9% en septembre - agefi.com",
-      "summary": "Les nuitées hôtelières progressent de 5,9% en septembre agefi.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXFROUlULTNrN0VOVlF2WlRVX0E0VEl5bXEyUXE3bWJxNC1BelFhejlpSzc5QkVXQ1JOcXlHT193Ul82XzlCOUtGdHlaWWlReDRGR0ZGeFp6RHFhZkR3dVhtZjVDb1NYendaZ3hjSmpvUHVwOGFzc19FZVJWX3JocnR6SzhLUnBOeEwwU3k4WFhjR0dVX1ZzQ3NQSjk?oc=5",
-      "published": "2026-10-22 14:54",
-      "coverage": 2,
-      "n": 85
     },
     {
       "theme": "economie",
@@ -1051,7 +1012,17 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3k5RENLT0M4ZFI1WHo1N1E3dVFIb2pwUWtGUGFaS0x2YUI5TGI3UDlEOEt1LWlkVE5sUkN2UTJXZGFESVVLVkNBUElaaWJ6NWVrN3lZYV9UZzl5aVA0UnpjcXc2REtDQ294TG9MVE1TQVhCUkRqR2hCcVpLc3Fuc1NkUHhNaFoyZGRQUHB6eFB3RWc?oc=5",
       "published": "2026-10-22 11:20",
       "coverage": 2,
-      "n": 86
+      "n": 83
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "Roche dépasse les attentes et prépare ses lancements de 2027 - agefi.com",
+      "summary": "Roche dépasse les attentes et prépare ses lancements de 2027 agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHNmbW5vd3Q3WmlHS1lBNV9FRmN1NzhQWU1tcFFVRVpKV2txUXpkMkxGd1dxSXZDTFFGRFFDd2hXZmU2TWtfTzNTQUNrUkJiam80cHhfLVJxY0k5b1dmNWtjdGFwVEtOUk9rdFlISnozVEVyWVZnZllHZUYyQktVVHA0YmpBNV9JU0hla2xxc1JlNWNYMmstWlV6R0lHY25TNDFEX09VMA?oc=5",
+      "published": "2026-10-22 17:55",
+      "coverage": 2,
+      "n": 84
     },
     {
       "theme": "economie",
@@ -1061,27 +1032,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2RpNVZWV296cDZzcGZOa19QLUdzOXhDaWlLMk9DdURPY2MtRXQ3NzFlal9MazVzckZSNTFITmpvUzAyOEd5XzZ5TGVvUHFabVdGcFpfTXlNVW9aeVktdVZ0NHZlc2I0TjdjWXpCWXV4dWVDZXpPdnRkYkJubVpZRjdrVFhDdEg3NF9mLVVxMEk5d3pCT296cmtVbw?oc=5",
       "published": "2026-10-22 10:00",
       "coverage": 2,
-      "n": 87
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "L’indice phare suisse évolue peu dans un contexte de publications de résultats ; Nestlé déconsolide ses activités russes - Zonebourse",
-      "summary": "L’indice phare suisse évolue peu dans un contexte de publications de résultats ; Nestlé déconsolide ses activités russes Zonebourse",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVHVXY3R4S2tfX25PU3VyRHVEa0M4OFg0TEJBUWN6blB3dWVaWjdFTlVYVWZkMnF2MHc3a0V5VTFWQWhFTG03NlJrU3lrT1ZRaFlqdFRIM1hQVFk5UlVaZTBMWTV5YmZzYWlJRWxfdUVkLThmUk9sTGxaVHIxd1RjalFBVVBDQkQwMGRoeEFoT2lIamFXMENFNEMxX0I1SWhSVWpyVEpYdkI2aTZUUlhhc0VUVHR6ZFF5QkN3MFZQeWlqSE9nVnRBckdwUU5walFkYnFrYm40SmJmRXQ3U25Dby1BZmxmNDZ5WFg0ajR2VQ?oc=5",
-      "published": "2026-10-22 17:57",
-      "coverage": 2,
-      "n": 88
-    },
-    {
-      "theme": "economie",
-      "source": "Google News - Économie suisse",
-      "title": "Nestlé grimpe en Bourse, porté par l'accélération de sa croissance au troisième trimestre - TradingView",
-      "summary": "Nestlé grimpe en Bourse, porté par l'accélération de sa croissance au troisième trimestre TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ydWo4bklrb1UyMlZTcmtTSGxaV19ZN1ZKbk9XNXNXRV9LM21idGNOQ29uSHdKc05pMzVDR1k5ZzhXcDI2TjJVYVMwUndvbWdxYl9hS1NXcFdaY0tvUV94S3dB?oc=5",
-      "published": "2026-10-22 11:47",
-      "coverage": 2,
-      "n": 89
+      "n": 85
     },
     {
       "theme": "economie",
@@ -1091,7 +1042,7 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/la-politique-monetaire-de-la-bce-a-fabrique-de-la-dette-publique-elle-peut-aussi-en-effacer_6798617_3232.html",
       "published": "2026-10-22 14:00",
       "coverage": 1,
-      "n": 90
+      "n": 86
     },
     {
       "theme": "economie",
@@ -1101,7 +1052,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/epargnants-et-actionnaires-de-tudigo-premieres-victimes-de-sa-liquidation_6798615_3234.html",
       "published": "2026-10-22 14:00",
       "coverage": 1,
-      "n": 91
+      "n": 87
     },
     {
       "theme": "economie",
@@ -1111,7 +1062,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/en-chine-l-ia-produit-desormais-90-des-miniseries-pour-smartphones-et-fait-plonger-les-revenus-des-createurs_6798594_3234.html",
       "published": "2026-10-22 11:00",
       "coverage": 1,
-      "n": 92
+      "n": 88
     },
     {
       "theme": "economie",
@@ -1121,7 +1072,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/c-est-une-tempete-parfaite-qui-semble-se-former-au-dessus-de-l-economie-francaise_6798588_3234.html",
       "published": "2026-10-22 10:16",
       "coverage": 1,
-      "n": 93
+      "n": 89
     },
     {
       "theme": "economie",
@@ -1131,7 +1082,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/pour-les-syndicats-la-reponse-de-matignon-n-est-pas-a-la-hauteur-la-cgt-appelle-a-generaliser-la-greve-du-5-novembre_6798584_823448.html",
       "published": "2026-10-22 09:00",
       "coverage": 1,
-      "n": 94
+      "n": 90
     },
     {
       "theme": "economie",
@@ -1141,7 +1092,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/le-17-octobre-une-onde-de-choc-chez-les-prefets-aussi-c-est-les-tenebres-qu-ils-disaient-en-effet-nous-y-sommes_6798581_823448.html",
       "published": "2026-10-22 08:04",
       "coverage": 1,
-      "n": 95
+      "n": 91
     },
     {
       "theme": "economie",
@@ -1151,7 +1102,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/nicolas-dufrene-l-homme-qui-a-souffle-l-idee-de-l-annulation-de-la-dette-a-jean-luc-melenchon_6798567_3234.html",
       "published": "2026-10-22 06:00",
       "coverage": 1,
-      "n": 96
+      "n": 92
     },
     {
       "theme": "economie",
@@ -1161,7 +1112,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/xavier-piechaczyk-pdg-de-la-ratp-il-faut-aller-au-dela-de-notre-role-historique-d-operateur-de-transports_6798562_3234.html",
       "published": "2026-10-22 06:00",
       "coverage": 1,
-      "n": 97
+      "n": 93
     },
     {
       "theme": "economie",
@@ -1171,7 +1122,7 @@
       "link": "https://www.lemonde.fr/campus/article/2026/10/22/louis-29-ans-dans-la-tech-j-ai-decouvert-le-cynisme-du-monde-de-l-entreprise_6798558_4401467.html",
       "published": "2026-10-22 06:00",
       "coverage": 1,
-      "n": 98
+      "n": 94
     },
     {
       "theme": "economie",
@@ -1181,7 +1132,7 @@
       "link": "https://www.letemps.ch/articles/les-domaines-skiables-suisses-augmentent-leurs-tarifs-de-2-3-pour-la-saison-2026-2027",
       "published": "2026-10-22 12:04",
       "coverage": 1,
-      "n": 99
+      "n": 95
     },
     {
       "theme": "economie",
@@ -1191,17 +1142,27 @@
       "link": "https://www.letemps.ch/articles/nestle-surprend-les-analystes-et-reprend-des-couleurs-malgre-le-dossier-russe",
       "published": "2026-10-22 08:13",
       "coverage": 1,
-      "n": 100
+      "n": 96
     },
     {
       "theme": "economie",
-      "source": "Le Temps - Économie",
-      "title": "Le fabricant d’ascenseurs Schindler relève ses objectifs après neuf mois de croissance",
-      "summary": "La marge opérationnelle du groupe lucernois atteint 13,5% sur neuf mois, contre 12,5% un an plus tôt. Cette amélioration pousse la direction à revoir à la hausse ses anticipations pour l’ensemble de 2026 Schindler a poursuivi sa croissance après neuf mois, à la faveur d’un solide troisième trimestre. Etoffant ses commandes, alors que les revenus sont restés stables, le fabricant d’ascenseurs et escaliers mécaniques a vu son bénéfice net bondir…",
-      "link": "https://www.letemps.ch/articles/le-fabricant-d-ascenseurs-schindler-releve-ses-objectifs-apres-neuf-mois-de-croissance",
-      "published": "2026-10-22 07:57",
+      "source": "Google News - Économie suisse",
+      "title": "BNS: pas nécessaire de renforcer la capacité d’intervention en septembre - Allnews",
+      "summary": "BNS: pas nécessaire de renforcer la capacité d’intervention en septembre Allnews",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdk5FSW9CY3BLMVJ2ZTlBXy0zSllsWXNOUjFSbEVIX1FadHdkR05lb2NKTy1tN1ZWNjRkWXJqNXVITFFTY1BYbEZxbEEzZlNJdXk3T1Q0RlNuSW1Pb0V1SmxiNjFZV0ZEMzhTSmVSQ2YybkM2NlJXLVFYNVdmbmtsd2NvbG1qV3RSdzdyN2psbnZTczVoZjF0YWhYUjR5S2JGUDdvSGkyU0tzYjliNTdEZDVHdmdzd25feTROOGhVUEczbUE?oc=5",
+      "published": "2026-10-22 13:16",
       "coverage": 1,
-      "n": 101
+      "n": 97
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "Changements climatiques à l’étranger - Bundesamt für Umwelt BAFU",
+      "summary": "Changements climatiques à l’étranger Bundesamt für Umwelt BAFU",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ZUdJRTU1TlNKaTRLZU5lUzZrZlM0a3dnVnF6eTZqcVlQblJPWlBlYkhVQUJkdS1vdV9JNTYtSE5EUDNBT1VFc3RQWVhFZ1d5RTI3dWxsNHdvM1FnRW11bGZEb0hHRmxzbzkwZg?oc=5",
+      "published": "2026-10-22 17:02",
+      "coverage": 1,
+      "n": 98
     },
     {
       "theme": "economie",
@@ -1211,7 +1172,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1hkNVd2d0VZWWV0c3VnTnRxZlhieXNnUE9PLVdSbnltTW5KT3BqakgxbnpLaHBONGp3YmlFTzFWWHdEYTIyQlJFWnVfcjhzTm1QcmhMNElPLWdicG9LY0doQ3I4NmdpTnZDTWNINlhoVGMyaDBndnA5emJTcjMxRlpxY0RoOWZ3WGVfRDlLeExSbXZGNm1UUmNaMUlQUzQ?oc=5",
       "published": "2026-10-22 10:00",
       "coverage": 1,
-      "n": 102
+      "n": 99
     },
     {
       "theme": "economie",
@@ -1221,7 +1182,27 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5eDlzdkJnZk0zYkhHbkFyWWZCa3BTOFpHc0N5S3V1aUM0Z0NxVWpLU20wZUFGR2M2WmpsRHcwblZEaWhHT19aRzFrbHN6VEJvQ1ZpUkJwSGFaY0NmZmx0dEJPWks?oc=5",
       "published": "2026-10-22 19:50",
       "coverage": 1,
-      "n": 103
+      "n": 100
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "La conjoncture poursuit son amélioration - agefi.com",
+      "summary": "La conjoncture poursuit son amélioration agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUx1elNYVGVWSjFvci11am1MeHZaanI3QTBNX1c3U05yUlRtZUJMclJBTHBhOFlZam1DVWFqY0JDNGVrdFlhWDF0bzNJdWx3UDdjb3FkVnpuaFZ0akhNdmtCYk9BNFpnVDVWWmxETU1wbk9PTnNpMlZ3ektJZmlNV0VDd25NWERFQjln?oc=5",
+      "published": "2026-10-22 15:00",
+      "coverage": 1,
+      "n": 101
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "Transports ’45: Encore quelques trains et routes de retard - agefi.com",
+      "summary": "Transports ’45: Encore quelques trains et routes de retard agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGdKSFMzazZCMVBaMERiWm5TaDU0bENHOHhuRV9yUUU0czdUN2FWQVRydmVqX0FZWnI3MlQ2RTZNb0Jqc05ySXg5aVVBUUpqUHhSQlJ1TXpJV01KNjhjeHZuX2xPUDhHVk9ldmstS0ktamN4QThSajFBWUJxLVc0WWt0dE5KNnM?oc=5",
+      "published": "2026-10-22 15:00",
+      "coverage": 1,
+      "n": 102
     },
     {
       "theme": "economie",
@@ -1231,41 +1212,37 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXpaRHltTWt1d1pVbVJrdlctUklzc1QyRkhBOTVueWotUl8yUmxYT2l2N0Z5d1BhNkhqSEJXNWZjcU8tV1kwSk40T3BveXRMbHNWZ3dCTWU1WGdjcUxoZkJLY2VmVVpIMTQyQ2lKcTRzQ04yM3BNT25XU0tPUldWNDFJbjB5X2RMTUg4YTVqNjZSNzVaX2ZKNDR4Y0RmckhZQlZNSmd2eHVZOVU?oc=5",
       "published": "2026-10-22 15:53",
       "coverage": 1,
+      "n": 103
+    },
+    {
+      "theme": "economie",
+      "source": "Google News - Économie suisse",
+      "title": "Les nuitées hôtelières progressent de 5,9% en septembre - agefi.com",
+      "summary": "Les nuitées hôtelières progressent de 5,9% en septembre agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXFROUlULTNrN0VOVlF2WlRVX0E0VEl5bXEyUXE3bWJxNC1BelFhejlpSzc5QkVXQ1JOcXlHT193Ul82XzlCOUtGdHlaWWlReDRGR0ZGeFp6RHFhZkR3dVhtZjVDb1NYendaZ3hjSmpvUHVwOGFzc19FZVJWX3JocnR6SzhLUnBOeEwwU3k4WFhjR0dVX1ZzQ3NQSjk?oc=5",
+      "published": "2026-10-22 14:54",
+      "coverage": 1,
       "n": 104
     },
     {
       "theme": "economie",
       "source": "Google News - Économie suisse",
-      "title": "Kathrin Wehrli nommée CEO de Valiant - agefi.com",
-      "summary": "Kathrin Wehrli nommée CEO de Valiant agefi.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVZFazFkUGlMcWZNY3hRZGFrRWJqX2c2ZHJySkhBcTVjT3lBaEVlN2RqNHFuVkdTbmYwV3pVeXFTQXEwTmlVTDY1Tko0VDFNSFJlNkNpTjAtYmxBcEp4TGRYS0JnbWpOR0s2TDZLY2JqRjZZd0tjNGN2YlhqWVZtdlBiM0k?oc=5",
-      "published": "2026-10-22 08:15",
+      "title": "La France préfère les coupables aux solutions - agefi.com",
+      "summary": "La France préfère les coupables aux solutions agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHBYTUJ4OVJmYXE1Zmphb21BVWhWSEh6akpCdW1QOHNrNzJFWEhkbkhTVUJuOENFZ0s2Sy0yR01PSDcyNUZPekdsTXdYRG1sblk3SVpzYWRQMW5uMG9oOGFlaU9SamxfVzBEbzhxOE9KajFTc2N0d1BnVXRuaHctM1U3TWF0WGp3Qlhv?oc=5",
+      "published": "2026-10-22 18:30",
       "coverage": 1,
       "n": 105
     },
     {
       "theme": "economie",
       "source": "Google News - Économie suisse",
-      "title": "EMS-Chemie vise un chiffre d’affaires stable en 2026 - agefi.com",
-      "summary": "EMS-Chemie vise un chiffre d’affaires stable en 2026 agefi.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGNTYW5URUx4aGU4VFFvLWpxN3I0VzdYNVdDbkw1eTNJS3R6a05oYV8zSGhJY1JabkNjcFBfd05sMDZ6ZnBRandGVFZLZzhCUF9EazdreHJKeVM3Z2hfNVlST2tnZURtbmJLS1NfTG1LcXBTYWpJRHNsQXFjczNyRGl3cnh2NUxsaU5KWXBKTEU4QkNHV0Y0?oc=5",
-      "published": "2026-10-22 07:11",
+      "title": "UBS prend une participation de 4,8% dans l’indien 360 One Wam - agefi.com",
+      "summary": "UBS prend une participation de 4,8% dans l’indien 360 One Wam agefi.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0lFTDZvaV9GM0ZydnhrSTlEQmlCZWRVZHJGQmRjd0dwV0h5WFZGZE0zb09Uczhld1hSNzNlYWFYYVh6X0NPREk3aDdEek44eklHLVNJUTVINzllNlhaMlRlM2NtQzR4emZFMm81cV9yVFhVSXVTSVJla2FOazJ0dnQyV1B6Z0d4VkN5UTVqaUtBOGlpblpqcWl2XzJ2Ujcy?oc=5",
+      "published": "2026-10-22 10:32",
       "coverage": 1,
       "n": 106
-    },
-    {
-      "theme": "geopolitique",
-      "source": "Le Monde - International",
-      "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
-      "summary": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
-      "link": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
-      "published": "2026-10-22 17:10",
-      "coverage": 6,
-      "n": 107,
-      "also": [
-        225,
-        227
-      ]
     },
     {
       "theme": "geopolitique",
@@ -1275,37 +1252,7 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/election-presidentielle-au-bresil-chaque-victoire-de-l-extreme-droite-a-l-etranger-banalise-cette-perspective-chez-nous-alertent-des-responsables-politiques-de-gauche-en-france_6798635_3232.html",
       "published": "2026-10-22 17:00",
       "coverage": 6,
-      "n": 108
-    },
-    {
-      "theme": "geopolitique",
-      "source": "RTS Info - Monde",
-      "title": "Emmanuel Macron restreint les manifestations en France avant un nouveau samedi de mobilisation",
-      "summary": "Le président Emmanuel Macron a encore haussé le ton avant une nouvelle journée de mobilisation samedi en France. Les manifestations seront limitées, voire interdites dans certaines villes. A Paris, le couvre-feu partiel est reconduit chaque nuit jusqu'à lundi.",
-      "link": "https://www.rts.ch/info/monde/2026/article/manifestations-en-france-emmanuel-macron-serre-la-vis-29393512.html?rts_source=rss_t",
-      "published": "2026-10-22 15:39",
-      "coverage": 6,
-      "n": 109
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Manifestations en France : Bitchat, la messagerie sans réseau qui a le vent en poupe",
-      "summary": "En pleine mobilisation lycéenne et pour le pouvoir d'achat en France, Bitchat mesh se classait n°1, jeudi, des applications sur l'App Store dans la catégorie \"réseaux sociaux\". Lancée en juillet 2025 par le cofondateur de Twitter, cette messagerie décentralisée fonctionne avec le Bluetooth et sans Internet. Pratique quand le réseau est saturé, comme cela peut arriver dans une manifestation.",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261022-manifestations-france-bitchat-messagerie-sans-r%C3%A9seau-vent-poupe",
-      "published": "2026-10-22 20:58",
-      "coverage": 6,
-      "n": 110
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "🔴 En direct : toutes les manifestations seront interdites à Marseille samedi",
-      "summary": "",
-      "link": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
-      "published": "2026-10-22 17:48",
-      "coverage": 6,
-      "n": 111
+      "n": 107
     },
     {
       "theme": "geopolitique",
@@ -1315,19 +1262,20 @@
       "link": "https://www.lemonde.fr/planete/article/2026/10/22/en-chine-un-seisme-de-magnitude-7-frappe-la-region-du-tibet_6798655_3244.html",
       "published": "2026-10-22 19:36",
       "coverage": 5,
-      "n": 112
+      "n": 108
     },
     {
       "theme": "geopolitique",
       "source": "Le Monde - International",
-      "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
-      "summary": "Au Nigeria, les autorités ont annoncé, mardi, le premier cas de maladie à virus d’Ebola, une diplomate arrivée à Abuja à bord d’un vol en provenance d’Ouganda. Elles ont également identifié 44 cas contacts.",
-      "link": "https://www.lemonde.fr/afrique/article/2026/10/22/ebola-l-afrique-confrontee-a-une-situation-plus-complexe-apres-la-propagation-du-virus-au-nigeria-s-alarme-le-directeur-regional-de-l-oms_6798625_3212.html",
-      "published": "2026-10-22 15:49",
+      "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
+      "summary": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
+      "link": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
+      "published": "2026-10-22 17:10",
       "coverage": 5,
-      "n": 113,
+      "n": 109,
       "also": [
-        229
+        206,
+        208
       ]
     },
     {
@@ -1338,27 +1286,17 @@
       "link": "https://www.rts.ch/info/monde/2026/article/donald-trump-qui-soutient-encore-le-president-americain-29393720.html?rts_source=rss_t",
       "published": "2026-10-22 20:25",
       "coverage": 5,
-      "n": 114
+      "n": 110
     },
     {
       "theme": "geopolitique",
-      "source": "France 24",
-      "title": "France : Macron annonce l'interdiction des manifestations \"sans légitimité\"",
-      "summary": "Après une série d'interdictions de manifestations, Emmanuel Macron a annoncé jeudi, à l'issue d'un conseil de sécurité, que seules celles organisées par des syndicats seraient autorisées samedi 24 octobre.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-france-macron-annonce-l-interdiction-des-manifestations-sans-l%C3%A9gitimit%C3%A9",
-      "published": "2026-10-22 17:27",
+      "source": "RTS Info - Monde",
+      "title": "Emmanuel Macron restreint les manifestations en France avant un nouveau samedi de mobilisation",
+      "summary": "Le président Emmanuel Macron a encore haussé le ton avant une nouvelle journée de mobilisation samedi en France. Les manifestations seront limitées, voire interdites dans certaines villes. A Paris, le couvre-feu partiel est reconduit chaque nuit jusqu'à lundi.",
+      "link": "https://www.rts.ch/info/monde/2026/article/manifestations-en-france-emmanuel-macron-serre-la-vis-29393512.html?rts_source=rss_t",
+      "published": "2026-10-22 15:39",
       "coverage": 5,
-      "n": 115
-    },
-    {
-      "theme": "geopolitique",
-      "source": "RFI - Monde",
-      "title": "Guerre en Ukraine: vers un «nouveau Yalta» entre Moscou, Pékin et Washington?",
-      "summary": "La Russie se dit prête à la reprise des négociations trilatérales avec les États-Unis et l’Ukraine après les élections de mi-mandat aux États-Unis. L’annonce a été faite à l’issue d’une réunion, ce mercredi, entre le président russe et l’émissaire états-unien Steve Witkoff. Autre sujet abordé par les deux hommes : une rencontre trilatérale entre les présidents russe Vladimir Poutine, états-unien Donald Trump et chinois Xi Jinping. Le Kremlin dit…",
-      "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261022-guerre-en-ukraine-vers-un-nouveau-yalta-entre-moscou-p%C3%A9kin-et-washington",
-      "published": "2026-10-22 13:23",
-      "coverage": 5,
-      "n": 116
+      "n": 111
     },
     {
       "theme": "geopolitique",
@@ -1368,7 +1306,7 @@
       "link": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-vladimir-poutine-se-dit-pret-a-reprendre-les-negociations-avec-l-ukraine-et-les-etats-unis-en-vue-d-un-accord-final_6796922_3210.html",
       "published": "2026-10-22 21:58",
       "coverage": 4,
-      "n": 117
+      "n": 112
     },
     {
       "theme": "geopolitique",
@@ -1378,57 +1316,30 @@
       "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/22/au-bresil-la-sainte-noire-notre-dame-d-aparecida-consacree-enjeu-de-l-election-presidentielle_6798651_6038514.html",
       "published": "2026-10-22 19:00",
       "coverage": 4,
-      "n": 118
+      "n": 113
     },
     {
       "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Nigera : l'OMS en alerte après un premier cas d'Ebola",
-      "summary": "L'Organisation mondiale de la santé (OMS) a prévenu jeudi que l'Afrique était confrontée à une épidémie d'Ebola \"plus complexe\", car le virus a voyagé d'Afrique de l'Est jusqu'au Nigeria, qui a signalé le premier cas dans l'ouest du continent.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-nigera-l-oms-en-alerte-apr%C3%A8s-un-premier-cas-d-ebola",
-      "published": "2026-10-22 19:38",
+      "source": "Le Monde - International",
+      "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
+      "summary": "Au Nigeria, les autorités ont annoncé, mardi, le premier cas de maladie à virus d’Ebola, une diplomate arrivée à Abuja à bord d’un vol en provenance d’Ouganda. Elles ont également identifié 44 cas contacts.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/10/22/ebola-l-afrique-confrontee-a-une-situation-plus-complexe-apres-la-propagation-du-virus-au-nigeria-s-alarme-le-directeur-regional-de-l-oms_6798625_3212.html",
+      "published": "2026-10-22 15:49",
       "coverage": 4,
-      "n": 119
+      "n": 114,
+      "also": [
+        211
+      ]
     },
     {
       "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Accident du Mirage près de Nancy : la justice confirme le décès des deux occupants",
-      "summary": "Le parquet de Metz a confirmé jeudi le décès du deuxième occupant du Mirage 2000D. L'appareil, qui effectuait une mission d'entraînement, s'est écrasé mardi soir près de Nancy. Le pilote, âgé de 27 ans, et son navigateur, âgé de 44 ans, n'ont pas eu le temps de s'éjecter avant de toucher le sol.",
-      "link": "https://www.france24.com/fr/france/20261022-accident-mirage-pr%C3%A8s-nancy-justice-confirme-d%C3%A9c%C3%A8s-deux-occupants",
-      "published": "2026-10-22 19:30",
+      "source": "RFI - Monde",
+      "title": "Guerre en Ukraine: vers un «nouveau Yalta» entre Moscou, Pékin et Washington?",
+      "summary": "La Russie se dit prête à la reprise des négociations trilatérales avec les États-Unis et l’Ukraine après les élections de mi-mandat aux États-Unis. L’annonce a été faite à l’issue d’une réunion, ce mercredi, entre le président russe et l’émissaire états-unien Steve Witkoff. Autre sujet abordé par les deux hommes : une rencontre trilatérale entre les présidents russe Vladimir Poutine, états-unien Donald Trump et chinois Xi Jinping. Le Kremlin dit…",
+      "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261022-guerre-en-ukraine-vers-un-nouveau-yalta-entre-moscou-p%C3%A9kin-et-washington",
+      "published": "2026-10-22 13:23",
       "coverage": 4,
-      "n": 120
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Ukraine : Kharkiv à nouveau ciblée par la Russie",
-      "summary": "Mélina Huet, Assiya Hamza et Gulliver Cragg étaient à #Kharkiv hier et aujourd'hui pour filmer un long reportage pour France 24. En moins de 48 heures, des dizaines d’alertes aériennes et plusieurs frappes ont secoué la deuxième plus grande ville d’Ukraine, dont une nouvelle ce matin. Comme toujours, quelques heures à peine après les bombardements, les employés municipaux étaient déjà à pied d’œuvre, notamment pour colmater les fenêtres, alors…",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-ukraine-kharkiv-%C3%A0-nouveau-cibl%C3%A9e-par-la-russie",
-      "published": "2026-10-22 18:54",
-      "coverage": 4,
-      "n": 121
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Midterms 2026 : comment les démocrates tentent de reconquérir les croyants",
-      "summary": "À l'approche des élections de mi-mandat de novembre aux États-Unis, un nombre inédit de candidats démocrates issus du clergé s'engagent en politique. À l'image de James Talarico au Texas, en remettant le christianisme social au cœur de leur discours, ils tentent de casser la mainmise du Parti républicain sur l'électorat chrétien.",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261022-midterms-2026-comment-les-d%C3%A9mocrates-tentent-de-reconqu%C3%A9rir-les-croyants",
-      "published": "2026-10-22 18:03",
-      "coverage": 4,
-      "n": 122
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Épidémie d'Ebola : un premier cas détecté au Nigeria, l’OMS s’inquiète",
-      "summary": "L'Organisation mondiale de la santé (OMS) a prévenu jeudi que l'Afrique était confrontée à une épidémie d'Ebola \"plus complexe\", car le virus a voyagé d'Afrique de l'Est jusqu'au Nigeria, qui a signalé le premier cas dans l'ouest du continent.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-%C3%A9pid%C3%A9mie-d-ebola-un-premier-cas-d%C3%A9tect%C3%A9-au-nigeria-l-oms-s-inqui%C3%A8te",
-      "published": "2026-10-22 17:49",
-      "coverage": 4,
-      "n": 123
+      "n": 115
     },
     {
       "theme": "geopolitique",
@@ -1438,40 +1349,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/la-montee-des-extremes-droites-dans-les-etats-membres-de-l-ue-suscite-une-forte-inquietude-au-sein-des-institutions-europeennes_6798659_3210.html",
       "published": "2026-10-22 20:00",
       "coverage": 3,
-      "n": 124
-    },
-    {
-      "theme": "geopolitique",
-      "source": "RTS Info - Monde",
-      "title": "Tirs de missiles et attaques de drones entre la Russie et l'Ukraine après les pourparlers russo-américains",
-      "summary": "L'Ukraine et la Russie ont mené des attaques réciproques dans la nuit de mercredi à jeudi avec des tirs de missiles sur Kiev et 630 drones lancés vers la région de Moscou, selon les autorités locales, quelques heures seulement après des pourparlers russo-américains pour mettre fin au conflit.",
-      "link": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-tirs-de-missiles-et-de-drones-apres-les-pourparlers-29393166.html?rts_source=rss_t",
-      "published": "2026-10-22 08:40",
-      "coverage": 3,
-      "n": 125,
-      "also": [
-        127
-      ]
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Violences du 17 octobre : le profil type des personnes incarcérées dévoilé",
-      "summary": "La Chancellerie a dévoilé un document qui dresse le profil type des personnes interpellées lors des manifestations marquées par des violences et des pillages ces dernières semaines en France. Le portrait type correspond à un homme âgé entre 18 et 25 ans, de nationalité française, inconnu de la justice, incarcéré pour pillages ou violences envers la police.",
-      "link": "https://www.france24.com/fr/france/20261022-violences-17-octobre-profil-type-personnes-%C3%A9crou%C3%A9es-d%C3%A9voil%C3%A9",
-      "published": "2026-10-22 21:19",
-      "coverage": 3,
-      "n": 126
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "La Russie n'a pas \"changé d'attitude\", estime Zelensky après des frappes en Ukraine",
-      "summary": "L'attitude de Moscou reste inchangée, a estimé jeudi le président ukrainien après une rencontre avec l'émissaire américain Steve Witkoff, en déplacement à Oslo. Sur le terrain, des frappes nocturnes ont fait de nouvelles victimes en Ukraine, malgré une relance de la diplomatie.",
-      "link": "https://www.france24.com/fr/europe/20261022-russie-pas-chang%C3%A9-attitude-estime-zelensky-apr%C3%A8s-frappes-ukraine",
-      "published": "2026-10-22 18:20",
-      "coverage": 3,
-      "n": 127
+      "n": 116
     },
     {
       "theme": "geopolitique",
@@ -1481,9 +1359,9 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/comment-l-amerique-du-sud-est-devenue-une-terre-de-mission-pour-les-libertariens_6798650_3232.html",
       "published": "2026-10-22 19:00",
       "coverage": 2,
-      "n": 128,
+      "n": 117,
       "also": [
-        252
+        232
       ]
     },
     {
@@ -1494,7 +1372,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/allemagne-apres-cinquante-ans-d-existence-le-grand-magazine-feministe-emma-tire-sa-reverence_6798646_3210.html",
       "published": "2026-10-22 18:19",
       "coverage": 2,
-      "n": 129
+      "n": 118
     },
     {
       "theme": "geopolitique",
@@ -1504,7 +1382,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/en-guinee-bissau-un-essai-clinique-sur-des-nourrissons-en-partie-finance-par-les-etats-unis-juge-contraire-a-l-ethique-finalement-interdit_6798645_3210.html",
       "published": "2026-10-22 18:00",
       "coverage": 2,
-      "n": 130
+      "n": 119
     },
     {
       "theme": "geopolitique",
@@ -1514,7 +1392,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/en-inde-les-emeutes-du-17-octobre-en-france-instrumentalisees-par-les-medias-progouvernement-et-la-fachosphere_6798642_3210.html",
       "published": "2026-10-22 18:00",
       "coverage": 2,
-      "n": 131
+      "n": 120
     },
     {
       "theme": "geopolitique",
@@ -1524,7 +1402,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/nous-amerindiens-existions-bien-avant-la-route-66-depuis-un-millier-de-generations-de-tulsa-a-santa-fe-a-la-rencontre-des-exclus-de-l-histoire_6798641_3210.html",
       "published": "2026-10-22 17:49",
       "coverage": 2,
-      "n": 132
+      "n": 121
     },
     {
       "theme": "geopolitique",
@@ -1534,7 +1412,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/au-royaume-uni-comment-les-financiers-ont-fait-main-basse-sur-les-cabinets-veterinaires_6798626_3234.html",
       "published": "2026-10-22 16:00",
       "coverage": 2,
-      "n": 133
+      "n": 122
     },
     {
       "theme": "geopolitique",
@@ -1544,7 +1422,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/israel-gadi-eisenkot-le-candidat-qui-menace-netanyahu-29393505.html?rts_source=rss_t",
       "published": "2026-10-22 20:42",
       "coverage": 2,
-      "n": 134
+      "n": 123
     },
     {
       "theme": "geopolitique",
@@ -1554,7 +1432,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/liechtenstein-le-prince-met-son-veto-a-la-legalisation-de-l-avortement-29393307.html?rts_source=rss_t",
       "published": "2026-10-22 14:25",
       "coverage": 2,
-      "n": 135
+      "n": 124
     },
     {
       "theme": "geopolitique",
@@ -1564,7 +1442,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/prix-sakharov-la-cour-penale-internationale-recompensee-29393385.html?rts_source=rss_t",
       "published": "2026-10-22 12:20",
       "coverage": 2,
-      "n": 136
+      "n": 125
     },
     {
       "theme": "geopolitique",
@@ -1574,7 +1452,17 @@
       "link": "https://www.rts.ch/info/monde/2026/article/violences-en-france-une-culture-de-l-emeute-s-installe-29393293.html?rts_source=rss_t",
       "published": "2026-10-22 11:56",
       "coverage": 2,
-      "n": 137
+      "n": 126
+    },
+    {
+      "theme": "geopolitique",
+      "source": "RTS Info - Monde",
+      "title": "Tirs de missiles et attaques de drones entre la Russie et l'Ukraine après les pourparlers russo-américains",
+      "summary": "L'Ukraine et la Russie ont mené des attaques réciproques dans la nuit de mercredi à jeudi avec des tirs de missiles sur Kiev et 630 drones lancés vers la région de Moscou, selon les autorités locales, quelques heures seulement après des pourparlers russo-américains pour mettre fin au conflit.",
+      "link": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-tirs-de-missiles-et-de-drones-apres-les-pourparlers-29393166.html?rts_source=rss_t",
+      "published": "2026-10-22 08:40",
+      "coverage": 2,
+      "n": 127
     },
     {
       "theme": "geopolitique",
@@ -1584,7 +1472,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/otage-suisse-au-niger-liberation-apres-un-an-et-demi-29393113.html?rts_source=rss_t",
       "published": "2026-10-22 07:57",
       "coverage": 2,
-      "n": 138
+      "n": 128
     },
     {
       "theme": "geopolitique",
@@ -1594,7 +1482,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/pape-leon-xiv-aucun-traitement-requis-apres-son-operation-29392949.html?rts_source=rss_t",
       "published": "2026-10-21 23:25",
       "coverage": 2,
-      "n": 139
+      "n": 129
     },
     {
       "theme": "geopolitique",
@@ -1604,7 +1492,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/meta-amende-record-de-25-milliards-de-dollars-aux-usa-29392964.html?rts_source=rss_t",
       "published": "2026-10-21 23:07",
       "coverage": 2,
-      "n": 140
+      "n": 130
     },
     {
       "theme": "geopolitique",
@@ -1614,27 +1502,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/soudan-reunion-a-geneve-apres-une-frappe-faisant-150-morts-29392588.html?rts_source=rss_t",
       "published": "2026-10-21 21:15",
       "coverage": 2,
-      "n": 141
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "France, Grèce, Italie... Gen Z : un vent de colère en Europe ?",
-      "summary": "La génération Z se mobilise massivement en France mais aussi en Grèce, en Espagne, au Portugal et en Italie. Hier, c’était à Athènes et à Thessalonique que lycéens et professeurs ont battu le pavé contre le coût de la vie et l’état des écoles en s’inspirant de la France. Dans l'Hexagone, le gouvernement tente de trouver une réponse politique : Sébastien Lecornu a reçu les partis politiques et les maires de Paris, Lyon et Bordeaux. Le Premier…",
-      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261022-france-gr%C3%A8ce-italie-gen-z-un-vent-de-col%C3%A8re-en-europe",
-      "published": "2026-10-22 20:25",
-      "coverage": 2,
-      "n": 142
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Les États-Unis et Israël prévoient de nouvelles frappes contre l’Iran après les élections",
-      "summary": "Les États-Unis et Israël préparent une nouvelle phase de combats visant l'Iran, a indiqué mercredi le New York Times. Le quotidien américain rapporte que ces frappes seraient prévues après les élections américaines de mi-mandat. Des experts doutent du succès d'une telle opération.",
-      "link": "https://www.france24.com/fr/moyen-orient/20261022-%C3%A9tats-unis-isra%C3%ABl-pr%C3%A9voient-nouvelles-frappes-contre-iran-apr%C3%A8s-%C3%A9lections",
-      "published": "2026-10-22 17:21",
-      "coverage": 2,
-      "n": 143
+      "n": 131
     },
     {
       "theme": "geopolitique",
@@ -1644,7 +1512,7 @@
       "link": "https://www.lemonde.fr/m-le-mag/article/2026/10/22/en-inde-neha-bora-la-nouvelle-icone-de-la-jeunesse-anti-modi_6798660_4500055.html",
       "published": "2026-10-22 20:00",
       "coverage": 1,
-      "n": 144
+      "n": 132
     },
     {
       "theme": "geopolitique",
@@ -1654,7 +1522,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/dans-l-italie-de-giorgia-meloni-les-juges-les-journalistes-et-les-associations-d-entraide-peuvent-avoir-la-vie-dure_6798654_3210.html",
       "published": "2026-10-22 19:30",
       "coverage": 1,
-      "n": 145
+      "n": 133
     },
     {
       "theme": "geopolitique",
@@ -1664,7 +1532,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/en-remettant-le-prix-sakharov-a-la-cour-penale-internationale-le-parlement-europeen-affiche-sa-fermete-face-a-washington_6798633_3210.html",
       "published": "2026-10-22 16:39",
       "coverage": 1,
-      "n": 146
+      "n": 134
     },
     {
       "theme": "geopolitique",
@@ -1674,7 +1542,7 @@
       "link": "https://www.lemonde.fr/afrique/article/2026/10/22/en-tunisie-l-armee-tente-de-ramener-les-jeunes-vers-le-service-national_6798618_3212.html",
       "published": "2026-10-22 14:00",
       "coverage": 1,
-      "n": 147
+      "n": 135
     },
     {
       "theme": "geopolitique",
@@ -1684,7 +1552,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/au-yemen-la-ville-de-taez-symbole-de-l-opposition-aux-houtistes-soumise-a-un-siege-total_6798610_3210.html",
       "published": "2026-10-22 13:00",
       "coverage": 1,
-      "n": 148
+      "n": 136
     },
     {
       "theme": "geopolitique",
@@ -1694,7 +1562,7 @@
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/22/austen-comment-les-noms-des-tempetes-sont-ils-choisis_5182473_4355771.html",
       "published": "2026-10-22 11:38",
       "coverage": 1,
-      "n": 149
+      "n": 137
     },
     {
       "theme": "geopolitique",
@@ -1704,7 +1572,7 @@
       "link": "https://www.lemonde.fr/afrique/article/2026/10/22/commercants-femmes-enfants-ils-n-ont-epargne-personne-plus-de-150-civils-tues-dans-une-frappe-de-drone-a-la-frontiere-entre-le-soudan-et-le-soudan-du-sud_6798599_3212.html",
       "published": "2026-10-22 11:31",
       "coverage": 1,
-      "n": 150
+      "n": 138
     },
     {
       "theme": "geopolitique",
@@ -1714,7 +1582,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/gaza-au-moins-8-000-corps-encore-ensevelis-sous-les-ruines-29392408.html?rts_source=rss_t",
       "published": "2026-10-22 06:32",
       "coverage": 1,
-      "n": 151
+      "n": 139
     },
     {
       "theme": "geopolitique",
@@ -1724,87 +1592,7 @@
       "link": "https://www.rts.ch/info/monde/2026/article/onu-les-emirats-presentent-la-candidature-de-lana-nusseibeh-29393119.html?rts_source=rss_t",
       "published": "2026-10-22 06:07",
       "coverage": 1,
-      "n": 152
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "\"La Chute, France 1940\", autopsie d'un effondrement 1940 : que revèle la défaite française ?",
-      "summary": "En mai 1940, la France s’effondre face à l’Allemagne nazie en quelques semaines. Comment expliquer une défaite aussi rapide ? Erreurs militaires, responsabilités politiques et divisions de la société française : dans son nouveau livre, La Chute, France 1940, l’historien britannique Julian Jackson revient sur les causes de cette débâcle et interroge les leçons que l’Europe peut en tirer aujourd’hui, face aux nouvelles menaces qui pèsent sur sa…",
-      "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261022-la-chute-france-1940-autopsie-d-un-effondrement-1940-que-rev%C3%A8le-la-d%C3%A9faite-fran%C3%A7aise",
-      "published": "2026-10-22 20:49",
-      "coverage": 1,
-      "n": 153
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Tchad : quatre suspects arrêtés à Miski, après les tensions dans le Tibesti",
-      "summary": "🇹🇩 Au Tchad, malgré les accords de paix signés en 2025, les tensions persistent dans le Tibesti. Après des affrontements entre l’armée et des comités d’autodéfense, quatre suspects ont été arrêtés à la suite de l’attaque de Miski.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-tchad-quatre-suspects-arr%C3%AAt%C3%A9s-%C3%A0-miski-apr%C3%A8s-les-tensions-dans-le-tibesti",
-      "published": "2026-10-22 19:35",
-      "coverage": 1,
-      "n": 154
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Cameroun : dix ans après la tragédie ferroviaire d'Eséka, la souvenir reste vivace",
-      "summary": "🇨🇲 Au Cameroun, dix ans après le drame ferroviaire d’Eséka, qui a fait officiellement 79 morts le 21 octobre 2016, les familles des victimes attendent toujours de faire leur deuil, malgré la condamnation de Camrail à les indemniser.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-cameroun-dix-ans-apr%C3%A8s-la-trag%C3%A9die-ferroviaire-d-es%C3%A9ka-la-souvenir-reste-vivace",
-      "published": "2026-10-22 19:25",
-      "coverage": 1,
-      "n": 155
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Les glaciers, des écosystèmes parmi les plus fragiles de la planète",
-      "summary": "La fonte des glaciers s'accélère en raison du réchauffement climatique. Ces géants de glace ne sont pas des déserts blancs, sans vie. Des écosystèmes, faune et flore, y vivent ou en dépendent directement. Certaines espèces suivent le retrait glaciaire et montent en altitude mais il y a une limite à cette adaptation rapidement atteinte. La disparition des glaciers se traduit donc mécaniquement par l'extinction d'espèces, la perte de maillons…",
-      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261022-les-glaciers-des-%C3%A9cosyst%C3%A8mes-parmi-les-plus-fragiles-de-la-plan%C3%A8te",
-      "published": "2026-10-22 18:43",
-      "coverage": 1,
-      "n": 156
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Albanie : des députés en viennent aux mains suite aux manifestations",
-      "summary": "En Albanie, une séance parlementaire a dégénéré en altercations entre députés, alors que des manifestations contre la corruption et pour de meilleures conditions d'études se poursuivent depuis plus d'une semaine.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-albanie-des-d%C3%A9put%C3%A9s-en-viennent-aux-mains-suite-aux-manifestations",
-      "published": "2026-10-22 18:22",
-      "coverage": 1,
-      "n": 157
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Cisjordanie : \"On traversait illégalement les checkpoints pour aller à l'école\" (Karim Kattan)",
-      "summary": "L'écrivain et poète Karim Kattan était l'invité de Judith Grimaldi dans son podcast \"Avec Judith\".Il a grandi à Bethléem, en Cisjordanie, et se rendait à Jérusalem pour aller à l'école. Un trajet dangereux, mais à l'époque, il ne s'en rendait pas encore compte.L'émission est à retrouver dans son intégralité ce samedi midi sur le site de France 24.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-cisjordanie-on-traversait-ill%C3%A9galement-les-checkpoints-pour-aller-%C3%A0-l-%C3%A9cole-karim-kattan",
-      "published": "2026-10-22 18:17",
-      "coverage": 1,
-      "n": 158
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Réchauffement climatique : le Pic d'Aneto, un glacier en voie de disparition",
-      "summary": "D’ici dix ans, l’un des plus grands glaciers du sud de l’Europe pourrait avoir disparu. L’Aneto fond à une vitesse spectaculaire, sous l’effet du réchauffement climatique. Maude Petit-Jové s’est rendue sur place pour constater l’ampleur de cette fonte et ses conséquences sur ce paysage emblématique des Pyrénées.",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-r%C3%A9chauffement-climatique-le-pic-d-aneto-un-glacier-en-voie-de-disparition",
-      "published": "2026-10-22 17:51",
-      "coverage": 1,
-      "n": 159
-    },
-    {
-      "theme": "geopolitique",
-      "source": "France 24",
-      "title": "Brésil : quand l'IA s'invite aux élections",
-      "summary": "Brésil : alors que le deuxième tour de l'élection présidentielle approche, l'#IA est partout. Fausses images, fausses voix, fausses histoires mais surtout fausses informations sur les contenus politiques. La gauche a accusé l’entreprise Meta de limiter la circulation de son contenu sur Instagram et WhatsApp. Le comité de surveillance de Meta a reconnu “des failles récurrentes de modération”. L’entreprise risque d’être condamnée à une amende par…",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-br%C3%A9sil-quand-l-ia-s-invite-aux-%C3%A9lections",
-      "published": "2026-10-22 17:48",
-      "coverage": 1,
-      "n": 160
+      "n": 140
     },
     {
       "theme": "geopolitique",
@@ -1814,7 +1602,7 @@
       "link": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261022-la-biodiversit%C3%A9-alli%C3%A9e-du-pib",
       "published": "2026-10-22 19:17",
       "coverage": 1,
-      "n": 161
+      "n": 141
     },
     {
       "theme": "geopolitique",
@@ -1824,7 +1612,7 @@
       "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261022-prix-sakharov-la-cpi-ne-fonctionne-que-parce-que-les-%C3%A9tats-d%C3%A9cident-qu-elle-fonctionne",
       "published": "2026-10-22 16:20",
       "coverage": 1,
-      "n": 162
+      "n": 142
     },
     {
       "theme": "geopolitique",
@@ -1834,7 +1622,7 @@
       "link": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261022-trump-poutine-xi-une-rencontre-%C3%A0-trois-est-elle-possible",
       "published": "2026-10-22 11:05",
       "coverage": 1,
-      "n": 163
+      "n": 143
     },
     {
       "theme": "geopolitique",
@@ -1844,7 +1632,7 @@
       "link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261022-%C3%A0-la-une-le-br%C3%A9sil-et-les-%C3%A9tats-unis-%C3%A0-la-crois%C3%A9e-des-chemins",
       "published": "2026-10-22 10:21",
       "coverage": 1,
-      "n": 164
+      "n": 144
     },
     {
       "theme": "tech",
@@ -1854,7 +1642,7 @@
       "link": "https://www.lemonde.fr/pixels/article/2026/10/22/a-la-paris-games-week-le-grand-paradoxe-du-jeu-video-en-france-une-demande-dynamique-mais-des-studios-en-souffrance_6798556_4408996.html",
       "published": "2026-10-22 06:00",
       "coverage": 5,
-      "n": 165
+      "n": 145
     },
     {
       "theme": "tech",
@@ -1864,7 +1652,7 @@
       "link": "https://www.numerama.com/vroom/2359185-tempete-austen-votre-train-est-supprime-ou-en-retard-voici-les-regles-de-la-sncf-pour-vous-faire-rembourser.html",
       "published": "2026-10-22 16:40",
       "coverage": 5,
-      "n": 166
+      "n": 146
     },
     {
       "theme": "tech",
@@ -1874,7 +1662,7 @@
       "link": "https://www.numerama.com/sciences/2358595-des-rafales-a-plus-de-100-km-h-la-tempete-austen-sapprete-a-balayer-le-nord-ouest-de-la-france.html",
       "published": "2026-10-22 11:50",
       "coverage": 5,
-      "n": 167
+      "n": 147
     },
     {
       "theme": "tech",
@@ -1884,9 +1672,9 @@
       "link": "https://www.numerama.com/tech/2358637-pour-sexcuser-de-la-panne-orange-annonce-un-cadeau-a-ses-abonnes.html",
       "published": "2026-10-22 11:47",
       "coverage": 3,
-      "n": 168,
+      "n": 148,
       "also": [
-        169
+        149
       ]
     },
     {
@@ -1897,7 +1685,7 @@
       "link": "https://www.numerama.com/tech/2358399-panne-orange-une-migration-ratee-vers-la-5g-aurait-coupe-le-reseau-a-des-millions-dabonnes.html",
       "published": "2026-10-22 11:45",
       "coverage": 3,
-      "n": 169
+      "n": 149
     },
     {
       "theme": "tech",
@@ -1907,7 +1695,7 @@
       "link": "https://www.lemonde.fr/pixels/article/2026/10/22/failles-php-pourquoi-ces-vulnerabilites-perturbent-votre-navigation-sur-internet_6798629_4408996.html",
       "published": "2026-10-22 16:26",
       "coverage": 2,
-      "n": 170
+      "n": 150
     },
     {
       "theme": "tech",
@@ -1917,17 +1705,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/a-mayotte-orange-somme-de-stopper-son-deploiement-anarchique-de-la-fibre-optique_6798569_3234.html",
       "published": "2026-10-22 06:15",
       "coverage": 2,
-      "n": 171
-    },
-    {
-      "theme": "tech",
-      "source": "Le Monde - Pixels",
-      "title": "Electronic Arts a l’intention de fermer son studio BioWare, développeur de jeux cultes tels que « Mass Effect » et « Dragon Age »",
-      "summary": "L’éditeur compte supprimer environ 400 postes, soit environ 3 % de son effectif total, selon l’agence Bloomberg. Dans un communiqué publié sur les réseaux sociaux, le studio BioWare a confirmé qu’il allait mettre la clé sous la porte.",
-      "link": "https://www.lemonde.fr/pixels/article/2026/10/22/electronic-arts-a-l-intention-de-fermer-son-studio-bioware-developpeur-de-jeux-cultes-tels-que-mass-effect-et-dragon-age_6798513_4408996.html",
-      "published": "2026-10-22 04:53",
-      "coverage": 2,
-      "n": 172
+      "n": 151
     },
     {
       "theme": "tech",
@@ -1937,7 +1715,7 @@
       "link": "https://www.lemonde.fr/pixels/article/2026/10/21/orange-annonce-le-retablissement-de-son-reseau-mobile_6798249_4408997.html",
       "published": "2026-10-21 22:22",
       "coverage": 2,
-      "n": 173
+      "n": 152
     },
     {
       "theme": "tech",
@@ -1947,17 +1725,7 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/21/meta-condamne-a-verser-25-milliards-de-dollars-au-nouveau-mexique-apres-le-scandale-cambridge-analytica_6798305_3210.html",
       "published": "2026-10-21 20:52",
       "coverage": 2,
-      "n": 174
-    },
-    {
-      "theme": "tech",
-      "source": "Numerama",
-      "title": "Bitchat mesh : c’est quoi, cette messagerie sans Internet qui cartonne ?",
-      "summary": "Bitchat Mesh, la messagerie de Jack Dorsey qui fonctionne en Bluetooth sans connexion Internet, grimpe dans le classement de l'App Store cette semaine, quinze mois après sa sortie.",
-      "link": "https://www.numerama.com/tech/2359089-bitchat-mesh-cest-quoi-cette-messagerie-sans-internet-qui-cartonne.html",
-      "published": "2026-10-22 16:06",
-      "coverage": 2,
-      "n": 175
+      "n": 153
     },
     {
       "theme": "tech",
@@ -1967,17 +1735,7 @@
       "link": "https://www.numerama.com/vroom/2358881-tesla-va-livrer-son-robotaxi-cybercab-a-des-clients-qui-ne-pourront-pas-le-faire-rouler-ou-ils-veulent.html",
       "published": "2026-10-22 14:30",
       "coverage": 2,
-      "n": 176
-    },
-    {
-      "theme": "tech",
-      "source": "The Verge",
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
-      "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\" and uses \"pre-production assets,\" according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation […]",
-      "link": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
-      "published": "2026-10-22 20:14",
-      "coverage": 2,
-      "n": 177
+      "n": 154
     },
     {
       "theme": "tech",
@@ -1987,7 +1745,7 @@
       "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
       "published": "2026-10-22 17:44",
       "coverage": 2,
-      "n": 178
+      "n": 155
     },
     {
       "theme": "tech",
@@ -1997,7 +1755,7 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/cyberattaque-des-frigos-de-supermarche-la-connexion-des-objets-nous-oblige-a-penser-un-devoir-de-maintenance-permanent_6798596_3232.html",
       "published": "2026-10-22 11:00",
       "coverage": 1,
-      "n": 179
+      "n": 156
     },
     {
       "theme": "tech",
@@ -2007,7 +1765,17 @@
       "link": "https://www.lemonde.fr/m-perso/article/2026/10/22/l-ia-va-t-elle-tuer-aussi-les-posts-linkedin-inspirants_6798560_4497916.html",
       "published": "2026-10-22 06:00",
       "coverage": 1,
-      "n": 180
+      "n": 157
+    },
+    {
+      "theme": "tech",
+      "source": "Le Monde - Pixels",
+      "title": "Electronic Arts a l’intention de fermer son studio BioWare, développeur de jeux cultes tels que « Mass Effect » et « Dragon Age »",
+      "summary": "L’éditeur compte supprimer environ 400 postes, soit environ 3 % de son effectif total, selon l’agence Bloomberg. Dans un communiqué publié sur les réseaux sociaux, le studio BioWare a confirmé qu’il allait mettre la clé sous la porte.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/10/22/electronic-arts-a-l-intention-de-fermer-son-studio-bioware-developpeur-de-jeux-cultes-tels-que-mass-effect-et-dragon-age_6798513_4408996.html",
+      "published": "2026-10-22 04:53",
+      "coverage": 1,
+      "n": 158
     },
     {
       "theme": "tech",
@@ -2017,7 +1785,7 @@
       "link": "https://www.numerama.com/sciences/2359061-lheure-dhiver-est-de-retour-ce-week-end-non-ce-nest-toujours-pas-la-derniere-fois.html",
       "published": "2026-10-22 21:10",
       "coverage": 1,
-      "n": 181
+      "n": 159
     },
     {
       "theme": "tech",
@@ -2027,7 +1795,7 @@
       "link": "https://www.numerama.com/pop-culture/2359135-the-terminal-list-on-a-vu-la-saison-2-cest-la-meilleure-serie-pour-remplacer-reacher.html",
       "published": "2026-10-22 19:45",
       "coverage": 1,
-      "n": 182
+      "n": 160
     },
     {
       "theme": "tech",
@@ -2037,7 +1805,7 @@
       "link": "https://www.numerama.com/tech/2359229-on-a-trouve-lecran-oled-parfait-pour-jouer-a-gta-6-sur-votre-bureau-et-il-coute-200-e-de-moins.html",
       "published": "2026-10-22 17:05",
       "coverage": 1,
-      "n": 183
+      "n": 161
     },
     {
       "theme": "tech",
@@ -2047,7 +1815,7 @@
       "link": "https://www.numerama.com/tech/2359067-vous-souhaitez-changer-doperateur-on-a-selectionne-les-3-meilleurs-forfaits-du-moment.html",
       "published": "2026-10-22 16:56",
       "coverage": 1,
-      "n": 184
+      "n": 162
     },
     {
       "theme": "tech",
@@ -2057,7 +1825,17 @@
       "link": "https://www.numerama.com/vroom/2359151-73-en-septembre-en-europe-la-voiture-electrique-donne-tort-aux-discours-alarmistes.html",
       "published": "2026-10-22 16:50",
       "coverage": 1,
-      "n": 185
+      "n": 163
+    },
+    {
+      "theme": "tech",
+      "source": "Numerama",
+      "title": "Bitchat mesh : c’est quoi, cette messagerie sans Internet qui cartonne ?",
+      "summary": "Bitchat Mesh, la messagerie de Jack Dorsey qui fonctionne en Bluetooth sans connexion Internet, grimpe dans le classement de l'App Store cette semaine, quinze mois après sa sortie.",
+      "link": "https://www.numerama.com/tech/2359089-bitchat-mesh-cest-quoi-cette-messagerie-sans-internet-qui-cartonne.html",
+      "published": "2026-10-22 16:06",
+      "coverage": 1,
+      "n": 164
     },
     {
       "theme": "tech",
@@ -2067,7 +1845,7 @@
       "link": "https://www.numerama.com/tech/2358805-au-fait-que-signifie-vraiment-php-lacronyme-a-deux-significations-une-officielle-lautre-historique.html",
       "published": "2026-10-22 11:37",
       "coverage": 1,
-      "n": 186
+      "n": 165
     },
     {
       "theme": "tech",
@@ -2077,7 +1855,7 @@
       "link": "https://www.numerama.com/pop-culture/2358655-les-joueurs-de-counter-strike-2-peuvent-enfin-traquer-les-tricheurs-pour-ameliorer-lanticheat.html",
       "published": "2026-10-22 11:15",
       "coverage": 1,
-      "n": 187
+      "n": 166
     },
     {
       "theme": "tech",
@@ -2087,7 +1865,7 @@
       "link": "https://www.numerama.com/pop-culture/2358715-fin-du-suspense-pour-les-gardiens-chris-pratt-confirme-le-retour-de-star-lord.html",
       "published": "2026-10-22 10:55",
       "coverage": 1,
-      "n": 188
+      "n": 167
     },
     {
       "theme": "tech",
@@ -2097,7 +1875,7 @@
       "link": "https://www.numerama.com/vroom/2358717-tesla-revendique-son-carnet-de-commandes-le-plus-important-en-quatre-ans-mais-la-production-coince.html",
       "published": "2026-10-22 10:50",
       "coverage": 1,
-      "n": 189
+      "n": 168
     },
     {
       "theme": "tech",
@@ -2107,7 +1885,7 @@
       "link": "https://www.rts.ch/info/sciences-tech/2026/article/faille-php-une-bataille-s-engage-contre-les-cybercriminels-29393184.html?rts_source=rss_t",
       "published": "2026-10-22 09:25",
       "coverage": 1,
-      "n": 190
+      "n": 169
     },
     {
       "theme": "tech",
@@ -2117,7 +1895,27 @@
       "link": "https://www.rts.ch/info/sciences-tech/2026/article/le-plumage-des-chouettes-effraies-a-evolue-en-30-ans-29392384.html?rts_source=rss_t",
       "published": "2026-10-22 09:10",
       "coverage": 1,
-      "n": 191
+      "n": 170
+    },
+    {
+      "theme": "tech",
+      "source": "The Verge",
+      "title": "Meta turns Muse sharing back on",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "published": "2026-10-22 22:24",
+      "coverage": 1,
+      "n": 171
+    },
+    {
+      "theme": "tech",
+      "source": "The Verge",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. […]",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "published": "2026-10-22 22:23",
+      "coverage": 1,
+      "n": 172
     },
     {
       "theme": "tech",
@@ -2127,7 +1925,7 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
       "published": "2026-10-22 21:45",
       "coverage": 1,
-      "n": 192
+      "n": 173
     },
     {
       "theme": "tech",
@@ -2137,7 +1935,7 @@
       "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
       "published": "2026-10-22 21:44",
       "coverage": 1,
-      "n": 193
+      "n": 174
     },
     {
       "theme": "tech",
@@ -2147,7 +1945,7 @@
       "link": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
       "published": "2026-10-22 21:15",
       "coverage": 1,
-      "n": 194
+      "n": 175
     },
     {
       "theme": "tech",
@@ -2157,7 +1955,7 @@
       "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
       "published": "2026-10-22 21:13",
       "coverage": 1,
-      "n": 195
+      "n": 176
     },
     {
       "theme": "tech",
@@ -2167,7 +1965,7 @@
       "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
       "published": "2026-10-22 20:58",
       "coverage": 1,
-      "n": 196
+      "n": 177
     },
     {
       "theme": "tech",
@@ -2177,7 +1975,7 @@
       "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
       "published": "2026-10-22 20:43",
       "coverage": 1,
-      "n": 197
+      "n": 178
     },
     {
       "theme": "tech",
@@ -2187,7 +1985,7 @@
       "link": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
       "published": "2026-10-22 20:38",
       "coverage": 1,
-      "n": 198
+      "n": 179
     },
     {
       "theme": "tech",
@@ -2197,17 +1995,7 @@
       "link": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
       "published": "2026-10-22 20:30",
       "coverage": 1,
-      "n": 199
-    },
-    {
-      "theme": "tech",
-      "source": "The Verge",
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "published": "2026-10-22 20:15",
-      "coverage": 1,
-      "n": 200
+      "n": 180
     },
     {
       "theme": "tech",
@@ -2217,7 +2005,7 @@
       "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
       "published": "2026-10-22 22:01",
       "coverage": 1,
-      "n": 201
+      "n": 181
     },
     {
       "theme": "tech",
@@ -2227,7 +2015,7 @@
       "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
       "published": "2026-10-22 22:00",
       "coverage": 1,
-      "n": 202
+      "n": 182
     },
     {
       "theme": "tech",
@@ -2237,7 +2025,7 @@
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "published": "2026-10-22 21:07",
       "coverage": 1,
-      "n": 203
+      "n": 183
     },
     {
       "theme": "tech",
@@ -2247,7 +2035,7 @@
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "published": "2026-10-22 21:00",
       "coverage": 1,
-      "n": 204
+      "n": 184
     },
     {
       "theme": "tech",
@@ -2257,7 +2045,7 @@
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "published": "2026-10-22 21:00",
       "coverage": 1,
-      "n": 205
+      "n": 185
     },
     {
       "theme": "tech",
@@ -2267,7 +2055,7 @@
       "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "published": "2026-10-22 20:43",
       "coverage": 1,
-      "n": 206
+      "n": 186
     },
     {
       "theme": "tech",
@@ -2277,7 +2065,7 @@
       "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
       "published": "2026-10-22 20:38",
       "coverage": 1,
-      "n": 207
+      "n": 187
     },
     {
       "theme": "tech",
@@ -2287,7 +2075,7 @@
       "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
       "published": "2026-10-22 19:36",
       "coverage": 1,
-      "n": 208
+      "n": 188
     },
     {
       "theme": "tech",
@@ -2297,7 +2085,7 @@
       "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
       "published": "2026-10-22 18:47",
       "coverage": 1,
-      "n": 209
+      "n": 189
     },
     {
       "theme": "tech",
@@ -2307,7 +2095,7 @@
       "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
       "published": "2026-10-22 18:00",
       "coverage": 1,
-      "n": 210
+      "n": 190
     },
     {
       "theme": "tech",
@@ -2317,7 +2105,7 @@
       "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
       "published": "2026-10-22 18:00",
       "coverage": 1,
-      "n": 211
+      "n": 191
     },
     {
       "theme": "tech",
@@ -2327,7 +2115,7 @@
       "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
       "published": "2026-10-22 17:24",
       "coverage": 1,
-      "n": 212
+      "n": 192
     },
     {
       "theme": "tech",
@@ -2337,7 +2125,7 @@
       "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
       "published": "2026-10-22 17:15",
       "coverage": 1,
-      "n": 213
+      "n": 193
     },
     {
       "theme": "tech",
@@ -2347,7 +2135,7 @@
       "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "published": "2026-10-22 17:03",
       "coverage": 1,
-      "n": 214
+      "n": 194
     },
     {
       "theme": "tech",
@@ -2357,7 +2145,7 @@
       "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
       "published": "2026-10-22 16:59",
       "coverage": 1,
-      "n": 215
+      "n": 195
     },
     {
       "theme": "tech",
@@ -2367,7 +2155,7 @@
       "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
       "published": "2026-10-22 16:03",
       "coverage": 1,
-      "n": 216
+      "n": 196
     },
     {
       "theme": "tech",
@@ -2377,7 +2165,7 @@
       "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "published": "2026-10-22 15:53",
       "coverage": 1,
-      "n": 217
+      "n": 197
     },
     {
       "theme": "tech",
@@ -2387,7 +2175,7 @@
       "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
       "published": "2026-10-22 15:26",
       "coverage": 1,
-      "n": 218
+      "n": 198
     },
     {
       "theme": "tech",
@@ -2397,17 +2185,7 @@
       "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "published": "2026-10-22 15:11",
       "coverage": 1,
-      "n": 219
-    },
-    {
-      "theme": "france",
-      "source": "Le Monde - Politique",
-      "title": "EN DIRECT, manifestations du 17 octobre : à Paris, un couvre-feu annoncé dans certains secteurs toutes les nuits jusqu’à lundi matin",
-      "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la République et du secteur des Halles ».",
-      "link": "https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-toutes-les-manifestations-interdites-samedi-a-marseille-et-dans-les-bouches-du-rhone_6795855_3224.html",
-      "published": "2026-10-22 18:15",
-      "coverage": 8,
-      "n": 220
+      "n": 199
     },
     {
       "theme": "france",
@@ -2417,7 +2195,7 @@
       "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mobilisation-du-24-octobre-a-paris-des-habitants-divises-sur-la-necessite-de-poursuivre-les-manifestations-mais-des-etudiants-toujours-determines_8227672.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 07:44",
       "coverage": 8,
-      "n": 221
+      "n": 200
     },
     {
       "theme": "france",
@@ -2427,17 +2205,17 @@
       "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/info-franceinfo-le-prefet-de-police-de-paris-conseille-aux-commercants-de-renforcer-leur-securite-et-d-adapter-leurs-horaires-avant-les-prochaines-manifestations_8247901.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 06:45",
       "coverage": 8,
-      "n": 222
+      "n": 201
     },
     {
       "theme": "france",
-      "source": "Le Monde - Société",
+      "source": "Le Monde - Politique",
       "title": "EN DIRECT, manifestations du 17 octobre : à Paris, un couvre-feu annoncé dans certains secteurs toutes les nuits jusqu’à lundi matin",
       "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la République et du secteur des Halles ».",
       "link": "https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-toutes-les-manifestations-interdites-samedi-a-marseille-et-dans-les-bouches-du-rhone_6795855_3224.html",
       "published": "2026-10-22 18:15",
       "coverage": 7,
-      "n": 223
+      "n": 202
     },
     {
       "theme": "france",
@@ -2447,17 +2225,7 @@
       "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/apres-la-situation-ingerable-des-dernieres-manifestations-comment-les-commercants-se-preparent-ils-a-une-nouvelle-journee-de-mobilisation_8248417.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 09:58",
       "coverage": 7,
-      "n": 224
-    },
-    {
-      "theme": "france",
-      "source": "Le Monde - Politique",
-      "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
-      "summary": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
-      "link": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
-      "published": "2026-10-22 17:10",
-      "coverage": 6,
-      "n": 225
+      "n": 203
     },
     {
       "theme": "france",
@@ -2467,17 +2235,27 @@
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/22/la-carte-des-couvre-feux-et-des-interdictions-de-manifester-le-24-octobre-en-france-suivez-les-mesures-de-restriction-dans-les-villes-concernees-en-temps-reel_6798285_4355771.html",
       "published": "2026-10-22 11:44",
       "coverage": 6,
-      "n": 226
+      "n": 204
     },
     {
       "theme": "france",
       "source": "Le Monde - Société",
+      "title": "EN DIRECT, manifestations du 17 octobre : à Paris, un couvre-feu annoncé dans certains secteurs toutes les nuits jusqu’à lundi matin",
+      "summary": "La Préfecture de police a annoncé le prolongement jusqu’à lundi matin du couvre-feu de 23 heures à 6 heures déjà en vigueur, toujours dans « les périmètres de la place de la République et du secteur des Halles ».",
+      "link": "https://www.lemonde.fr/societe/live/2026/10/22/en-direct-manifestations-du-17-octobre-toutes-les-manifestations-interdites-samedi-a-marseille-et-dans-les-bouches-du-rhone_6795855_3224.html",
+      "published": "2026-10-22 18:15",
+      "coverage": 6,
+      "n": 205
+    },
+    {
+      "theme": "france",
+      "source": "Le Monde - Politique",
       "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
       "summary": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
       "link": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
       "published": "2026-10-22 17:10",
-      "coverage": 6,
-      "n": 227
+      "coverage": 5,
+      "n": 206
     },
     {
       "theme": "france",
@@ -2487,27 +2265,17 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/election-presidentielle-au-bresil-chaque-victoire-de-l-extreme-droite-a-l-etranger-banalise-cette-perspective-chez-nous-alertent-des-responsables-politiques-de-gauche-en-france_6798635_3232.html",
       "published": "2026-10-22 17:00",
       "coverage": 5,
-      "n": 228
+      "n": 207
     },
     {
       "theme": "france",
       "source": "Le Monde - Société",
-      "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
-      "summary": "Au Nigeria, les autorités ont annoncé, mardi, le premier cas de maladie à virus d’Ebola, une diplomate arrivée à Abuja à bord d’un vol en provenance d’Ouganda. Elles ont également identifié 44 cas contacts.",
-      "link": "https://www.lemonde.fr/afrique/article/2026/10/22/ebola-l-afrique-confrontee-a-une-situation-plus-complexe-apres-la-propagation-du-virus-au-nigeria-s-alarme-le-directeur-regional-de-l-oms_6798625_3212.html",
-      "published": "2026-10-22 15:49",
+      "title": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
+      "summary": "« L’insistance de Donald Trump à évoquer les événements en France correspond à une stratégie politique », explique notre correspondant à Washington, Piotr Smolar.",
+      "link": "https://www.lemonde.fr/international/video/2026/10/22/midterms-2026-comment-donald-trump-profite-de-la-crise-politique-en-france_6798637_3210.html",
+      "published": "2026-10-22 17:10",
       "coverage": 5,
-      "n": 229
-    },
-    {
-      "theme": "france",
-      "source": "franceinfo - France",
-      "title": "La préfecture du Rhône interdit \"toute manifestation\" à Lyon samedi, une semaine après les violences du 17 octobre",
-      "summary": "Cette décision du préfet intervient après plusieurs mesures prises ces derniers jours : un couvre-feu dans l'hyper-centre depuis trois nuits et l'interdiction d'une manifestation prévue jeudi après-midi.",
-      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-du-rhone-interdit-toute-manifestation-a-lyon-samedi-une-semaine-apres-les-violences-du-17-octobre_8248843.html#xtor=RSS-3-%5Bgeneral%5D",
-      "published": "2026-10-22 13:22",
-      "coverage": 5,
-      "n": 230
+      "n": 208
     },
     {
       "theme": "france",
@@ -2517,17 +2285,7 @@
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/le-finistere-le-morbihan-et-les-cotes-d-armor-places-en-alerte-orange-pour-vent-a-partir-de-22-heures-jeudi-en-raison-de-la-tempete-austen_8248288.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 16:25",
       "coverage": 5,
-      "n": 231
-    },
-    {
-      "theme": "france",
-      "source": "Le Monde - Politique",
-      "title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
-      "summary": "Le parquet de Metz, chargé de l’enquête, a confirmé, jeudi, la mort des deux militaires à bord du Mirage 2000 D qui s’est écrasé mardi soir près de Nancy, lors du retour d’un vol d’entraînement. Les circonstances de l’accident restent pour l’heure inconnues.",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
-      "published": "2026-10-22 19:58",
-      "coverage": 4,
-      "n": 232
+      "n": 209
     },
     {
       "theme": "france",
@@ -2537,17 +2295,27 @@
       "link": "https://www.lemonde.fr/politique/video/2026/10/22/pas-de-manifestation-dans-les-jours-a-venir-emmanuel-macron-prend-la-parole-a-l-issue-d-une-reunion-a-l-elysee-avec-les-services-de-renseignement_6798614_823448.html",
       "published": "2026-10-22 13:43",
       "coverage": 4,
-      "n": 233
+      "n": 210
     },
     {
       "theme": "france",
       "source": "Le Monde - Société",
-      "title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
-      "summary": "Le parquet de Metz, chargé de l’enquête, a confirmé, jeudi, la mort des deux militaires à bord du Mirage 2000 D qui s’est écrasé mardi soir près de Nancy, lors du retour d’un vol d’entraînement. Les circonstances de l’accident restent pour l’heure inconnues.",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
-      "published": "2026-10-22 19:58",
+      "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
+      "summary": "Au Nigeria, les autorités ont annoncé, mardi, le premier cas de maladie à virus d’Ebola, une diplomate arrivée à Abuja à bord d’un vol en provenance d’Ouganda. Elles ont également identifié 44 cas contacts.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/10/22/ebola-l-afrique-confrontee-a-une-situation-plus-complexe-apres-la-propagation-du-virus-au-nigeria-s-alarme-le-directeur-regional-de-l-oms_6798625_3212.html",
+      "published": "2026-10-22 15:49",
       "coverage": 4,
-      "n": 234
+      "n": 211
+    },
+    {
+      "theme": "france",
+      "source": "franceinfo - France",
+      "title": "La préfecture du Rhône interdit \"toute manifestation\" à Lyon samedi, une semaine après les violences du 17 octobre",
+      "summary": "Cette décision du préfet intervient après plusieurs mesures prises ces derniers jours : un couvre-feu dans l'hyper-centre depuis trois nuits et l'interdiction d'une manifestation prévue jeudi après-midi.",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-du-rhone-interdit-toute-manifestation-a-lyon-samedi-une-semaine-apres-les-violences-du-17-octobre_8248843.html#xtor=RSS-3-%5Bgeneral%5D",
+      "published": "2026-10-22 13:22",
+      "coverage": 4,
+      "n": 212
     },
     {
       "theme": "france",
@@ -2557,9 +2325,9 @@
       "link": "https://www.franceinfo.fr/politique/front-national/olivier-faure-sera-present-a-la-manifestation-contre-le-rn-a-orleans-pour-faire-face-au-discours-de-l-extreme-droite_8248537.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 09:54",
       "coverage": 4,
-      "n": 235,
+      "n": 213,
       "also": [
-        240
+        219
       ]
     },
     {
@@ -2570,10 +2338,10 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/autour-du-congres-du-rn-a-orleans-un-dispositif-de-securite-exceptionnel_6798661_823448.html",
       "published": "2026-10-22 20:08",
       "coverage": 3,
-      "n": 236,
+      "n": 214,
       "also": [
-        246,
-        249
+        226,
+        229
       ]
     },
     {
@@ -2584,7 +2352,17 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/22/la-montee-des-extremes-droites-dans-les-etats-membres-de-l-ue-suscite-une-forte-inquietude-au-sein-des-institutions-europeennes_6798659_3210.html",
       "published": "2026-10-22 20:00",
       "coverage": 3,
-      "n": 237
+      "n": 215
+    },
+    {
+      "theme": "france",
+      "source": "Le Monde - Politique",
+      "title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
+      "summary": "Le parquet de Metz, chargé de l’enquête, a confirmé, jeudi, la mort des deux militaires à bord du Mirage 2000 D qui s’est écrasé mardi soir près de Nancy, lors du retour d’un vol d’entraînement. Les circonstances de l’accident restent pour l’heure inconnues.",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
+      "published": "2026-10-22 19:58",
+      "coverage": 3,
+      "n": 216
     },
     {
       "theme": "france",
@@ -2594,7 +2372,7 @@
       "link": "https://www.lemonde.fr/penurie-de-carburant/article/2026/10/22/carburant-le-gouvernement-rembourse-les-interets-de-prets-aux-petites-stations-service-pour-accelerer-la-baisse-des-prix-des-novembre_6798648_6145475.html",
       "published": "2026-10-22 18:47",
       "coverage": 3,
-      "n": 238
+      "n": 217
     },
     {
       "theme": "france",
@@ -2604,7 +2382,7 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/au-dela-du-cout-de-la-vie-ce-dont-il-etait-question-le-17-octobre-c-est-du-delitement-de-notre-democratie_6798634_3232.html",
       "published": "2026-10-22 17:00",
       "coverage": 3,
-      "n": 239
+      "n": 218
     },
     {
       "theme": "france",
@@ -2614,7 +2392,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/olivier-faure-bally-bagayoko-et-sophie-binet-attendus-a-la-manifestation-contre-le-rn-a-orleans_6798593_823448.html",
       "published": "2026-10-22 10:49",
       "coverage": 3,
-      "n": 240
+      "n": 219
     },
     {
       "theme": "france",
@@ -2624,7 +2402,17 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/mobilisation-sociale-le-gouvernement-et-les-deputes-s-opposent-sur-l-ouverture-de-l-assemblee-nationale-les-24-et-25-octobre_6798587_823448.html",
       "published": "2026-10-22 10:14",
       "coverage": 3,
-      "n": 241
+      "n": 220
+    },
+    {
+      "theme": "france",
+      "source": "Le Monde - Société",
+      "title": "Accident du Mirage 2000 D près de Nancy : la mort des deux militaires confirmée par le parquet",
+      "summary": "Le parquet de Metz, chargé de l’enquête, a confirmé, jeudi, la mort des deux militaires à bord du Mirage 2000 D qui s’est écrasé mardi soir près de Nancy, lors du retour d’un vol d’entraînement. Les circonstances de l’accident restent pour l’heure inconnues.",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/22/accident-du-mirage-2000-d-pres-de-nancy-la-mort-des-deux-militaires-confirmee-par-le-parquet_6798657_3224.html",
+      "published": "2026-10-22 19:58",
+      "coverage": 3,
+      "n": 221
     },
     {
       "theme": "france",
@@ -2634,7 +2422,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/manifester-n-est-plus-un-droit-mais-un-risque-qu-on-doit-prendre-pour-les-manifestants-du-17-octobre-la-question-d-y-retourner-ou-pas_6798554_823448.html",
       "published": "2026-10-22 05:45",
       "coverage": 3,
-      "n": 242
+      "n": 222
     },
     {
       "theme": "france",
@@ -2644,7 +2432,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/apres-le-17-octobre-aux-comparutions-avec-reconnaissance-prealable-de-culpabilite-deja-sept-mentions-a-votre-casier-arretez-maintenant-concentrez-vous-sur-votre-vie-et-votre-boulot_6798550_3224.html",
       "published": "2026-10-22 05:10",
       "coverage": 3,
-      "n": 243
+      "n": 223
     },
     {
       "theme": "france",
@@ -2654,7 +2442,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/a-la-cour-d-assises-des-bouches-du-rhone-derriere-un-triple-narchomicide-barbare-des-preuves-materielles-compromettantes_6798514_3224.html",
       "published": "2026-10-22 05:00",
       "coverage": 3,
-      "n": 244
+      "n": 224
     },
     {
       "theme": "france",
@@ -2664,7 +2452,7 @@
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-dans-les-bouches-du-rhone-les-habitants-decouvrent-l-ampleur-des-degats_8249650.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 22:02",
       "coverage": 3,
-      "n": 245
+      "n": 225
     },
     {
       "theme": "france",
@@ -2674,7 +2462,7 @@
       "link": "https://www.franceinfo.fr/economie/greve/il-faut-assumer-de-dire-que-ca-doit-etre-une-demonstration-de-force-un-dispositif-de-securite-xxl-samedi-renforce-a-orleans-en-marge-du-congres-du-rn_8249614.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 21:40",
       "coverage": 3,
-      "n": 246
+      "n": 226
     },
     {
       "theme": "france",
@@ -2684,7 +2472,7 @@
       "link": "https://www.franceinfo.fr/faits-divers/connu-des-services-de-police-66-ans-le-profil-du-second-suspect-interpelle-dans-l-enquete-sur-l-incendie-de-la-mairie-de-limoges_8249575.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 21:08",
       "coverage": 3,
-      "n": 247
+      "n": 227
     },
     {
       "theme": "france",
@@ -2694,7 +2482,7 @@
       "link": "https://www.franceinfo.fr/monde/grece/beaucoup-n-ont-plus-les-moyens-d-etudier-en-grece-les-jeunes-descendent-aussi-dans-la-rue-contre-la-vie-chere_8248579.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 13:43",
       "coverage": 3,
-      "n": 248
+      "n": 228
     },
     {
       "theme": "france",
@@ -2704,7 +2492,7 @@
       "link": "https://www.franceinfo.fr/economie/greve/il-y-aura-un-dispositif-exceptionnel-pour-le-congres-du-rns-assure-le-maire-d-orleans_8248453.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 08:38",
       "coverage": 3,
-      "n": 249
+      "n": 229
     },
     {
       "theme": "france",
@@ -2714,9 +2502,9 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/en-region-auvergne-rhone-alpes-la-reponse-securitaire-de-la-majorite-regionale-au-malaise-lyceen_6798666_823448.html",
       "published": "2026-10-22 22:15",
       "coverage": 2,
-      "n": 250,
+      "n": 230,
       "also": [
-        257
+        237
       ]
     },
     {
@@ -2727,7 +2515,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/reunion-des-partis-a-matignon-la-gauche-decue-le-rn-rassure-et-le-gouvernement-fait-du-retour-a-l-ordre-public-sa-priorite_6798656_823448.html",
       "published": "2026-10-22 19:51",
       "coverage": 2,
-      "n": 251
+      "n": 231
     },
     {
       "theme": "france",
@@ -2737,7 +2525,7 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/comment-l-amerique-du-sud-est-devenue-une-terre-de-mission-pour-les-libertariens_6798650_3232.html",
       "published": "2026-10-22 19:00",
       "coverage": 2,
-      "n": 252
+      "n": 232
     },
     {
       "theme": "france",
@@ -2747,9 +2535,9 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/a-normale-sup-les-etudiants-mobilises-animent-une-universite-populaire_6798622_3224.html",
       "published": "2026-10-22 15:00",
       "coverage": 2,
-      "n": 253,
+      "n": 233,
       "also": [
-        259
+        239
       ]
     },
     {
@@ -2760,9 +2548,9 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/presidentielle-2027-en-pleine-crise-sociale-edouard-philippe-defend-ses-propositions-pour-les-familles_6798619_823448.html",
       "published": "2026-10-22 14:07",
       "coverage": 2,
-      "n": 254,
+      "n": 234,
       "also": [
-        260
+        240
       ]
     },
     {
@@ -2773,7 +2561,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/ponction-dans-les-comptes-de-l-unedic-l-etat-se-sert-dans-le-frigo-comme-un-squatteur-selon-les-acteurs-sociaux_6798601_823448.html",
       "published": "2026-10-22 11:36",
       "coverage": 2,
-      "n": 255
+      "n": 235
     },
     {
       "theme": "france",
@@ -2783,7 +2571,7 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/22/taux-d-interet-au-dela-des-5-une-hausse-qui-sanctionne-un-debat-budgetaire-enlise_6798598_3232.html",
       "published": "2026-10-22 11:30",
       "coverage": 2,
-      "n": 256
+      "n": 236
     },
     {
       "theme": "france",
@@ -2793,7 +2581,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/en-region-auvergne-rhone-alpes-la-reponse-securitaire-de-la-majorite-regionale-au-malaise-lyceen_6798666_823448.html",
       "published": "2026-10-22 22:15",
       "coverage": 2,
-      "n": 257
+      "n": 237
     },
     {
       "theme": "france",
@@ -2803,7 +2591,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/bobigny-deux-policiers-accuses-de-viols-aggraves-liberes-sous-surveillance-electronique_6798665_3224.html",
       "published": "2026-10-22 21:47",
       "coverage": 2,
-      "n": 258
+      "n": 238
     },
     {
       "theme": "france",
@@ -2813,7 +2601,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/a-normale-sup-les-etudiants-mobilises-animent-une-universite-populaire_6798622_3224.html",
       "published": "2026-10-22 15:00",
       "coverage": 2,
-      "n": 259
+      "n": 239
     },
     {
       "theme": "france",
@@ -2823,7 +2611,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/presidentielle-2027-en-pleine-crise-sociale-edouard-philippe-defend-ses-propositions-pour-les-familles_6798619_823448.html",
       "published": "2026-10-22 14:07",
       "coverage": 2,
-      "n": 260
+      "n": 240
     },
     {
       "theme": "france",
@@ -2833,7 +2621,7 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/22/banque-43-des-francais-sont-a-decouvert-au-moins-une-fois-par-an_6798573_3234.html",
       "published": "2026-10-22 07:00",
       "coverage": 2,
-      "n": 261
+      "n": 241
     },
     {
       "theme": "france",
@@ -2843,7 +2631,7 @@
       "link": "https://www.lemonde.fr/argent/article/2026/10/22/grand-age-et-bail-a-nourriture-quand-l-acquereur-des-biens-n-execute-pas-son-obligation-d-entretien_6798563_1657007.html",
       "published": "2026-10-22 06:00",
       "coverage": 2,
-      "n": 262
+      "n": 242
     },
     {
       "theme": "france",
@@ -2853,7 +2641,7 @@
       "link": "https://www.lemonde.fr/vie-au-travail/article/2026/10/22/le-cout-de-la-virilite-au-travail-aux-origines-de-la-deliquescence-du-monde-professionnel_6798559_6768900.html",
       "published": "2026-10-22 06:00",
       "coverage": 2,
-      "n": 263
+      "n": 243
     },
     {
       "theme": "france",
@@ -2863,7 +2651,7 @@
       "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-on-tape-un-chien-plus-il-devient-mechant-lance-une-representante-des-gilets-jaunes-apres-le-refus-de-leur-parcours-a-paris_8249077.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 15:41",
       "coverage": 2,
-      "n": 264
+      "n": 244
     },
     {
       "theme": "france",
@@ -2873,7 +2661,7 @@
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/eux-ca-fait-deux-jours-qu-ils-pompent-les-habitants-d-entressen-toujours-sinistres-par-les-inondations_8248981.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 13:58",
       "coverage": 2,
-      "n": 265
+      "n": 245
     },
     {
       "theme": "france",
@@ -2883,7 +2671,7 @@
       "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-manifestation-parisienne-autorisee-entre-bastille-et-nation-samedi_8248864.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 12:43",
       "coverage": 2,
-      "n": 266
+      "n": 246
     },
     {
       "theme": "france",
@@ -2893,7 +2681,7 @@
       "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-absence-de-reponse-politique-a-amene-a-l-accentuation-de-la-mobilisation-et-aux-drames-accuse-l-elu-lfi-bally-bagayoko_8248498.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 08:50",
       "coverage": 2,
-      "n": 267
+      "n": 247
     },
     {
       "theme": "france",
@@ -2903,7 +2691,7 @@
       "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-suspect-de-l-incendie-a-l-universite-de-rouen-presente-a-un-juge-d-instruction-en-vue-de-sa-mise-en-examen_8248483.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 08:31",
       "coverage": 2,
-      "n": 268
+      "n": 248
     },
     {
       "theme": "france",
@@ -2913,7 +2701,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/pierre-moscovici-demissionne-de-la-cour-des-comptes-europeenne-notamment-afin-de-preserver-sa-liberte-de-parole_6798623_823448.html",
       "published": "2026-10-22 15:11",
       "coverage": 1,
-      "n": 269
+      "n": 249
     },
     {
       "theme": "france",
@@ -2923,7 +2711,7 @@
       "link": "https://www.lemonde.fr/planete/article/2026/10/22/le-virus-shamonda-detecte-pour-la-premiere-fois-chez-un-humain-un-patient-immunodeprime-mort-en-france_6798613_3244.html",
       "published": "2026-10-22 13:20",
       "coverage": 1,
-      "n": 270
+      "n": 250
     },
     {
       "theme": "france",
@@ -2933,7 +2721,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/comme-si-j-etais-une-criminelle-interpelles-devant-leurs-lycees-des-eleves-racontent-leur-premiere-garde-a-vue_6798586_3224.html",
       "published": "2026-10-22 09:45",
       "coverage": 1,
-      "n": 271
+      "n": 251
     },
     {
       "theme": "france",
@@ -2943,7 +2731,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/quatre-organisations-de-lyceens-et-d-etudiants-ont-quitte-la-concertation-flash-sur-parcoursup_6798570_3224.html",
       "published": "2026-10-22 06:15",
       "coverage": 1,
-      "n": 272
+      "n": 252
     },
     {
       "theme": "france",
@@ -2953,7 +2741,7 @@
       "link": "https://www.lemonde.fr/politique/article/2026/10/22/brillant-mais-pas-politique-le-ministre-de-l-education-edouard-geffray-se-retrouve-sur-la-breche_6798552_823448.html",
       "published": "2026-10-22 05:30",
       "coverage": 1,
-      "n": 273
+      "n": 253
     },
     {
       "theme": "france",
@@ -2963,7 +2751,7 @@
       "link": "https://www.lemonde.fr/podcasts/article/2026/10/22/maintien-de-l-ordre-est-il-dangereux-de-manifester_6798516_5463015.html",
       "published": "2026-10-22 05:00",
       "coverage": 1,
-      "n": 274
+      "n": 254
     },
     {
       "theme": "france",
@@ -2973,7 +2761,7 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html",
       "published": "2026-10-22 04:00",
       "coverage": 1,
-      "n": 275
+      "n": 255
     },
     {
       "theme": "france",
@@ -2983,7 +2771,7 @@
       "link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-francaise-alerte-sur-les-taux-d-emprunt_8248849.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 17:00",
       "coverage": 1,
-      "n": 276
+      "n": 256
     },
     {
       "theme": "france",
@@ -2993,7 +2781,7 @@
       "link": "https://www.franceinfo.fr/culture/patrimoine/tulle-theatre-d-un-nouveau-record-a-l-accordeon-l-instrument-emblematique-de-la-ville-correzienne_8249158.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 16:43",
       "coverage": 1,
-      "n": 277
+      "n": 257
     },
     {
       "theme": "france",
@@ -3003,7 +2791,7 @@
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/intemperies-dans-le-sud-est/quatre-morts-et-un-disparu-dans-les-intemperies-dans-le-sud_8248480.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 08:23",
       "coverage": 1,
-      "n": 278
+      "n": 258
     },
     {
       "theme": "france",
@@ -3013,7 +2801,7 @@
       "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reportage-cela-fait-gagner-du-temps-c-est-moins-anxiogene-que-d-aller-dans-un-commissariat-la-cci-de-lyon-se-mobilise-pour-aider-les-commercants-sinistres_8247838.html#xtor=RSS-3-%5Bgeneral%5D",
       "published": "2026-10-22 07:23",
       "coverage": 1,
-      "n": 279
+      "n": 259
     },
     {
       "theme": "suisse",
@@ -3023,12 +2811,12 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/feux-d-artifice-le-conseil-federal-s-oppose-a-l-interdiction-29393210.html?rts_source=rss_t",
       "published": "2026-10-22 10:38",
       "coverage": 8,
-      "n": 280,
+      "n": 260,
       "also": [
-        281,
-        282,
-        300,
-        301
+        261,
+        262,
+        280,
+        281
       ]
     },
     {
@@ -3039,7 +2827,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2hQN1V4SzJVM0FjWVJ4TndGeVNmMXZYVXFSVUlvWnRxWHJSSTBsSlJwc3VjY2JvalRPRG9sdUhWQ0tRZGNjSmdvcXRkdGJwamtuWTFPZlEtTTN6NlhLYlRMZmpuWDFIRTlhUE5MQzlsTlJZN1YtSjBGWWNhWGlwMS04dFAxSU1WWjJUclEzdEFoWlQ1QmxoODJEMkhYY29zM0JRVUdLOGptZ1QwZUJNTjlUV3A2cUE5WVE?oc=5",
       "published": "2026-10-22 10:38",
       "coverage": 7,
-      "n": 281
+      "n": 261
     },
     {
       "theme": "suisse",
@@ -3049,7 +2837,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX3pLejJIdHpzeUtWYzYzc1lfblM0WmJlcHlKRFM0T0E0WThYQzZiaXQwYlVRZEIwbFMzZ0tCanJNQ3Z2RU9zT3luamx6WkdQeTZ1eUlfQ2RjSzUta1k2LWFVdmduNVpnSkNjTzZucEJDLXNmQlVGanQtb05NRlR0OFprdlhXRFIxYlhaS3p5OF8yNWFIcFNpcjRBVmdiSDR2RkR5RThtU3dtdERyUHlKdHJIZDNjRXBFZDcwYm55ZkpPdDFkRkF6RmJKc0hYZzdKcEg5MFNjUUJUSnVUWUV4Sg?oc=5",
       "published": "2026-10-22 21:09",
       "coverage": 7,
-      "n": 282
+      "n": 262
     },
     {
       "theme": "suisse",
@@ -3059,7 +2847,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-pierre-alain-schnegg-vise-la-succession-de-guy-parmelin-29393651.html?rts_source=rss_t",
       "published": "2026-10-22 17:30",
       "coverage": 6,
-      "n": 283
+      "n": 263
     },
     {
       "theme": "suisse",
@@ -3069,7 +2857,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-franz-gruter-renonce-au-conseil-federal-29393192.html?rts_source=rss_t",
       "published": "2026-10-22 09:34",
       "coverage": 6,
-      "n": 284
+      "n": 264
     },
     {
       "theme": "suisse",
@@ -3079,7 +2867,7 @@
       "link": "https://www.letemps.ch/articles/un-tableau-de-monet-vendu-50-millions-d-euros-a-paris-devient-l-oeuvre-d-art-la-plus-chere-jamais-vendue-aux-encheres-en-france",
       "published": "2026-10-22 19:52",
       "coverage": 6,
-      "n": 285
+      "n": 265
     },
     {
       "theme": "suisse",
@@ -3089,7 +2877,7 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQamJxYWp3eTBCMXlQc1pydTVqeF9RYlZkYkJ3SVJQcGZrNGdtelpZbWpaMnRjNmNaaUZBYTdWT0JjMDBOaGlWQmNRaFNZZTl1UXhEWjBGQy12eGZRdGhLcEhEQWdLaWhlSWtUdGxxU1lOcVJQYkcweTdPb1dVWTRFY3h5SDFHTWpKYUdzOVVOVnZuam5ocm1qUXdueWE2d3ZEc2FLaWRaWlBpNjdRVVhUTUtwSjN0U3RRT0pQb1c2NGoyTzVrckNvbg?oc=5",
       "published": "2026-10-22 17:30",
       "coverage": 6,
-      "n": 286
+      "n": 266
     },
     {
       "theme": "suisse",
@@ -3099,7 +2887,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUJNVG9oOUlfdEN5b3U4WmNmT2VZeVc2eVJuM3E3TnQ4Q194VWxYSV9uN09nd3lkZnRNUHM4d3JMeXZwUkRVY0VIeGZJbjZxOVZmU0R2QjQwTFRsR3hwN3lzSEpNanNETWRDQ24xa2hidlI0Y2Z1anVyWVYzMFdvUDBacHpESDhSWGk4dFVabGI0TXZhckdqRWxB?oc=5",
       "published": "2026-10-22 19:46",
       "coverage": 6,
-      "n": 287
+      "n": 267
     },
     {
       "theme": "suisse",
@@ -3109,7 +2897,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2E3Ylp1ZzJ0Mkp2SHp3MzJmNVZZdVZMY2l5ZnhJUk9Pa3RVQUM1RXZXbDlTcGV4ZkJxb1k1NS03cjBHSDJWVm1JN180akliMXlxMHRhMjlRV052enZrRjQ3XzJxRUozOVdqOTZNZ3JvbTR5V08wOERYN2hzMHVUTDdoYUdCZkVaQkVrREdfYk1ZRXhLT0JNdVZCSHFSM2pRY042UjMzb3dhMTV5YnlTUEwybTdvb01B?oc=5",
       "published": "2026-10-22 18:12",
       "coverage": 6,
-      "n": 288
+      "n": 268
     },
     {
       "theme": "suisse",
@@ -3119,7 +2907,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFpKNU4tZWh6ZTJ1bjcybE5uaml3bi1HVGkxSE9IeDJtY29WOVFXM3ZleWZ6T3ZLaVRmVVo3M21KTVI1RndyVEZJQzREOE1Vdmpjc0RHVllzZUtUeUJRM1p2d3pjY0t6QkFmVVhiRDl3S01vREpFajlCMERwNkxlY0pWWVlSMy1PTlFfMWR1RU1UUQ?oc=5",
       "published": "2026-10-22 18:35",
       "coverage": 6,
-      "n": 289
+      "n": 269
     },
     {
       "theme": "suisse",
@@ -3129,7 +2917,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTlBVmNPT3Z4OWlLS19oSU1sSmJhSjlSZjJJeVhwdzh4RG1NWjdwaHRNYjNYOFFXODdSY1VDRFl4bWR1T2dhUGM4YjRzYWJfSTIzUDVVVkw2Y01qRjFGcks2a01ZWjk4WEx4S3ZHeDJkTDU5WDdhS21iLVlNT2w2Y19qWHlrOHpINFgxVkM0RWNBWFBibWZJ?oc=5",
       "published": "2026-10-22 17:20",
       "coverage": 6,
-      "n": 290
+      "n": 270
     },
     {
       "theme": "suisse",
@@ -3139,7 +2927,7 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhRzVrUXNVTGNoYTVTYTF4MU9WdmlIdzdVbWVSS3k1RG9NREhUS0N1NElBdnpJd2d6M0xlWkVidkNacXh3VzVMLWNtTGRiQWU5eGJtQ09lTW5UeFRxS3JXdjh4cw?oc=5",
       "published": "2026-10-22 17:16",
       "coverage": 6,
-      "n": 291
+      "n": 271
     },
     {
       "theme": "suisse",
@@ -3149,7 +2937,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUpBWVc2dW9zNjhlYjBmQlBacms4cmR5ZHAyWHZrYVdaem93bGY5QlViR3VzMWV1M21lNXBfcUZIYUZsWnQ0NVF5X2VXV2ZORFAyN0RXTU9fQlJ3VFQ3ZHhLXzVQZUY2bFBLOGhTSkd6WnBqQ0VaLVJoaXdIYXM1bTg4MFlNLWJubEVzcVpOQXFXamZhbHJJ?oc=5",
       "published": "2026-10-22 22:07",
       "coverage": 6,
-      "n": 292
+      "n": 272
     },
     {
       "theme": "suisse",
@@ -3159,7 +2947,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVJiTl9qR3p0OVdiSG5teTRGYS11SlQ5UkRPSWYwcHpqaFhTUnBCWFZRaWZ5Z3ZSemFJbGRaRS04dWtjY0dZTlRmRk9aYmNhUHFQZzltaXBDVTRvcl9xSDZNWVJPNDZDOHhWNmtCSXQ5YW9QTU1kY0VlZWpGWkJGWUFoN0dLZUN1aWZVcTZucHpaT1JYeVI5dHhkYWZBWEJJT242VVlxWnpuaDlPQVp1bQ?oc=5",
       "published": "2026-10-22 18:46",
       "coverage": 6,
-      "n": 293
+      "n": 273
     },
     {
       "theme": "suisse",
@@ -3169,7 +2957,7 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1U0NnQ1RmVQMEJPU3pOQTNMeDFzczhkM1JSQm9lWUNiZXFJV2t4c2FiMlU1T1d2SnFCTW9mOW5udks5cGY0NkZYLXBUWnk2WlRTRUtBZWZ5eXZhTkJWNENzcGd4eExmaHVrU2RpSmZ0RktmcTRGV0NwU3Q3NEhEYzlMS2Y0aFNwejAzQWgtWjl6Z2h5eDc5dkdWNDNLNHVJUlpiVmFTWkV0TDJFdkdfeUVyMUNORGJYZWtyLU9R?oc=5",
       "published": "2026-10-22 17:45",
       "coverage": 6,
-      "n": 294
+      "n": 274
     },
     {
       "theme": "suisse",
@@ -3179,7 +2967,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGZkdiYlVmMm8tLWtiSk1IMkkwME8xell2Y3VxbUItdExEa05SNnU0RmpiS1lTMS1pYlU3dENzUGUtRlJuQnBxMWRCXzZCM1k?oc=5",
       "published": "2026-10-22 17:46",
       "coverage": 6,
-      "n": 295
+      "n": 275
     },
     {
       "theme": "suisse",
@@ -3189,7 +2977,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdEc0VHhmMFlsLW1oOENoTGc0QnRzOEZGaGZ4Vmc2S084cUdKZFAwVE5iRUw5Uk1UUkg1LThyeWd2cExrSV9USXFZMlBpdklrLVJUWUFld0tKanFRY0tvMjQ4NURwU0l2dFl1OFJUcVNBYXFFbHFJeC1rdmxLbkUtYXU2eWEzN0NRQWtRZERJZDQtalN3YWo2LTRkMGlBNWFUbWxoMWdZdTdwMWxudXYxNzlpUUV3UGR0LWFmWlpONTF2YjRPT2c?oc=5",
       "published": "2026-10-22 18:35",
       "coverage": 6,
-      "n": 296
+      "n": 276
     },
     {
       "theme": "suisse",
@@ -3199,7 +2987,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1JwREhQeFl3RkJSU3otNWpKMWxlME53ai1BSXcwRE5tZmRIOVp2bDJsV085SWZDM0FyelFubDhHOExhVzdIZ2MxdWFRRndtSk5qVVhkYksyUGk0T3JGTWcxcFUtSzFJVXM5TEtzRktyb1JuZzNwT21YQUFNZzVRMDZQZDIxNGxRQS01WGU0Tjh2NFR0eElJaUVKNUU1LWMyVy1rZQ?oc=5",
       "published": "2026-10-22 18:47",
       "coverage": 6,
-      "n": 297
+      "n": 277
     },
     {
       "theme": "suisse",
@@ -3209,7 +2997,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOanVxcDFWZWlsS1dRdS1heGNYdm1zMGtaSGg1Qmo5V3hyakFSck9FcExTakkzWVNnU25lQU5KN1V3Z0xfTXdPNVR3SzF4Vm1qTkE4QkJDTVc0VFg0TUR2NXFVZ3dNem0yY25vU1NqRFNtd1BQVEU2UzNyR3J0WHl0MzRqZ0Frd2Q0N2lSYXRKVnhyQXMtZkNfM19vRHM?oc=5",
       "published": "2026-10-22 17:37",
       "coverage": 6,
-      "n": 298
+      "n": 278
     },
     {
       "theme": "suisse",
@@ -3219,7 +3007,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzA5WHRwNnRIanBHSTFIajJFb1lleVplQ2lPaTZaRzhEVFVKcFg3dXB3amZjYlJRc0FCQzdJRmdnMi13WVotMDdtcFhsMGktdk5nNllHRWFRQnVWYWJOSXViUlNzMndrMU9fR3RFU19OMFB2b0VXN19jRDZ6WUwxXzNlSU1WZnN0Nkh1ZXRuS0FBcTM1YlZJMTktaFc?oc=5",
       "published": "2026-10-22 17:20",
       "coverage": 6,
-      "n": 299
+      "n": 279
     },
     {
       "theme": "suisse",
@@ -3229,7 +3017,7 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdk95OG1NTHJlb1JpV1RyNWZ0eXBONld6WjlWeXJ1OW54SVhXS0dqM01aZVZuVkh6bmZIeUplUGZtbHBlZUR0eFZPbWlIY3EwMEIyQVhYSGN6VEVkaXpCZVdtYUhzOWoyOHptTjhWbDRYYV93VFlyMjdBM0dOWUNHd2o3bWNNa055TUM1NDQ4TExPVGRab19YYTVCenI5YmtjM2lEdmtCQU1jRXNQY2NXdWVKZFZ1WGY2blRRNkdRSk5rVEFTN2pJNDZXSHZfRWZmOXY2d0o1R19yb2hrdndNTTllUUpZaVVhdGEyZXdKend2UzFSQW90S0k5RQ?oc=5",
       "published": "2026-10-22 12:45",
       "coverage": 6,
-      "n": 300
+      "n": 280
     },
     {
       "theme": "suisse",
@@ -3239,7 +3027,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMjNGaWthRllxb0wxZ3lmclVCWUEwNE5palVKRFpjU1pmaEFQY0hYOTJEcHE4X0d2VDJ1TjBrZDJFTjUtM0k0NWxDckJ0VGpEWjBiNm1sdDU2dURDQV9RUTRwNmM1dy01OVA5Y1B5N1dBM0VHSnJ6SVRpQ3ktazBTaGZ6ODQ2UWhld1o0b2EzMjZOb1lqWm5ZamdGYS1HYTNMODQ3elJIWEs3S3VyMkZmU19WeUh1V3ZaX1dPU0xLQnZYN1V3NGxGeFNkOV9oY3F6ZWVxZlpTbTNERUpVWDZPV1BVVkpVWlQ2a1JTTUJySldzMG5KOVJmT3E2QzUxU2RHcG0w?oc=5",
       "published": "2026-10-22 12:45",
       "coverage": 6,
-      "n": 301
+      "n": 281
     },
     {
       "theme": "suisse",
@@ -3249,7 +3037,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNmVlWVZNNXNPbHFiRDN1MFZfbmh6VloxeXJ6QXNjSTgxVVZvX1BIMUw3b1M3SmE4STJJS3ZqUGMtaHJ4YkZ4R1RXd05VNWZpLWJZTEttemhvOVRCMENnNjVRaGZKZ0JYOG9mUHg4RnJieDltVXgxOUpxUnlNNUNWN1JhekpwbEZCQ1hORGhkY0NIRHEwMEprQ3NpUmhkVm9oOGlsQnVxdl92TlhlcURhbVJndDh2NVRWR0l6dkNUWnF4dW9UOEtTRjkxRWk0bTAya0lSNVJmSTJmWGl6UW9VbTdoOFpUVWNmR1h5QjJvWG1FWThNQlNF?oc=5",
       "published": "2026-10-22 17:16",
       "coverage": 6,
-      "n": 302
+      "n": 282
     },
     {
       "theme": "suisse",
@@ -3259,7 +3047,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/secheresse-en-suisse-romande-le-niveau-d-alerte-enfin-abaisse-29393896.html?rts_source=rss_t",
       "published": "2026-10-22 21:59",
       "coverage": 5,
-      "n": 303
+      "n": 283
     },
     {
       "theme": "suisse",
@@ -3269,7 +3057,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-marco-chiesa-candidat-a-la-succession-de-guy-parmelin-29393719.html?rts_source=rss_t",
       "published": "2026-10-22 18:35",
       "coverage": 5,
-      "n": 304
+      "n": 284
     },
     {
       "theme": "suisse",
@@ -3279,7 +3067,7 @@
       "link": "https://www.letemps.ch/articles/avec-pierre-alain-schnegg-la-suisse-romande-tient-un-second-candidat-au-conseil-federal",
       "published": "2026-10-22 18:12",
       "coverage": 5,
-      "n": 305
+      "n": 285
     },
     {
       "theme": "suisse",
@@ -3289,7 +3077,7 @@
       "link": "https://www.letemps.ch/articles/avec-nicolas-hubert-la-suisse-romande-a-son-monsieur-froid",
       "published": "2026-10-22 10:24",
       "coverage": 5,
-      "n": 306
+      "n": 286
     },
     {
       "theme": "suisse",
@@ -3299,7 +3087,7 @@
       "link": "https://www.letemps.ch/articles/les-autorites-annoncent-prolonger-le-couvre-feu-dans-certains-secteurs-de-paris-toutes-les-nuits-jusqu-a-lundi-matin",
       "published": "2026-10-22 20:16",
       "coverage": 5,
-      "n": 307
+      "n": 287
     },
     {
       "theme": "suisse",
@@ -3309,17 +3097,7 @@
       "link": "https://www.letemps.ch/articles/avec-pierre-alain-schnegg-la-suisse-romande-tient-un-second-candidat-au-conseil-federal",
       "published": "2026-10-22 18:12",
       "coverage": 5,
-      "n": 308
-    },
-    {
-      "theme": "suisse",
-      "source": "Le Temps - Tous les articles",
-      "title": "La France face à une violence «algorithmique»: des experts alertent sur l’amplification des récits de colère par des puissances étrangères",
-      "summary": "Plusieurs experts accusent des agents d’influence russes ou iraniens d’amplifier les colères. Emmanuel Macron ne voit pas d’ingérence étrangère derrière le 17 octobre mais dénonce une manipulation de l’information a posteriori. Les services français poursuivent leurs investigations. Les plateformes TikTok, Meta et X ont été convoquées par le gouvernement Une population européenne éruptive face à la baisse du pouvoir d’achat et à des services…",
-      "link": "https://www.letemps.ch/articles/la-france-face-a-une-violence-algorithmique-la-question-des-ingerences-etrangeres-et-des-reseaux-sociaux",
-      "published": "2026-10-22 17:12",
-      "coverage": 5,
-      "n": 309
+      "n": 288
     },
     {
       "theme": "suisse",
@@ -3329,7 +3107,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnVaQjdQQ0loTFNYT2k0cllmcHZUNjlHQXNsYjc1bEhRd0RNZFVPVkZhQmdTSjhrYVlmRy1vNnZ4bW16d1RUT2JObkJHZHE5X0dWakVTSzg2ZjBQZ3ZQS01DWVRNVkxDSWVaejhjUnVqUXBuQVcwbVo2aV9KcjlFTlRQenBFQTdnMF9NTHVGd29yUXIzdVVtTjdHU1VYVTRl?oc=5",
       "published": "2026-10-22 17:31",
       "coverage": 5,
-      "n": 310
+      "n": 289
     },
     {
       "theme": "suisse",
@@ -3339,9 +3117,9 @@
       "link": "https://www.letemps.ch/articles/l-udc-lance-sa-campagne-pour-les-federales-2027-avec-un-livre-noir-et-un-vocabulaire-crepusculaire",
       "published": "2026-10-22 18:05",
       "coverage": 4,
-      "n": 311,
+      "n": 290,
       "also": [
-        313
+        292
       ]
     },
     {
@@ -3352,7 +3130,7 @@
       "link": "https://www.letemps.ch/articles/conseiller-national-lucernoisfranz-gruter-conseiller-national-udc-lucernois-renonce-a-briguer-la-succession-de-guy-parmelin",
       "published": "2026-10-22 07:28",
       "coverage": 4,
-      "n": 312
+      "n": 291
     },
     {
       "theme": "suisse",
@@ -3362,17 +3140,17 @@
       "link": "https://www.letemps.ch/articles/l-udc-lance-sa-campagne-pour-les-federales-2027-avec-un-livre-noir-et-un-vocabulaire-crepusculaire",
       "published": "2026-10-22 18:05",
       "coverage": 4,
-      "n": 313
+      "n": 292
     },
     {
       "theme": "suisse",
-      "source": "RTS Info - Suisse",
-      "title": "Le peuple suisse vote sur une hausse de la TVA pour financer la 13e rente AVS",
-      "summary": "La population suisse vote le 29 novembre sur la solution du Parlement pour financer la 13e rente AVS, qui prévoit un relèvement de la TVA de 0,4 point de pourcentage. Quel que soit le résultat, la 13e rente sera versée dès décembre 2026. Mais en cas de rejet, son financement restera à trouver.",
-      "link": "https://www.rts.ch/info/suisse/2026/article/13e-rente-avs-vote-sur-la-hausse-de-la-tva-le-29-novembre-29392493.html?rts_source=rss_t",
-      "published": "2026-10-22 22:00",
-      "coverage": 3,
-      "n": 314
+      "source": "Le Temps - Tous les articles",
+      "title": "La France face à une violence «algorithmique»: des experts alertent sur l’amplification des récits de colère par des puissances étrangères",
+      "summary": "Plusieurs experts accusent des agents d’influence russes ou iraniens d’amplifier les colères. Emmanuel Macron ne voit pas d’ingérence étrangère derrière le 17 octobre mais dénonce une manipulation de l’information a posteriori. Les services français poursuivent leurs investigations. Les plateformes TikTok, Meta et X ont été convoquées par le gouvernement Une population européenne éruptive face à la baisse du pouvoir d’achat et à des services…",
+      "link": "https://www.letemps.ch/articles/la-france-face-a-une-violence-algorithmique-la-question-des-ingerences-etrangeres-et-des-reseaux-sociaux",
+      "published": "2026-10-22 17:12",
+      "coverage": 4,
+      "n": 293
     },
     {
       "theme": "suisse",
@@ -3382,9 +3160,9 @@
       "link": "https://www.letemps.ch/articles/faille-de-cybersecurite-faute-de-moyens-beaucoup-de-sites-de-pme-et-d-associations-vont-rester-vulnerables-ces-prochaines-semaines",
       "published": "2026-10-22 18:59",
       "coverage": 3,
-      "n": 315,
+      "n": 294,
       "also": [
-        317
+        296
       ]
     },
     {
@@ -3395,7 +3173,7 @@
       "link": "https://www.letemps.ch/articles/pour-albert-rosti-une-interdiction-generale-des-feux-d-artifice-va-trop-loin",
       "published": "2026-10-22 10:43",
       "coverage": 3,
-      "n": 316
+      "n": 295
     },
     {
       "theme": "suisse",
@@ -3405,7 +3183,7 @@
       "link": "https://www.letemps.ch/articles/faille-de-cybersecurite-faute-de-moyens-beaucoup-de-sites-de-pme-et-d-associations-vont-rester-vulnerables-ces-prochaines-semaines",
       "published": "2026-10-22 18:59",
       "coverage": 3,
-      "n": 317
+      "n": 296
     },
     {
       "theme": "suisse",
@@ -3415,7 +3193,17 @@
       "link": "https://www.letemps.ch/articles/la-banque-barclays-annonce-supprimer-environ-5000-emplois-qu-elle-remplace-par-l-ia",
       "published": "2026-10-22 16:11",
       "coverage": 3,
-      "n": 318
+      "n": 297
+    },
+    {
+      "theme": "suisse",
+      "source": "RTS Info - Suisse",
+      "title": "Le peuple suisse vote sur une hausse de la TVA pour financer la 13e rente AVS",
+      "summary": "La population suisse vote le 29 novembre sur la solution du Parlement pour financer la 13e rente AVS, qui prévoit un relèvement de la TVA de 0,4 point de pourcentage. Quel que soit le résultat, la 13e rente sera versée dès décembre 2026. Mais en cas de rejet, son financement restera à trouver.",
+      "link": "https://www.rts.ch/info/suisse/2026/article/13e-rente-avs-vote-sur-la-hausse-de-la-tva-le-29-novembre-29392493.html?rts_source=rss_t",
+      "published": "2026-10-22 22:00",
+      "coverage": 2,
+      "n": 298
     },
     {
       "theme": "suisse",
@@ -3425,7 +3213,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/cedh-la-suisse-condamnee-dans-l-affaire-brian-k-alias-carlos-29393431.html?rts_source=rss_t",
       "published": "2026-10-22 14:18",
       "coverage": 2,
-      "n": 319
+      "n": 299
     },
     {
       "theme": "suisse",
@@ -3435,7 +3223,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/neige-en-suisse-fermeture-de-plusieurs-cols-alpins-29393230.html?rts_source=rss_t",
       "published": "2026-10-22 13:20",
       "coverage": 2,
-      "n": 320
+      "n": 300
     },
     {
       "theme": "suisse",
@@ -3445,7 +3233,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/un-suisse-sur-six-depense-plus-du-tiers-de-ses-revenus-pour-se-loger-29393099.html?rts_source=rss_t",
       "published": "2026-10-22 03:35",
       "coverage": 2,
-      "n": 321
+      "n": 301
     },
     {
       "theme": "suisse",
@@ -3455,9 +3243,9 @@
       "link": "https://www.letemps.ch/articles/faire-son-ecole-de-recrues-aujourd-hui-d-un-coup-on-realise-qu-un-jour-ca-pourrait-ne-plus-etre-un-exercice",
       "published": "2026-10-22 15:36",
       "coverage": 2,
-      "n": 322,
+      "n": 302,
       "also": [
-        328
+        308
       ]
     },
     {
@@ -3468,7 +3256,7 @@
       "link": "https://www.letemps.ch/articles/un-media-libyen-annonce-la-liberation-de-deux-otages-europeennes-dont-une-suissesse-enlevees-au-niger",
       "published": "2026-10-22 04:53",
       "coverage": 2,
-      "n": 323
+      "n": 303
     },
     {
       "theme": "suisse",
@@ -3478,7 +3266,7 @@
       "link": "https://www.letemps.ch/articles/cessez-de-vous-inquieter-pour-les-enfants-de-celine-amaudruz",
       "published": "2026-10-22 20:35",
       "coverage": 2,
-      "n": 324
+      "n": 304
     },
     {
       "theme": "suisse",
@@ -3488,7 +3276,7 @@
       "link": "https://www.letemps.ch/articles/j-ai-du-abandonner-mon-metier-ou-comment-la-maternite-bouleverse-les-trajectoires-professionnelles",
       "published": "2026-10-22 20:31",
       "coverage": 2,
-      "n": 325
+      "n": 305
     },
     {
       "theme": "suisse",
@@ -3498,7 +3286,7 @@
       "link": "https://www.letemps.ch/articles/de-l-epfl-a-neuchatel-de-londres-a-tokyo-une-course-contre-la-montre-est-lancee-pour-securiser-le-web",
       "published": "2026-10-22 19:10",
       "coverage": 2,
-      "n": 326
+      "n": 306
     },
     {
       "theme": "suisse",
@@ -3508,7 +3296,7 @@
       "link": "https://www.letemps.ch/articles/la-premiere-coupe-du-monde-des-clubs-feminine-de-football-aura-lieu-aux-etats-unis-en-2028",
       "published": "2026-10-22 19:02",
       "coverage": 2,
-      "n": 327
+      "n": 307
     },
     {
       "theme": "suisse",
@@ -3518,7 +3306,7 @@
       "link": "https://www.letemps.ch/articles/faire-son-ecole-de-recrues-aujourd-hui-d-un-coup-on-realise-qu-un-jour-ca-pourrait-ne-plus-etre-un-exercice",
       "published": "2026-10-22 15:36",
       "coverage": 2,
-      "n": 328
+      "n": 308
     },
     {
       "theme": "suisse",
@@ -3528,7 +3316,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/publica-les-donnees-de-100-000-employes-federaux-piratees-29392327.html?rts_source=rss_t",
       "published": "2026-10-21 20:45",
       "coverage": 1,
-      "n": 329
+      "n": 309
     },
     {
       "theme": "suisse",
@@ -3538,7 +3326,7 @@
       "link": "https://www.rts.ch/info/suisse/2026/article/conseil-federal-seuls-2-candidats-pour-succeder-a-guy-parmelin-29392789.html?rts_source=rss_t",
       "published": "2026-10-21 20:43",
       "coverage": 1,
-      "n": 330
+      "n": 310
     },
     {
       "theme": "suisse",
@@ -3548,7 +3336,7 @@
       "link": "https://www.letemps.ch/articles/erwin-sperisen-n-a-rien-d-un-innocent-aux-yeux-du-tribunal-federal",
       "published": "2026-10-22 11:01",
       "coverage": 1,
-      "n": 331
+      "n": 311
     },
     {
       "theme": "suisse",
@@ -3558,7 +3346,7 @@
       "link": "https://www.letemps.ch/articles/a-vevey-le-grand-gachis-du-service-de-la-culture",
       "published": "2026-10-22 08:33",
       "coverage": 1,
-      "n": 332
+      "n": 312
     },
     {
       "theme": "suisse",
@@ -3568,7 +3356,7 @@
       "link": "https://www.letemps.ch/articles/il-faut-terminer-le-travail-en-serbie-les-etudiants-bousculent-le-regime-d-aleksandar-vucic",
       "published": "2026-10-22 20:43",
       "coverage": 1,
-      "n": 333
+      "n": 313
     },
     {
       "theme": "suisse",
@@ -3578,7 +3366,7 @@
       "link": "https://www.letemps.ch/articles/les-etats-unis-creent-un-nouveau-parc-national-mais-aucun-conservationniste-ne-sabre-le-champagne",
       "published": "2026-10-22 20:08",
       "coverage": 1,
-      "n": 334
+      "n": 314
     },
     {
       "theme": "suisse",
@@ -3588,7 +3376,7 @@
       "link": "https://www.letemps.ch/articles/le-consensus-scientifique-en-politique-la-methode-pour-avancer-meme-lorsque-les-donnees-ne-sont-pas-toutes-la",
       "published": "2026-10-22 19:53",
       "coverage": 1,
-      "n": 335
+      "n": 315
     },
     {
       "theme": "suisse",
@@ -3598,7 +3386,7 @@
       "link": "https://www.letemps.ch/articles/on-se-croirait-au-victoria-hall-aux-hug-une-symphonie-en-realite-virtuelle-pour-soulager-la-douleur-des-dialyses",
       "published": "2026-10-22 18:51",
       "coverage": 1,
-      "n": 336
+      "n": 316
     },
     {
       "theme": "suisse",
@@ -3608,7 +3396,7 @@
       "link": "https://www.letemps.ch/articles/dans-l-echelle-de-turin-marc-van-dongen-plonge-dans-le-vertige-de-ses-nuits-d-insomnie-ou-se-deploie-son-obsession-pour-un-asteroide",
       "published": "2026-10-22 18:49",
       "coverage": 1,
-      "n": 337
+      "n": 317
     },
     {
       "theme": "suisse",
@@ -3618,7 +3406,7 @@
       "link": "https://www.letemps.ch/articles/non-a-la-hausse-de-la-tva",
       "published": "2026-10-22 17:58",
       "coverage": 1,
-      "n": 338
+      "n": 318
     },
     {
       "theme": "suisse",
@@ -3628,7 +3416,7 @@
       "link": "https://www.letemps.ch/articles/et-si-la-suisse-ne-manquait-pas-de-talents-mais-ne-savait-pas-toujours-les-voir",
       "published": "2026-10-22 17:57",
       "coverage": 1,
-      "n": 339
+      "n": 319
     },
     {
       "theme": "suisse",
@@ -3638,7 +3426,7 @@
       "link": "https://www.letemps.ch/articles/des-montagnes-du-yemen-a-la-scene-regionale-l-ascension-des-houthis-avec-l-appui-de-l-iran",
       "published": "2026-10-22 15:26",
       "coverage": 1,
-      "n": 340
+      "n": 320
     },
     {
       "theme": "vaud",
@@ -3648,10 +3436,10 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWVJdk1UVHAxTTZEU3pub0RGQnBXaGZTZ2VpVXZlNFIxZ2xxYmZrWVNKQUR0TmRLVmZyY2FmS280NkdHbkpxN2hIR2xMUTBjSkNGUUQ1SFVfNUFUaXItdGY4cTYwVFU5SDRrbW9QQXp5SmtfNGthU1BON3c4dGJCVHdsV0lKbkJQdDAwQVpfYl9QTzVrcF9scVZpZWxZU0FiOTNB?oc=5",
       "published": "2026-10-22 19:53",
       "coverage": 6,
-      "n": 341,
+      "n": 321,
       "also": [
-        345,
-        346
+        325,
+        326
       ]
     },
     {
@@ -3662,7 +3450,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1JCYktBb2Mzb2NmcXJsajdJWG5nZEdMdHNtYmNPdTNYSTAteTh4X2tjcDI5UzR6SlFPdlQxSHN0Wm91M2FWRVVkR2VnaWtoNGZJMy1LazVvbU1qQ2NaakdFQnUtX2Y2dGFDcFliYVdTX000T3lhRW9KMGp5MU1RalVxbHVMVTJOU0ZERTQ4RDE?oc=5",
       "published": "2026-10-22 11:16",
       "coverage": 6,
-      "n": 342
+      "n": 322
     },
     {
       "theme": "vaud",
@@ -3672,7 +3460,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3JPVHFmODgtMzVITWwzWkVES0R6bnZhaXptX1RRLWZ3aE9YZFpyUHNkWVpPRTdtY2JMRXFSWWFnRFFuNm9KMjlaWFJRS0lmVE41SEwzQkt2U0FreUVaV0c5YlAyc3NCcHVuMzJESEo4UWFVLUQ1RmdfdG1ETk5XRkJQRGVPUVJQbTFXaUNBU2JrVnF2LU85elZUQ3QtMU5kZDlkdXJKYjg?oc=5",
       "published": "2026-10-22 16:41",
       "coverage": 6,
-      "n": 343
+      "n": 323
     },
     {
       "theme": "vaud",
@@ -3682,7 +3470,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0VMYlFVSXdacWxXV0l1dkFUMS1DdDlQV3IxSUZtRjZaak84Q2lxdWlfMUdJS2hvMHF1RnRJaGFhVXRMYzB6QWdhUlcwMzExS0RhRWRIbWJabWkzTEJMUlhTYmc5Q3VtUXIxNG5xN2VseUVsbzdLc1pNZHk5eVBERWR4WS0tUFlsZUxxNVJrN213UFJ5aEZoeXlhT2NFLVB2U3BKTkNOc2VSWnMzSlNON0ZoLUNxZ1MzQXdPLURhSQ?oc=5",
       "published": "2026-10-22 18:00",
       "coverage": 6,
-      "n": 344
+      "n": 324
     },
     {
       "theme": "vaud",
@@ -3692,7 +3480,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzFTRlZ6QjdRTUU2WkFTV2xnamxrbXl0b3ZrM1RxdE9OaTg5NjhzVEVZeFZPVDktQ0lqbXBKU1FIclhPNU5TQWd3Y19PcmNEZ1Q2UVp4WXpuSFM1YkFYZHFtVEdYcVNuUDJsLWhGUm05dW54cEl3c0lLVFROa3MxT3ExeThES18yR0RFdzdrT1pUUTNfdjJRSlVsZl9nYkNWVjB2eDZscW50NExIWDRkRGhUUmpZdzJRcjYw?oc=5",
       "published": "2026-10-22 11:17",
       "coverage": 6,
-      "n": 345
+      "n": 325
     },
     {
       "theme": "vaud",
@@ -3702,7 +3490,7 @@
       "link": "https://www.rts.ch/info/regions/vaud/2026/article/un-seisme-de-magnitude-3-8-ressenti-pres-des-diablerets-29393318.html?rts_source=rss_t",
       "published": "2026-10-22 11:17",
       "coverage": 5,
-      "n": 346
+      "n": 326
     },
     {
       "theme": "vaud",
@@ -3712,7 +3500,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW1DNkdDWDlPeXFDSkVuZm1zUXF6b21GNjhHN182TzI3dFFETVUtdURtNllKRXVNcEpoYzR3N2Q2Mjh3RzJGUDdBVjIxLVY5UERJVmFsN1JLWFJDOGF3TzV1MmdRLUFiNkdtdHJaeml0UXhBSGE0cTJFMUFHV2V1VlkyTm9zUm9qeGdyakljODB5dXctYl82ZkFpSjJMZ2JqY3dzYUh5Y3p1NU9lc3c?oc=5",
       "published": "2026-10-22 10:00",
       "coverage": 5,
-      "n": 347
+      "n": 327
     },
     {
       "theme": "vaud",
@@ -3722,7 +3510,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3liMnlaVVE5c1B5YmZkT3k3RWZkc1RXR3JzdWNLOUJBNXh6UG9Va0w2aHc2TFNiMnVGOHpDSmJDWDNGd1BQMWNHMUY3eUlKM0VoQm1aNmJreTB1ejZOdVd5ejRlS3E2aU5VcnVYbW13WE5pLXUxN1BoSXY2eVZJbDVwWG9LLUY1RG1PcnVfR3VlNFJOMnBsN2tUa0RVSTVOVk42RTI0SXdkT2J0NmR0NFEwVjlvYzRkQ2k4?oc=5",
       "published": "2026-10-22 19:30",
       "coverage": 4,
-      "n": 348
+      "n": 328
     },
     {
       "theme": "vaud",
@@ -3732,7 +3520,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1Y1VUN1T0NHVFBjeTRqeWFqWGxzYWJkaTBuYW1PdjVLZTZ3Vzl1bGlaV1lvaUQ1SzNlVUh5bXBTdzhoQVhabkhRVDc0R3Q5SUo0akt5MldaejdYWHpESVJLUUpxcmFTN3JoclBPNjVWWWIzTy1LR1pxOTRrSk9HN1pwb0J0UzJ5ckFUYzBtTE96UVh1RU13ZVcyQUE?oc=5",
       "published": "2026-10-22 17:26",
       "coverage": 4,
-      "n": 349
+      "n": 329
     },
     {
       "theme": "vaud",
@@ -3742,7 +3530,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZ3NhNTNiVFZ1a09pcVVDSW9FTlQtRlVJRWstWGRiYlQ5OVI3azA5N3E5dDl4N3BpSHZlbTNvMnRYY2tPUkhwT21ET2dVUXY5RS1CZHU1VnVxNXVia3h0SDdNM2NXZ0NaUkpiZV80dEdHaEhEYUR1S1A4bjlFRU5OZ1ZTbmFEdFdBLUtyWF9HRUMzMzFwM21CYW5mSzhUZkRWTEt5MHRCTDRoU2dySnVrS0xBWjk0d29GTUNiVDJXMzUwQk1ia2s3OHRXUlB0eWluM3RRcS1KYTRaTVZBZVF2Q2pmMFdsTWRVZ05MMG5JVE53dU1zZ2plb3NJSWRKSWt3UUhaTWFMeW9PRVlTNVVxR2JaX2RnNUxEY0ZZbHYwZEF0Z1IwalN5UFlYck5OTFdZYlNFYWZUazE4Y1k?oc=5",
       "published": "2026-10-22 19:00",
       "coverage": 4,
-      "n": 350
+      "n": 330
     },
     {
       "theme": "vaud",
@@ -3752,7 +3540,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGlBSzRHZHBjS0FzblFVUnJQaXk2ZEg0cUdFTnpHTkZvVUVGRUVwMjhDdzJteE1fLTRWVWtGOGhFRFFMYUxuZHFSR01EQ0Z4SWU5cV9MZk1FUmY1amhsM192bDR0VjREdmI5M3FjaFJpdkREY2xXNk1Dc205RXBaTWw4X05mNUJocU9GeDdYLXRNb0J2SEQ1cDBxRnhtY2RlT0Nzeg?oc=5",
       "published": "2026-10-22 11:39",
       "coverage": 4,
-      "n": 351
+      "n": 331
     },
     {
       "theme": "vaud",
@@ -3762,7 +3550,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYjN1SUgxRkRlZ1RUWDM5U2hYd09YOUNiZEp1UHNiQVJKVjhpdDNtWXNRZU00VXg5dUpEaDFMTUt0Z25aSFBmZmVqMEdlOC0wYTlQT2k0dmNVWFJtdTdXSGlhdm96VVR3UHVNWGw3bV9UeldJWkx6TGc5T2U1cUdMb1dKOEphMDhDQWVSUW11ZXdnVmppbmxodU9MV19TNXN2d3UxQ0FwamRDYlQ5MWNQYnJ2N1JuNGVhdnRpX1dkR3I4dzNKVzNyeU9wRm1Wc1JLZXVqT3NCWGJMbVJpZEhkVmJZb2FmZ0JEMEtxQU1pc1JTVnM0SGw5TFhsSlBtZG1XcnAwX0MteWNuQQ?oc=5",
       "published": "2026-10-22 19:05",
       "coverage": 4,
-      "n": 352
+      "n": 332
     },
     {
       "theme": "vaud",
@@ -3772,7 +3560,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbm4zdU1KU0lJYlBLVlRhSTdjSndVT0NTQkQtLTlQV0o3TUx3emlNNGt2UE1IY2FjcFdBRHVnSTJHVkhhTlBkTWZCa1daSkRvUWpfSEV2eEVCX19IbFotcmhmODBhR0RUTkRDQjlzczAyTkVxNGxnWVJHZVB0NWN1ZDVHVGxMdFJFYm1kNXhWLUZhTDZlS0pXOUNn?oc=5",
       "published": "2026-10-22 17:33",
       "coverage": 4,
-      "n": 353
+      "n": 333
     },
     {
       "theme": "vaud",
@@ -3782,7 +3570,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkI4TlNLRFl6djhmNUhCaExuTVhpSU1wVXdscF9NMjNWUkJzNlRHZzZPRWFpMWppdEllREdWcVdWVEllZHpmQ2VNTjl5MXJKUnp2cWtoTmVINTQ0dTlGbHBIQWpxWkJxUUpabnR4N2tBVUZYU1ZlcGZLbUJUV2tjWXA4YmNTY1k5Y2FZVHd6b3p5dktmdTVKbThwejFWSlE?oc=5",
       "published": "2026-10-22 12:26",
       "coverage": 4,
-      "n": 354
+      "n": 334
     },
     {
       "theme": "vaud",
@@ -3792,7 +3580,7 @@
       "link": "https://www.rts.ch/info/regions/vaud/2026/article/vaud-manon-schick-critiquee-a-la-protection-des-mineurs-29393674.html?rts_source=rss_t",
       "published": "2026-10-22 19:30",
       "coverage": 3,
-      "n": 355
+      "n": 335
     },
     {
       "theme": "vaud",
@@ -3802,7 +3590,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjFhTlVQXzRxZF82SHZwVHB6SEpxWkFpVWpVWFg1bFF1RV9LUmdTM1h0R0Y1QWM1dndUajhhamNTdjZJUHI0cTJMRWoxTTZZY3o2MWRLNUhPeUZ5cTBDU2NVQ2hXODduSlN4ODkyTFRReFl1S0NXUUkyNGxELWVONm14c0tyLVMzaExZOHpkQUM0R0VpY3gzcm1HeFlfaE5sNXQ2RGx3V1lNczdwWEpnbDJkaW1nZms?oc=5",
       "published": "2026-10-22 18:43",
       "coverage": 3,
-      "n": 356
+      "n": 336
     },
     {
       "theme": "vaud",
@@ -3812,7 +3600,17 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93emIzNU81YzdiNHFRSUdXRHNBM1lwNmdXZy1GUzdDY1B6WWJCazdGTkYzOGItdjNQbWJuNFdXSHVnYkVOUnZQV0dfMGgyU3JOa1ZkSGktVkRHaVJkRmlYS01waElwUGhIX0daU2tWaGlQcVh6UXlGUkpxRHlpUWs?oc=5",
       "published": "2026-10-22 19:14",
       "coverage": 2,
-      "n": 357
+      "n": 337
+    },
+    {
+      "theme": "vaud",
+      "source": "Google News - Lausanne",
+      "title": "A Lausanne, les essais du futur tram suscitent des plaintes de riverains: les signaux d’ouverture et de fermeture des portes résonnent jusque dans les logements. Les TL invoquent la sécurité et disent étudier des adaptations. 👉 Retrouvez l'article complet: http - Facebook",
+      "summary": "A Lausanne, les essais du futur tram suscitent des plaintes de riverains: les signaux d’ouverture et de fermeture des portes résonnent jusque dans les logements. Les TL invoquent la sécurité et disent étudier des adaptations. 👉 Retrouvez l'article complet: http Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzJOZUpua19OV19XYkhMam50dGZuQ3lSQ2VlbldhQ01hWmtpR3NpYmVyb0tkbVhTMVRFTGxyN0NnSk9acXdjbXZMTmVRTFNudDA3b0ZzTTA4dU9KeURuZXVWLWtOWEVUYmZsWnpTRzFkc0U0bG9nWkM4SDVGMG9ENlBpSERDWGhhYWtyZUlqN0RfekJWSExXX2F1dWFfbklhemxUVElQU0pRSlNuMmE0UVh1N25qMGx4WkI1VTA5bzJlMlpBUjBTOEg4VzdpcmRqX0FV?oc=5",
+      "published": "2026-10-22 21:49",
+      "coverage": 2,
+      "n": 338
     },
     {
       "theme": "vaud",
@@ -3822,9 +3620,9 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3Q0VWQxM0xnNmUxQUZ6WkJqY1VjTVBNOVdHUUNXOU8xZ2E1Z0VHY19wYTE0U2YtUUlXVkhQU21DNG9tbnRBZkdvdDVlSTRTaHBoMmdUSlUxMlFyVTNydlpQOXR3VktQc2ZyZE0xUlhqaTZ3VnBldzBoZEtCeDRKSlY3Vjg3ekFzQkswbzQ5cGZWcHZYaGc?oc=5",
       "published": "2026-10-22 18:02",
       "coverage": 2,
-      "n": 358,
+      "n": 339,
       "also": [
-        361
+        343
       ]
     },
     {
@@ -3835,7 +3633,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRkxXZ01ZN2JzLXRrZHNJWXRSdWFZMUlBZG12dzBGTlBvWTVYd0FlNVZzY0ozNmVvZ3pKdy1UOXNFUVdoalVkS2FCZExTMEdJR0JMd1hJM3VfdlRzWlkycElWNmZkdUh1WVBtOXhTZ2I?oc=5",
       "published": "2026-10-22 15:48",
       "coverage": 2,
-      "n": 359
+      "n": 340
     },
     {
       "theme": "vaud",
@@ -3845,7 +3643,17 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFJOR1J0dEhQMVY4VU1ZTldQTE5EcUJFa2ZSWDNvZWpOdzJDNGhNMVZjUWppS3lQWnJDa0o0NlRCalUwR29iTEJiTmRDRzBYWGhFQ3Btc1d5ZnRmSDk3aWVtMkFWeWVMQ0VSaUJSbkc5WnlZeTJvNjEtaXpxSnIxcU1fVmFjSFNkaHB6WlAtdFR3WXFJQTZQSHBNS3U?oc=5",
       "published": "2026-10-22 16:30",
       "coverage": 2,
-      "n": 360
+      "n": 341
+    },
+    {
+      "theme": "vaud",
+      "source": "Google News - Lausanne",
+      "title": "Le JazzOnze+ ouvre grand les portes d’un jazz en mouvement - Lausanne Cités",
+      "summary": "Le JazzOnze+ ouvre grand les portes d’un jazz en mouvement Lausanne Cités",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVGo0NEFqTkwyaU9TcFE0Yk82MXBKV0E0YlIyclF1MnFZSmFQZXlld1NKSW94dVd4bTg1QmtCNi1hSm5VcmhjZjZfQjQ3UXI4SFdaX1BwUVVYbU1mY3c3RjFqdmVTV3dOWHJvbW1ueEFTSmNmRFRDWnZxM3d1aWItOEtrNkhfQjdISVJ1Q1VnQ1AwVWpR?oc=5",
+      "published": "2026-10-22 10:05",
+      "coverage": 2,
+      "n": 342
     },
     {
       "theme": "vaud",
@@ -3855,7 +3663,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUVaM0RleXREOHQ4a2xMeHd6LS0xYmI5cXNyb0FvUlR3aWM3NFJkZFVUbkxKUnhwWmZGYlNQYktyQ3E5WUFiQ2dvb3c0ci1yYzhJTHpqWXc1TGZ2bFBlVk5iSVZoQkpSMHNMaDdiVk11UEwxWGowUDd4M2FHRjJDUHNVbS1EMGtFbGRDWi1GUE1mUXhSZWc?oc=5",
       "published": "2026-10-22 06:28",
       "coverage": 2,
-      "n": 361
+      "n": 343
     },
     {
       "theme": "vaud",
@@ -3865,7 +3673,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakJUdVVYM1gxRURIbDh0bDdNMDNwWFNWTXNXMmdGM2VMTERyV2JNMVdRcjd2ZXd3SkZYeDNpMkxtOV81UExEWDUyLVE4VXFRbVZmazg3STlxS2M0ZHR1NlQzeFduSTFvZVdvTGxzMUJTNWZ6Rzc5cUxzSlo3NEJsNHo1QXdfa0lTLXlidENZODVxTEhmX3RyUzZjMXJ2aGhyMG5pZA?oc=5",
       "published": "2026-10-22 06:07",
       "coverage": 1,
-      "n": 362
+      "n": 344
     },
     {
       "theme": "vaud",
@@ -3875,7 +3683,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVA5WGoyWnV2YkdFTVpkbkhIR2w1NVlVaElUMTJ6ZV94VUZYWUJQd25RMmhTQ3kxWUpWQUJKRlRDVjhXcE5SNDRIYlBLbHFXRndGck1naUZfNFduaktyOTN3Q21Kd1dQRS04bWJiOExZbkRndmtLWUluUkJvMWNrMzlBWWRKTU5kckZtNTZZLU5XMVBwVHhKTXlRd0U?oc=5",
       "published": "2026-10-22 20:35",
       "coverage": 1,
-      "n": 363
+      "n": 345
     },
     {
       "theme": "vaud",
@@ -3885,7 +3693,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV29hZ1A4Mml0MFNOYkZlOHJNRm9OSW52TUhfWHpMUWdaemtybUNvTUZJeUhCRjFULTQ5OTVqTnRnbmt0Z3dTMkpQRHhGa1hVZjMtMUt4NXVXSmlfQmg1YUdhQmp6SXRUUWVxaUZkSVNhcFlfaWRlSWwtOHpNc2FFc3ZaVmhFMnpfTjlOTk1XTld3UQ?oc=5",
       "published": "2026-10-22 06:33",
       "coverage": 1,
-      "n": 364
+      "n": 346
     },
     {
       "theme": "vaud",
@@ -3895,7 +3703,7 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zS1Z5ay1ZNVRIdjNoeU9qMW10LUZGY2F3VXJ5Y3Bfb2d3V0h6ZkJtclhVcHRFS3M0SjgwMWtQcXNPeW1pZl9uNU9US1FZZDRuNVFJSVpsNmdHR0puc21kNThUMkpBRkJVMjJPOHZTSjdnNU5vOFFNSFVn?oc=5",
       "published": "2026-10-22 17:33",
       "coverage": 1,
-      "n": 365
+      "n": 347
     },
     {
       "theme": "vaud",
@@ -3905,7 +3713,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1CZkVkZkRCOGtQbTJhcVlCY2xWWHBITVNIRk1lQ3RsaWhJM0twSnNQZnhoOVFHTVFhNzZhd2ZjRVluaGF3Y0t6bnRxRzBBV1dCRVRDRjNZMU9QSW8tTzlCc09sVzNUeXA1aERqcXdrdHhpdUdCeHR2N2lwRlpOeldJOUFJdkdKb3U0Z3pjY2RUNVNaSk05WmlROVVhZXMtbEE?oc=5",
       "published": "2026-10-22 18:04",
       "coverage": 1,
-      "n": 366
+      "n": 348
     },
     {
       "theme": "vaud",
@@ -3915,17 +3723,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUZCSllMSTdfQVdrMHJ2U3BCRGhUVmRuSVhfVEtMWmdrSGxkWG9hRm5WYU9aQmxnZFlUR0RFQUxMaHhiRGtxTmJ2RmxtblVPaWN2Y1dLNmFBWjlPQVJmMkRFdG1lSW1YWlhvQllaejNsanp3d0JpVDNJdGFId2dCWEtObHVrTmJBcEJrR21GZTgyTXM?oc=5",
       "published": "2026-10-22 11:29",
       "coverage": 1,
-      "n": 367
-    },
-    {
-      "theme": "vaud",
-      "source": "Google News - Vaud",
-      "title": "La terre a tremblé ce matin dans les Alpes vaudoises - 24 Heures",
-      "summary": "La terre a tremblé ce matin dans les Alpes vaudoises 24 Heures",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZlBqbWFpZ2w1SDAxN0dGZEk2YVRHNlkyOXFISi1YQmpxVUFDb1Q4UmRxZEpZWXBXZF9pS2tBVzBGeFVWeUNleWFyeC1SQWlIR21UUGpqTlUtNy1YR200T19nLUMzUWoxdXRIdmhFclU3U2lzWkJMSFdWOHR4bExHdFlwRzJYMGdtWHljOTZBRmdVWDdTdWc?oc=5",
-      "published": "2026-10-22 11:58",
-      "coverage": 1,
-      "n": 368
+      "n": 349
     },
     {
       "theme": "vaud",
@@ -3935,17 +3733,17 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdENJR0hVUW52SHl2S0VDMnhYX0diV08zeHhWTDB2d1o0UUlhOHJyZGRvSUZmX1Jhelk1eDh5R0hnLWdKdHhDX25Cb1JiTGNCQUdKWWtHS2tsS2lfSGJDN0MtZEVDNjV5dVRINGhyN2w1c3o1a01mWTJUelFxcWU2el9TMlNhQkNSNUF3WVJEeEFGcGtydGl0NGhKNEVMbXV3Zzd2aQ?oc=5",
       "published": "2026-10-22 10:25",
       "coverage": 1,
-      "n": 369
+      "n": 350
     },
     {
       "theme": "vaud",
-      "source": "Google News - Lausanne",
-      "title": "A Lausanne, les essais du futur tram suscitent des plaintes de riverains: les signaux d’ouverture et de fermeture des portes résonnent jusque dans les logements. Les TL invoquent la sécurité et disent étudier des adaptations. 👉 Retrouvez l'article complet: http - Facebook",
-      "summary": "A Lausanne, les essais du futur tram suscitent des plaintes de riverains: les signaux d’ouverture et de fermeture des portes résonnent jusque dans les logements. Les TL invoquent la sécurité et disent étudier des adaptations. 👉 Retrouvez l'article complet: http Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzJOZUpua19OV19XYkhMam50dGZuQ3lSQ2VlbldhQ01hWmtpR3NpYmVyb0tkbVhTMVRFTGxyN0NnSk9acXdjbXZMTmVRTFNudDA3b0ZzTTA4dU9KeURuZXVWLWtOWEVUYmZsWnpTRzFkc0U0bG9nWkM4SDVGMG9ENlBpSERDWGhhYWtyZUlqN0RfekJWSExXX2F1dWFfbklhemxUVElQU0pRSlNuMmE0UVh1N25qMGx4WkI1VTA5bzJlMlpBUjBTOEg4VzdpcmRqX0FV?oc=5",
-      "published": "2026-10-22 21:49",
+      "source": "Google News - Vaud",
+      "title": "La terre a tremblé ce matin dans les Alpes vaudoises - 24 Heures",
+      "summary": "La terre a tremblé ce matin dans les Alpes vaudoises 24 Heures",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZlBqbWFpZ2w1SDAxN0dGZEk2YVRHNlkyOXFISi1YQmpxVUFDb1Q4UmRxZEpZWXBXZF9pS2tBVzBGeFVWeUNleWFyeC1SQWlIR21UUGpqTlUtNy1YR200T19nLUMzUWoxdXRIdmhFclU3U2lzWkJMSFdWOHR4bExHdFlwRzJYMGdtWHljOTZBRmdVWDdTdWc?oc=5",
+      "published": "2026-10-22 11:58",
       "coverage": 1,
-      "n": 370
+      "n": 351
     },
     {
       "theme": "vaud",
@@ -3955,7 +3753,7 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cTB4RG5qeDFqaWZiRUg5bndCVlJYczhocjF5S3hKZHNCekhGMlZ6eWxXS1N6MmZaSE5rOGNuYVB5Q1gyUENoSXJxX05rZU53aUVlTWhtT2VBRmdKSk1uMEd3SktkdUt6bkxIMVFXNzJPSXRwVnVLOTJqcXk?oc=5",
       "published": "2026-10-22 18:39",
       "coverage": 1,
-      "n": 371
+      "n": 352
     },
     {
       "theme": "vaud",
@@ -3965,7 +3763,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2tPVHBkakEyUnIySUdDNmFpcnBCV3NZd19BeWdnWDBwUTdXNGNiQ3kwaDZoVV82WDRKdzhWNk5val9hNnJYUTVWQmNTb092Mk5QTVV3cWNBSHhPMWNiOVVtQmliclR1V1JDS0lsc1otZXVHNS1zSFpiSlBlOXdGSTJqQTBaU3lCUlB4aWhLdVU5TW91TXFsT0NpVnFQZlJKNWpJMjVQX3RndkV5WmxnSEdfUGI?oc=5",
       "published": "2026-10-22 07:47",
       "coverage": 1,
-      "n": 372
+      "n": 353
     },
     {
       "theme": "vaud",
@@ -3975,7 +3773,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHVRd09HUmtVai0xcVJxSkZobE9sZWM5Z3hhaTdzVHFCNGMtRkg2WlAwQ1h1azItd2tRcnBlNXJ1c2kwekxRRXdWa3RsMW5ycHU5N1dRQUpXVVN1OGJ0LVFTVzlxNEt1OTZZOTFmZkJ2eDJCbXAzVUtGdUhPcjVRM1hrczZNOGMxRjBwZE9fVVdjVjh6RWFoLXhPU1MwcVNsa1FwOEcxb2VUTGJITHc?oc=5",
       "published": "2026-10-22 05:44",
       "coverage": 1,
-      "n": 373
+      "n": 354
     },
     {
       "theme": "vaud",
@@ -3985,37 +3783,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uT0xfbGJ4Y1Z3WG1TUkRWdEZJR3g4MXhqRVJEc29lcTJFdlcyQ2VNd2xmZWNBU1l2QmIzTzd5cC1WUEN1WnRVbWVYRG04ZEYtdTNaNC1KdGFJVEpaU1VZTmdpOXNLSDhpT2NYMQ?oc=5",
       "published": "2026-10-22 19:14",
       "coverage": 1,
-      "n": 374
-    },
-    {
-      "theme": "vaud",
-      "source": "Google News - Lausanne",
-      "title": "CFF: billets à prix réduit et événements pour célébrer 125 ans - Le Matin",
-      "summary": "CFF: billets à prix réduit et événements pour célébrer 125 ans Le Matin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR184TFBCLUl5bjZUTTdRUC1LY25pTXdfMkVlRzdzU2ltTGJQRl9OOF9zcWl5cTZ6S05iYTliTlNDeVcxSDVTa1Y2Nnp5ckxXVi1GMVR1blBKMWZWS3p6RTFKbG5VckxrNVJPV0RnY2NtdkJnY3pfZnJKVHc1dUFHQkhuY05HYlhLTHhRSEx3OVBlZWlnQkZXWERqLUN5eTR5Y3l1ZFBTa1NZdUpuVXVTYQ?oc=5",
-      "published": "2026-10-22 06:13",
-      "coverage": 1,
-      "n": 375
-    },
-    {
-      "theme": "vaud",
-      "source": "Google News - Lausanne",
-      "title": "L'EPFL et l'ETH Zurich dans le top 20 de ce classement prestigieux - Watson",
-      "summary": "L'EPFL et l'ETH Zurich dans le top 20 de ce classement prestigieux Watson",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzV6U0pMY3JLSGc0THdaekVTNHJRYmMyanAtY0JIY1dzQUJiVkd1SzFyWFdiSkpiN2hYMnZ3d1g4Z1N2R1hDVTlJb1ZqWEJWSkxzSl91WUR3Q1ZlLWtHcFRrUTRFcW4xYnJsUGZqUVJ4MHdMZUJpRW5oTDBIeWItZTcyVUhpRHU4OUl4Sl9xT3RPeVRTNzQxRmU4eFNrMG5lNXdSNW1n?oc=5",
-      "published": "2026-10-22 10:52",
-      "coverage": 1,
-      "n": 376
-    },
-    {
-      "theme": "vaud",
-      "source": "Google News - Lausanne",
-      "title": "Thomas Bach, président du CIO, rencontre des gamers professionnels - olympics.com",
-      "summary": "Thomas Bach, président du CIO, rencontre des gamers professionnels olympics.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVURRWnZSMkVmNGZjVDVaSGxNS0FNUzRpbktBN0JSWXpyamkxMnBKQVBPU1NobS1yYmlGVDNWMEc4dkRPY3AwVUpsaFVKTmNHdm5YQVI1OWszUmVndXdJQ084SnhhdkRJcTFxTlFXNnFmNFB5aXp4Y2NMSUhCdXpmTHU3YXpyOUt4a2FDd05fOUlDM204SHlBemFSeDBpamh2TWR4eFExUEdFWU5BX0wxRVh2dG5mRzBPSjc4?oc=5",
-      "published": "2026-10-22 21:22",
-      "coverage": 1,
-      "n": 377
+      "n": 355
     },
     {
       "theme": "vaud",
@@ -4025,7 +3793,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTi1WVEVvZklialV1a3JKRUszY19YUGZlUC1VTlJ5Y2NPd1Y5aWpFSkFGSVVUeS1oWWhyWXZxZDJoaGJuYjZNZ2hhMV9JUlZ4WXVCRFpPaGNwWlQ4bFNPWXNidHg3eVQzQ0s4Znd1ZHN0aGU3LUtLT0p6RGp1MXhaZ0NON0NRdkxCZllQa2hrQlJtazBoZVBoQw?oc=5",
       "published": "2026-10-22 11:30",
       "coverage": 1,
-      "n": 378
+      "n": 356
     },
     {
       "theme": "vaud",
@@ -4035,17 +3803,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wWF9xcEJzdm9nUEM0cEplM2VDN2dSSlNjUEVnRDJmMV83Q2dBc2VZbnFhWkFobnBUYVFhNXBjTzVneXVxWXlXQzBiLWk0N21IeFpJYWEyVVZuZVo1cjZkWjFiSkVSMGNYWWtTeUtjNXA?oc=5",
       "published": "2026-10-22 02:29",
       "coverage": 1,
-      "n": 379
-    },
-    {
-      "theme": "vaud",
-      "source": "Google News - Lausanne",
-      "title": "Rénovation de la gare du Locle : le quai 1 rouvrira le 29 octobre - La Télé",
-      "summary": "Rénovation de la gare du Locle : le quai 1 rouvrira le 29 octobre La Télé",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDBVLVp2UHQwMkVQWWh5LTJhWUplalVQbk5nbGhBeUxGUnVJNkZGYXVBSi1zaEZUZ1NCUlUzM2paT2pfLV8wN2ozQVFUOFJFM1pmc3hGY3YwMnBIMGIzVFYzSE9ESjhBRlgzT1N1UjlSM1dFWFl1MFRxZTAwY1hVSHVtUHFqRG14WVgxVUZn?oc=5",
-      "published": "2026-10-22 15:00",
-      "coverage": 1,
-      "n": 380
+      "n": 357
     },
     {
       "theme": "vaud",
@@ -4055,7 +3813,17 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaThpaUpIVjkyRnZhamZQOGpLVy1nTGZIU0wzT3pDc3dWOGJvcUVZbTNUaHA3M1A1alk3ZTJQdEJzZHV0b0FWZ2RQVnI1a01OMkpZUmNlbkJyVGxzNXdYd0NrbVdaS2ZvVVZnZ1BvZThmcmlyamExX1kzYnk3UXZFTEI5dmoyU2I0OExtXzEzY0x2Z1VaRWxSbjcxVWVyQ1FkTHFWVUd2S3RBdDg?oc=5",
       "published": "2026-10-22 02:00",
       "coverage": 1,
-      "n": 381
+      "n": 358
+    },
+    {
+      "theme": "vaud",
+      "source": "Google News - Lausanne",
+      "title": "Rénovation de la gare du Locle : le quai 1 rouvrira le 29 octobre - La Télé",
+      "summary": "Rénovation de la gare du Locle : le quai 1 rouvrira le 29 octobre La Télé",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDBVLVp2UHQwMkVQWWh5LTJhWUplalVQbk5nbGhBeUxGUnVJNkZGYXVBSi1zaEZUZ1NCUlUzM2paT2pfLV8wN2ozQVFUOFJFM1pmc3hGY3YwMnBIMGIzVFYzSE9ESjhBRlgzT1N1UjlSM1dFWFl1MFRxZTAwY1hVSHVtUHFqRG14WVgxVUZn?oc=5",
+      "published": "2026-10-22 15:00",
+      "coverage": 1,
+      "n": 359
     },
     {
       "theme": "vaud",
@@ -4065,7 +3833,27 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0NZeEtHQkJmbGhGaFB1MTFNT1dNcWpTdjB1NkJjcFZ0eWpjei1RaGZ5TlVwQWd4Z2ZMQTRWTmJGUjBlaFlQQU9jR3JKSUVvRlNsa0stVGctQktFdXJHcXcwWnY3cm5qTWU1M3NtaTJEZnlmNkdQVmxPdGw4TC1RUXdEY0JBMDIzbFVLNGNuYl81ck5kMUR1MFplU1RVV3EwM19Zc09n?oc=5",
       "published": "2026-10-22 19:26",
       "coverage": 1,
-      "n": 382
+      "n": 360
+    },
+    {
+      "theme": "vaud",
+      "source": "Google News - Lausanne",
+      "title": "Ray Fust, de la maison familiale à la Vaudoise Arena - La Télé",
+      "summary": "Ray Fust, de la maison familiale à la Vaudoise Arena La Télé",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUt0bXk4bTJONnBZRHV2MTRXSndzOGpncjdnZlJGVlZpSEFOblpFUFBsUWd1UHhaSVFCMGlHME5BM2pVOXlsTloyNXltRTFkN3VMWVpwWFJDZG1KMmEyRXF6Ung4Y0dUTmNtQWljV1VzYWVRY2RwaDVVNVcyNEwxbllORmF4c1pCTzMtdnZYNklMdU0tVldZU3FkdUFLMWs?oc=5",
+      "published": "2026-10-22 12:28",
+      "coverage": 1,
+      "n": 361
+    },
+    {
+      "theme": "vaud",
+      "source": "Google News - Lausanne",
+      "title": "L'EPFL et l'ETH Zurich dans le top 20 de ce classement prestigieux - Watson",
+      "summary": "L'EPFL et l'ETH Zurich dans le top 20 de ce classement prestigieux Watson",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzV6U0pMY3JLSGc0THdaekVTNHJRYmMyanAtY0JIY1dzQUJiVkd1SzFyWFdiSkpiN2hYMnZ3d1g4Z1N2R1hDVTlJb1ZqWEJWSkxzSl91WUR3Q1ZlLWtHcFRrUTRFcW4xYnJsUGZqUVJ4MHdMZUJpRW5oTDBIeWItZTcyVUhpRHU4OUl4Sl9xT3RPeVRTNzQxRmU4eFNrMG5lNXdSNW1n?oc=5",
+      "published": "2026-10-22 10:52",
+      "coverage": 1,
+      "n": 362
     }
   ]
 }
