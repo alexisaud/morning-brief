@@ -50,8 +50,9 @@ neige fraîche attendue et quand, hauteur de neige actuelle si disponible, temp�
 la meilleure journée à venir. Données illisibles → une phrase pour le dire. Hors saison : pas de segment.
 
 ## 5. News (`data/news.md`)
-Choisir 4 ou 5 sujets selon `config/preferences.md`. On peut ouvrir l'article lié (WebFetch) pour
-préciser un fait, jamais ajouter une info absente des sources. Budget : **≤ 3 minutes**, soit
+`data/news.md` liste une ligne par sujet (doublons regroupés). Repérer 8 à 10 candidats, lire leur
+détail avec `python3 scripts/item.py <n> <n> ...`, puis en retenir 4 ou 5 selon `config/preferences.md`.
+On peut ouvrir l'article lié (WebFetch) pour préciser un fait, jamais ajouter une info absente des sources. Budget : **≤ 3 minutes**, soit
 ≤ `3 × words_per_minute` mots (voir `config/settings.json`).
 
 ## 6. Rédaction

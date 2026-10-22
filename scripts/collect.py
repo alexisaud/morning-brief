@@ -114,23 +114,34 @@ def collect_news():
         it["coverage"] = len({o["source"] for o in items
                               if o is not it and len(ws & words(o["title"])) >= 2}) + 1
 
-    save(DATA / "news.json", {"collected_at": NOW.isoformat(), "items": items})
     save(DATA / "feeds_status.json", status)
 
-    # Version compacte, lisible par Claude.
-    lines = [f"# News collectées le {NOW.astimezone(TZ):%Y-%m-%d %H:%M} (Zurich) — {len(items)} articles",
-             "Format : [n] (couverture = nb de sources sur le même sujet) heure · source — titre / résumé / lien", ""]
-    n = 0
-    for theme in ["une", "economie", "geopolitique", "tech", "france", "suisse", "vaud"]:
-        sel = [i for i in items if i["theme"] == theme]
+    # Numérotation + regroupement des doublons (même sujet, plusieurs sources).
+    order = ["une", "economie", "geopolitique", "tech", "france", "suisse", "vaud"]
+    items.sort(key=lambda i: (order.index(i["theme"]) if i["theme"] in order else 99, -i["coverage"]))
+    for n, it in enumerate(items, 1):
+        it["n"] = n
+    kept_heads = []
+    for it in items:
+        ws = words(it["title"])
+        dup = next((h for h in kept_heads if len(ws & words(h["title"])) >= 3), None)
+        if dup:
+            dup.setdefault("also", []).append(it["n"])
+        else:
+            kept_heads.append(it)
+
+    # Version compacte (une ligne par sujet), lisible par Claude chaque matin.
+    lines = [f"# News collectées le {NOW.astimezone(TZ):%Y-%m-%d %H:%M} (Zurich) — "
+             f"{len(items)} articles, {len(kept_heads)} sujets distincts",
+             "Format : [n] (xC = nb de sources sur le sujet) source — titre :: début du résumé",
+             "Détail complet (résumé + lien) : python3 scripts/item.py <n> [<n> ...]", ""]
+    for theme in order:
+        sel = [h for h in kept_heads if h["theme"] == theme]
         lines.append(f"## {theme} ({len(sel)})")
-        for it in sel:
-            n += 1
-            it["n"] = n
-            lines.append(f"[{n}] (x{it['coverage']}) {it['published']} · {it['source']} — {it['title']}")
-            if it["summary"]:
-                lines.append(f"    {it['summary']}")
-            lines.append(f"    {it['link']}")
+        for h in sel:
+            short = h["summary"][:150].rsplit(" ", 1)[0] + "…" if len(h["summary"]) > 150 else h["summary"]
+            also = f" (+{len(h['also'])} doublon(s))" if h.get("also") else ""
+            lines.append(f"[{h['n']}] (x{h['coverage']}) {h['source']} — {h['title']}{also} :: {short}")
         lines.append("")
     (DATA / "news.md").write_text("\n".join(lines), encoding="utf-8")
     save(DATA / "news.json", {"collected_at": NOW.isoformat(), "items": items})

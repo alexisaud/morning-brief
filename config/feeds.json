@@ -1,7 +1,7 @@
 {
   "_comment": "Flux RSS par thème. 'enabled: false' = flux testé et non fonctionnel (gardé pour mémoire). Les articles de plus de 30 h sont ignorés.",
-  "max_age_hours": 30,
-  "max_items_per_feed": 25,
+  "max_age_hours": 26,
+  "max_items_per_feed": 20,
   "feeds": [
     {
       "theme": "une",
@@ -166,7 +166,8 @@
     {
       "theme": "economie",
       "name": "Les Echos - À la une",
-      "url": "https://syndication.lesechos.fr/rss/rss_une.xml"
+      "url": "https://syndication.lesechos.fr/rss/rss_une.xml",
+      "enabled": false
     }
   ]
 }
