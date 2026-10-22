@@ -40,7 +40,9 @@ Pour chaque message :
 Google Calendar `list_events`, calendrier `alexis.audisio@gmail.com`, fuseau Europe/Zurich :
 - tous les jours : aujourd'hui de 00:00 à 23:59 ;
 - **le lundi** : en plus, du lundi au dimanche de la semaine.
-Ignorer les événements refusés. Pour chacun : heure, titre, lieu s'il y en a un.
+Ignorer les événements refusés. Pour chacun : heure, titre, lieu s'il y en a un. Lire le titre tel quel,
+sans commentaire sur sa nature. Si le titre contient une heure différente du créneau, le signaler
+(« à vérifier »).
 Vérifier aussi « Holidays in Switzerland » pour aujourd'hui (le dire si c'est férié).
 Journée vide → une phrase (« Rien à l'agenda aujourd'hui, journée libre pour avancer sur tes priorités »).
 

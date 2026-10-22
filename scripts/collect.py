@@ -139,7 +139,10 @@ def collect_news():
         sel = [h for h in kept_heads if h["theme"] == theme]
         lines.append(f"## {theme} ({len(sel)})")
         for h in sel:
-            short = h["summary"][:150].rsplit(" ", 1)[0] + "…" if len(h["summary"]) > 150 else h["summary"]
+            summ = h["summary"]
+            if summ[:30].lower() == h["title"][:30].lower():   # résumé = titre (Google News)
+                summ = ""
+            short = summ[:120].rsplit(" ", 1)[0] + "…" if len(summ) > 120 else summ
             also = f" (+{len(h['also'])} doublon(s))" if h.get("also") else ""
             lines.append(f"[{h['n']}] (x{h['coverage']}) {h['source']} — {h['title']}{also} :: {short}")
         lines.append("")
