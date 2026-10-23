@@ -1,19 +1,14 @@
 {
-  "collected_at": "2026-10-22T20:55:39.398623+00:00",
+  "collected_at": "2026-10-23T05:41:37.222265+00:00",
   "messages": [
     {
-      "date": "2026-10-22 22:51",
-      "text": "Hello",
-      "reply_to": ""
-    },
-    {
-      "date": "2026-10-22 22:51",
-      "text": "Tu m'entends ?",
-      "reply_to": ""
-    },
-    {
-      "date": "2026-10-22 22:53",
+      "date": "2026-10-22 23:04",
       "text": "/start",
+      "reply_to": ""
+    },
+    {
+      "date": "2026-10-22 23:11",
+      "text": "Superbe. Si jamais, on ne prononce pas le \"Z\" à la fin de la clusaz",
       "reply_to": ""
     }
   ]

@@ -22,7 +22,7 @@
     "theme": "une",
     "url": "https://www.francetvinfo.fr/titres.rss",
     "http": 200,
-    "entries": 29,
+    "entries": 30,
     "kept": 20,
     "ok": true
   },
@@ -39,8 +39,10 @@
     "name": "Le Temps - Économie",
     "theme": "economie",
     "url": "https://www.letemps.ch/economie.rss",
-    "ok": false,
-    "error": "HTTPSConnectionPool(host='www.letemps.ch', port=443): Read timed out. (read timeout=20)"
+    "http": 200,
+    "entries": 21,
+    "kept": 9,
+    "ok": true
   },
   {
     "name": "RTS Info - Économie",
@@ -66,7 +68,7 @@
     "url": "https://www.rts.ch/info/monde/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 14,
+    "kept": 13,
     "ok": true
   },
   {
@@ -93,7 +95,7 @@
     "url": "https://www.lemonde.fr/pixels/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 7,
+    "kept": 8,
     "ok": true
   },
   {
@@ -165,7 +167,7 @@
     "url": "https://www.rts.ch/info/suisse/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 9,
+    "kept": 12,
     "ok": true
   },
   {
@@ -174,7 +176,7 @@
     "url": "https://www.letemps.ch/suisse.rss",
     "http": 200,
     "entries": 21,
-    "kept": 10,
+    "kept": 11,
     "ok": true
   },
   {
@@ -200,7 +202,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Vaud+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 35,
+    "entries": 32,
     "kept": 20,
     "ok": true
   },
@@ -209,7 +211,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Lausanne+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 39,
+    "entries": 41,
     "kept": 20,
     "ok": true
   },
@@ -218,7 +220,7 @@
     "theme": "suisse",
     "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 47,
+    "entries": 56,
     "kept": 20,
     "ok": true
   },
