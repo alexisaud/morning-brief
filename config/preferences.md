@@ -30,3 +30,4 @@ Règles :
 
 ## Ajustements demandés via Telegram
 <!-- Claude ajoute ici, avec la date, les préférences qu'Alexis exprime sur Telegram. -->
+- 2026-10-23 : « La Clusaz » se prononce sans le Z final → dans script.txt, écrire « La Clusa » pour la voix (garder « La Clusaz » dans message.html).
