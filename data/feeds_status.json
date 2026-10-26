@@ -22,7 +22,7 @@
     "theme": "une",
     "url": "https://www.francetvinfo.fr/titres.rss",
     "http": 200,
-    "entries": 29,
+    "entries": 26,
     "kept": 20,
     "ok": true
   },
@@ -32,7 +32,7 @@
     "url": "https://www.lemonde.fr/economie/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 9,
+    "kept": 10,
     "ok": true
   },
   {
@@ -41,7 +41,7 @@
     "url": "https://www.letemps.ch/economie.rss",
     "http": 200,
     "entries": 21,
-    "kept": 3,
+    "kept": 8,
     "ok": true
   },
   {
@@ -50,7 +50,7 @@
     "url": "https://www.rts.ch/info/economie/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 2,
+    "kept": 0,
     "ok": true
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://www.rts.ch/info/monde/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 13,
+    "kept": 14,
     "ok": true
   },
   {
@@ -86,7 +86,7 @@
     "url": "https://www.rfi.fr/fr/monde/rss",
     "http": 200,
     "entries": 30,
-    "kept": 9,
+    "kept": 7,
     "ok": true
   },
   {
@@ -95,7 +95,7 @@
     "url": "https://www.lemonde.fr/pixels/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 3,
+    "kept": 2,
     "ok": true
   },
   {
@@ -104,7 +104,7 @@
     "url": "https://www.numerama.com/feed/",
     "http": 200,
     "entries": 15,
-    "kept": 15,
+    "kept": 11,
     "ok": true
   },
   {
@@ -122,7 +122,7 @@
     "url": "https://www.theverge.com/rss/index.xml",
     "http": 200,
     "entries": 10,
-    "kept": 9,
+    "kept": 8,
     "ok": true
   },
   {
@@ -131,7 +131,7 @@
     "url": "https://techcrunch.com/feed/",
     "http": 200,
     "entries": 20,
-    "kept": 10,
+    "kept": 6,
     "ok": true
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://www.lemonde.fr/politique/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 20,
+    "kept": 13,
     "ok": true
   },
   {
@@ -149,7 +149,7 @@
     "url": "https://www.lemonde.fr/societe/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 20,
+    "kept": 13,
     "ok": true
   },
   {
@@ -158,7 +158,7 @@
     "url": "https://www.francetvinfo.fr/france.rss",
     "http": 200,
     "entries": 20,
-    "kept": 19,
+    "kept": 14,
     "ok": true
   },
   {
@@ -167,7 +167,7 @@
     "url": "https://www.rts.ch/info/suisse/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 5,
+    "kept": 3,
     "ok": true
   },
   {
@@ -176,7 +176,7 @@
     "url": "https://www.letemps.ch/suisse.rss",
     "http": 200,
     "entries": 21,
-    "kept": 4,
+    "kept": 6,
     "ok": true
   },
   {
@@ -194,7 +194,7 @@
     "url": "https://www.rts.ch/info/regions/vaud/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 2,
+    "kept": 4,
     "ok": true
   },
   {
@@ -202,8 +202,8 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Vaud+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 13,
-    "kept": 13,
+    "entries": 23,
+    "kept": 20,
     "ok": true
   },
   {
@@ -211,7 +211,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Lausanne+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 38,
+    "entries": 57,
     "kept": 20,
     "ok": true
   },
@@ -220,8 +220,8 @@
     "theme": "suisse",
     "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 12,
-    "kept": 12,
+    "entries": 9,
+    "kept": 9,
     "ok": true
   },
   {
@@ -229,8 +229,8 @@
     "theme": "economie",
     "url": "https://news.google.com/rss/search?q=BNS+OR+SMI+OR+%22franc+suisse%22+OR+%22%C3%A9conomie+suisse%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 3,
-    "kept": 3,
+    "entries": 7,
+    "kept": 7,
     "ok": true
   }
 ]
