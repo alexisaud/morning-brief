@@ -1,7 +1,7 @@
 {
   "voice": "fr-CH-ArianeNeural",
   "rate": "+8%",
-  "words_per_minute": 177,
+  "words_per_minute": 173,
   "news_max_seconds": 180,
   "episode_max_seconds": 600,
   "snow_url": "https://fr.snow-forecast.com/resorts/La-Clusaz/6day/mid",
