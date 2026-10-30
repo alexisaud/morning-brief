@@ -22,7 +22,7 @@
     "theme": "une",
     "url": "https://www.francetvinfo.fr/titres.rss",
     "http": 200,
-    "entries": 28,
+    "entries": 30,
     "kept": 20,
     "ok": true
   },
@@ -32,7 +32,7 @@
     "url": "https://www.lemonde.fr/economie/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 20,
+    "kept": 19,
     "ok": true
   },
   {
@@ -41,7 +41,7 @@
     "url": "https://www.letemps.ch/economie.rss",
     "http": 200,
     "entries": 21,
-    "kept": 8,
+    "kept": 9,
     "ok": true
   },
   {
@@ -50,7 +50,7 @@
     "url": "https://www.rts.ch/info/economie/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 0,
+    "kept": 2,
     "ok": true
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://www.rts.ch/info/monde/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 10,
+    "kept": 11,
     "ok": true
   },
   {
@@ -95,7 +95,7 @@
     "url": "https://www.lemonde.fr/pixels/rss_full.xml",
     "http": 200,
     "entries": 20,
-    "kept": 9,
+    "kept": 6,
     "ok": true
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://www.rts.ch/info/sciences-tech/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 1,
+    "kept": 0,
     "ok": true
   },
   {
@@ -158,7 +158,7 @@
     "url": "https://www.francetvinfo.fr/france.rss",
     "http": 200,
     "entries": 20,
-    "kept": 17,
+    "kept": 11,
     "ok": true
   },
   {
@@ -167,7 +167,7 @@
     "url": "https://www.rts.ch/info/suisse/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 5,
+    "kept": 4,
     "ok": true
   },
   {
@@ -176,7 +176,7 @@
     "url": "https://www.letemps.ch/suisse.rss",
     "http": 200,
     "entries": 21,
-    "kept": 12,
+    "kept": 13,
     "ok": true
   },
   {
@@ -194,7 +194,7 @@
     "url": "https://www.rts.ch/info/regions/vaud/?format=rss/news",
     "http": 200,
     "entries": 25,
-    "kept": 1,
+    "kept": 3,
     "ok": true
   },
   {
@@ -202,7 +202,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Vaud+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 38,
+    "entries": 31,
     "kept": 20,
     "ok": true
   },
@@ -211,7 +211,7 @@
     "theme": "vaud",
     "url": "https://news.google.com/rss/search?q=Lausanne+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 38,
+    "entries": 45,
     "kept": 20,
     "ok": true
   },
@@ -220,8 +220,8 @@
     "theme": "suisse",
     "url": "https://news.google.com/rss/search?q=%22Conseil+f%C3%A9d%C3%A9ral%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 19,
-    "kept": 19,
+    "entries": 10,
+    "kept": 10,
     "ok": true
   },
   {
@@ -229,8 +229,8 @@
     "theme": "economie",
     "url": "https://news.google.com/rss/search?q=BNS+OR+SMI+OR+%22franc+suisse%22+OR+%22%C3%A9conomie+suisse%22+when:1d&hl=fr&gl=CH&ceid=CH:fr",
     "http": 200,
-    "entries": 17,
-    "kept": 17,
+    "entries": 35,
+    "kept": 20,
     "ok": true
   }
 ]
