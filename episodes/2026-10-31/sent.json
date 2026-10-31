@@ -1,0 +1,15 @@
+{
+  "episode": "2026-10-31",
+  "started_at": "2026-10-31T06:58:14.909158+00:00",
+  "words": 359,
+  "voice": "fr-CH-ArianeNeural",
+  "errors": [],
+  "duration_s": 118,
+  "measured_wpm": 182.5,
+  "audio_message_id": 27,
+  "text_message_ids": [
+    28
+  ],
+  "ok": true,
+  "finished_at": "2026-10-31T06:58:40.575653+00:00"
+}
