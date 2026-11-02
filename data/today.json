@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-01",
-  "label": "dimanche 1 novembre 2026",
-  "weekday": "dimanche",
+  "date": "2026-11-02",
+  "label": "lundi 2 novembre 2026",
+  "weekday": "lundi",
   "quote": {
-    "text": "On ne découvre pas de terres nouvelles sans consentir à perdre de vue, d'abord et longtemps, tout rivage.",
-    "author": "André Gide"
+    "text": "La meilleure façon de prédire l'avenir, c'est de l'inventer.",
+    "author": "Alan Kay"
   }
 }
